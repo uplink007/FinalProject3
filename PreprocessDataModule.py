@@ -93,7 +93,7 @@ class PreprocessClass(object):
         return result
 
     def preprocessing_data(self):
-        if self.train:
+        if not self.train:
             self.load_all()
             return
         for idx, sent in enumerate(self.instances):
