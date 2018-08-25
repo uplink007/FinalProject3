@@ -67,7 +67,7 @@ if __name__ == '__main__':
     # nnmodel.model = load_model(r'E:\FinalProject3\auto_de_only_wiki')
 
     # nnmodel.model.predict(unknown_class_sent)
-    # nlp.close()
+    nlp.close()
     train = True
     nnmodel = None
     if train:
@@ -84,7 +84,7 @@ if __name__ == '__main__':
             scores['Recall'] += r
             scores['F1'] += f1
 
-        #nnmodel.model.save("/home/ubuntu/auto_de_only_wiki")
+        nnmodel.model.save("/home/ubuntu/auto_de_only_wiki")
         print('Overall scores:')
         for n, sc in scores.items():
             print(n, '-> ', sc / 10 * 1.0)
