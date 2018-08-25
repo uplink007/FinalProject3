@@ -56,7 +56,7 @@ if __name__ == '__main__':
                                                                  preprocessData.classified_output,
                                                                  random_state=0)
     # 1 to save model 10 for statistic result
-    kfold = StratifiedKFold(n_splits=2, shuffle=True, random_state=42)
+    kfold = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
 
     scores = defaultdict(int)
     # test = "Let G be a group and H and K be subgroups of \
