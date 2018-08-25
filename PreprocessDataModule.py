@@ -204,10 +204,12 @@ class PreprocessClass(object):
             avg_sent_matrix.append(np.concatenate([avg, np.zeros(len(self.deps2ids) + 1)]))
             avg_label_sent_matrix.append(avg_label_vec)
         sent_wp = np.array(avg_sent_matrix)
+        sent_wp=np.array([sent_wp])
         sent_labs = np.array(avg_label_sent_matrix)
+        sent_labs = np.array([sent_labs])
 
         if self.depth == 'ml':
-            sent_X = np.concatenate([sent_matrix_X, sent_labs], axis=1)
+            sent_X = np.concatenate([sent_matrix_X,np.array sent_labs], axis=1)
         elif self.depth == 'm':
             sent_X = np.concatenate([sent_matrix_X, sent_wp], axis=1)
         else:
