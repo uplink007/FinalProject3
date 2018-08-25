@@ -58,7 +58,7 @@ if __name__ == '__main__':
     kfold = StratifiedKFold(n_splits=10,shuffle=True,random_state=42)
 
     scores=defaultdict(int)
-
+    nlp.close()
     for train,test in kfold.split(preprocessData.X,preprocessData.classified_output):
         nnmodel=DLClass()
         nnmodel.build_model(preprocessData.X[train],preprocessData.classified_output[train],"cblstm")

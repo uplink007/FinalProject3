@@ -10,7 +10,6 @@ class PreprocessClass(object):
         self.maxlen = 0
         self.instances = datasetObject.instances
         self.X = []
-        self.nlp = spacy.load('en_core_web_sm')
         self.my_vec_model = model
         self.classified_output = np.array(datasetObject.labels)
         self.deps2ids = {}
