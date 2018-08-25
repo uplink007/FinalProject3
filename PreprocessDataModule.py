@@ -28,7 +28,6 @@ class PreprocessClass(object):
             X_enriched = self.X
         self.X=X_enriched
 
-
     def getMaxLength(self):
         print('Getting maxlen')
         maxlen_dep = 0
