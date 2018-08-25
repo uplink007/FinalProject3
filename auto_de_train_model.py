@@ -55,24 +55,31 @@ if __name__ == '__main__':
     preprocessData.X,preprocessData.classified_output = shuffle(preprocessData.X,
                                                                 preprocessData.classified_output,
                                                                 random_state=0)
-    kfold = StratifiedKFold(n_splits=10,shuffle=True,random_state=42)
+    # 1 to save model 10 for statistic result
+    kfold = StratifiedKFold(n_splits=1,shuffle=True,random_state=42)
 
     scores=defaultdict(int)
     nlp.close()
-    for train,test in kfold.split(preprocessData.X,preprocessData.classified_output):
-        nnmodel=DLClass()
-        nnmodel.build_model(preprocessData.X[train],preprocessData.classified_output[train],"cblstm")
-        print('Predicting...')
-        preds=np.array([i[0] for i in nnmodel.model.predict_classes(preprocessData.X[test])])
-        p=precision(preds,preprocessData.classified_output[test])
-        r=recall(preds,preprocessData.classified_output[test])
-        f1=f1_score(preds,preprocessData.classified_output[test])
-        print('(Fold) Precision: ',p,' | Recall: ',r,' | F: ',f1)
-        scores['Precision']+=p
-        scores['Recall']+=r
-        scores['F1']+=f1
+    train = True
+    if train :
+        for train,test in kfold.split(preprocessData.X,preprocessData.classified_output):
+            nnmodel=DLClass()
+            nnmodel.build_model(preprocessData.X[train],preprocessData.classified_output[train],"cblstm")
+            print('Predicting...')
+            preds=np.array([i[0] for i in nnmodel.model.predict_classes(preprocessData.X[test])])
+            p=precision(preds,preprocessData.classified_output[test])
+            r=recall(preds,preprocessData.classified_output[test])
+            f1=f1_score(preds,preprocessData.classified_output[test])
+            print('(Fold) Precision: ',p,' | Recall: ',r,' | F: ',f1)
+            scores['Precision']+=p
+            scores['Recall']+=r
+            scores['F1']+=f1
+            nnmodel.model.save("/home/ubuntu/auto_de_only_wiki")
     
-    print('Overall scores:')
-    for n,sc in scores.items():
-        print(n,'-> ',sc/10*1.0)
+        print('Overall scores:')
+        for n,sc in scores.items():
+            print(n,'-> ',sc/10*1.0)
+    else:
+        nnmodel = DLClass()
+        nnmodel.model.load_model('/home/ubuntu/auto_de_only_wiki')
 
