@@ -158,7 +158,7 @@ class PreprocessClass(object):
         self.__set_depth()
         self.save_stats()
 
-    def preprocessed_one(self,sent,ids_len,max_length):
+    def preprocessed_one(self, sent):
         object_json_data = json.loads(self.nlp.annotate(sent, properties={'annotators': 'tokenize', 'outputFormat': 'json'}))
         tokens = [k['word'].lower() for k in object_json_data['tokens']]
         sent_matrix = []

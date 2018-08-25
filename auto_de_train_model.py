@@ -14,18 +14,21 @@ from word2vec_module import MyWord2vec
 from PreprocessDataModule import PreprocessClass
 from DLModule import DLClass
 
-def predict(sent):
-    unknown_class_sent = preprocessData.preprocessed_one(sent)
+
+def predict(preproc, sent, path):
+    unknown_class_sent = preproc.preprocessed_one(sent)
     nnmodel = DLClass()
-    nnmodel.model = load_model(r'E:\FinalProject3\auto_de_only_wiki')
+    nnmodel.model = load_model(path)
     return nnmodel.model.predict(unknown_class_sent)
 
-if __name__ == '__main__':
+
+def main():
     is_it_test = True
     train = False
     path_to_word_2_vec = ""
     path_to_data = ""
     path_to_nlp = ""
+    path_to_our_model=""
     if os.name == "nt":
         if is_it_test:
             path_to_word_2_vec = r"E:\FinalProject3\GoogleNews-vectors-negative300.bin"
@@ -33,6 +36,7 @@ if __name__ == '__main__':
             path_to_word_2_vec = r"E:\FinalProject3\wiki.en.vec"
         path_to_data = r"E:\FinalProject3\data"
         path_to_nlp = r'E:\FinalProject3\stanford-corenlp-full-2018-02-27'
+        path_to_our_model = r'E:\FinalProject3\auto_de_only_wiki'
     else:
         if is_it_test:
             path_to_word_2_vec = "/home/ubuntu/Projet/FinalProject3/GoogleNews-vectors-negative300.bin"
@@ -40,6 +44,7 @@ if __name__ == '__main__':
             path_to_word_2_vec = "/home/ubuntu/Projet/FinalProject3/wiki.en.vec"
         path_to_data = "/home/ubuntu/Projet/FinalProject3/data/"
         path_to_nlp = "/home/ubuntu/Projet/FinalProject3/stanford-corenlp-full-2018-02-27"
+        path_to_our_model = "/home/ubuntu/Projet/FinalProject3/auto_de_only_wiki"
 
     # for debug -->, quiet=False, logging_level=logging.DEBUG)
     nlp = StanfordCoreNLP(path_to_nlp)
@@ -60,8 +65,8 @@ if __name__ == '__main__':
     preprocessData.getMaxLength()
     preprocessData.preprocessing_data()
 
-    predict("A group is termed an ALMOST QUASISIMPLE GROUP if it has a " +
-            "self-centralizing normal subgroup that is a quasisimple group.")
+    predict(preprocessData, "A group is termed an ALMOST QUASISIMPLE GROUP if it has a " +
+                            "self-centralizing normal subgroup that is a quasisimple group.", path_to_our_model)
 
     if train:
         preprocessData.X, preprocessData.classified_output = shuffle(preprocessData.X,
@@ -96,6 +101,9 @@ if __name__ == '__main__':
     #     nnmodel.model = load_model(r'E:\FinalProject3\auto_de_only_wiki')
     #
     #     nnmodel.model.predict(unknown_class_sent)
+
+if __name__ == '__main__':
+    main()
 
 
 
