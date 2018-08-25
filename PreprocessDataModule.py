@@ -6,7 +6,8 @@ import pickle
 
 
 class PreprocessClass(object):
-    def __init__(self, datasetObject, model, nlp,depth):
+    def __init__(self, datasetObject, model, nlp,depth,train=True):
+        self.train = train
         self.depth = depth
         self.maxlen = 0
         self.instances = datasetObject.instances
@@ -20,7 +21,7 @@ class PreprocessClass(object):
         self.X_wordpairs = []
         self.X_deps = []
 
-    def set_depth(self):
+    def __set_depth(self):
         if self.depth == 'ml':
             X_enriched = np.concatenate([self.X, self.X_deps], axis=1)
         elif self.depth == 'm':
@@ -30,6 +31,8 @@ class PreprocessClass(object):
         self.X=X_enriched
 
     def getMaxLength(self):
+        if self.train:
+            return
         print('Getting maxlen')
         maxlen_dep = 0
         for idx, sent in enumerate(self.instances):
@@ -90,6 +93,9 @@ class PreprocessClass(object):
         return result
 
     def preprocessing_data(self):
+        if self.train:
+            self.load_all()
+            return
         for idx, sent in enumerate(self.instances):
             if idx % 100 == 0:
                 print('Done ', idx, ' of ', len(self.instances))
@@ -149,6 +155,8 @@ class PreprocessClass(object):
 
         self.X_wordpairs = np.array(self.X_wordpairs)
         self.X_deps = np.array(self.X_deps)
+        self.__set_depth()
+        self.save_stats()
 
     def preprocessed_one(self,sent,ids_len,max_length):
         object_json_data = json.loads(self.nlp.annotate(sent, properties={'annotators': 'tokenize', 'outputFormat': 'json'}))

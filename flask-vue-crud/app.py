@@ -12,12 +12,108 @@ def query_example():
 @app.route('/form-example', methods=['GET', 'POST']) #allow both GET and POST requests
 def form_example():
     if request.method == 'POST': #this block is only entered when the form is submitted
-        return request.form.get('language')
+        return '''<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
 
-    return '''<form method="POST">
-                  sentence:<br/> <textarea type="text" name="language" rows="10" cols="100"></textarea><br/>
-                  <input type="submit" value="Submit"><br>
-              </form>'''
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <h1>{}</h1>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>'''.format(request.form.get('language'))
+
+    return '''<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+        <style>
+        .btn {
+            padding: 14px 24px;
+            border: 0 none;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            width: 150px;
+            text-align: center;
+            margin:0 auto;
+        }
+         
+        .btn:focus, .btn:active:focus, .btn.active:focus {
+            outline: 0 none;
+        }
+         
+        .btn-primary {
+            background: #0099cc;
+            color: #ffffff;
+        }
+         
+        .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+            background: #33a6cc;
+        }
+         
+        .btn-primary:active, .btn-primary.active {
+            background: #007299;
+            box-shadow: none;
+        }
+        .shadow-textarea textarea.form-control::placeholder {
+            font-weight: 300;
+        }
+        .shadow-textarea textarea.form-control {
+            padding-left: 0.8rem;
+        }
+        h1{
+        text-align: center;
+        }
+    </style>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  <div class="container">
+  <div class="row clearfix">
+    <div class="col-md-8 col-md-offset-3 center-block">
+        <form method="POST">
+          <h1 class="font-italic " >sentence:</h1><br/> <textarea class="form-control" type="text" name="language" rows="10" cols="100"></textarea><br/>
+          <input class="btn btn-primary center-block" type="submit" value="Submit"><br>
+        </form>
+    </div>
+</div>
+</div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>'''
 
 
 @app.route('/json-example')

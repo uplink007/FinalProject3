@@ -14,8 +14,15 @@ from word2vec_module import MyWord2vec
 from PreprocessDataModule import PreprocessClass
 from DLModule import DLClass
 
+def predict(sent):
+    unknown_class_sent = preprocessData.preprocessed_one(sent)
+    nnmodel = DLClass()
+    nnmodel.model = load_model(r'E:\FinalProject3\auto_de_only_wiki')
+    return nnmodel.model.predict(unknown_class_sent)
+
 if __name__ == '__main__':
     is_it_test = True
+    train = False
     path_to_word_2_vec = ""
     path_to_data = ""
     path_to_nlp = ""
@@ -36,8 +43,11 @@ if __name__ == '__main__':
 
     # for debug -->, quiet=False, logging_level=logging.DEBUG)
     nlp = StanfordCoreNLP(path_to_nlp)
-    dataset = DataClass(path_to_data)
-    dataset.laod_data()
+    if train:
+        dataset = DataClass(path_to_data)
+        dataset.laod_data()
+    else:
+        dataset = DataClass(path_to_data)
     modelwords = MyWord2vec(path_to_word_2_vec)
     # ("/home/ubuntu/Project/FinalProject/", "wiki.en.vec")
     modelwords.load_embeddings()
@@ -46,30 +56,23 @@ if __name__ == '__main__':
     except:
         print('word2vec not configure')
 
-    preprocessData = PreprocessClass(dataset, modelwords, nlp, "ml")
+    preprocessData = PreprocessClass(dataset, modelwords, nlp, "ml",train)
     preprocessData.getMaxLength()
     preprocessData.preprocessing_data()
-    preprocessData.set_depth()
-    preprocessData.save_stats()
 
-    preprocessData.X, preprocessData.classified_output = shuffle(preprocessData.X,
-                                                                 preprocessData.classified_output,
-                                                                 random_state=0)
-    # 1 to save model 10 for statistic result
-    kfold = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
+    predict("A group is termed an ALMOST QUASISIMPLE GROUP if it has a " +
+            "self-centralizing normal subgroup that is a quasisimple group.")
 
-    scores = defaultdict(int)
-    # test = "Let G be a group and H and K be subgroups of \
-    #         G we say that H and K are COMPLETION-EQUIVALENT \
-    #         if for any subgroup U , HU = G ⇔ KU =G."
-    # unknown_class_sent = preprocessData.preprocessed_one(test)
-    # nnmodel = DLClass()
-    # nnmodel.model = load_model(r'E:\FinalProject3\auto_de_only_wiki')
+    if train:
+        preprocessData.X, preprocessData.classified_output = shuffle(preprocessData.X,
+                                                                     preprocessData.classified_output,
+                                                                     random_state=0)
+        # 1 to save model 10 for statistic result
+        kfold = StratifiedKFold(n_splits=10, shuffle=True, random_state=42)
 
-    # nnmodel.model.predict(unknown_class_sent)
+        scores = defaultdict(int)
     nlp.close()
-    train = True
-    nnmodel = None
+
     if train:
         for train, test in kfold.split(preprocessData.X, preprocessData.classified_output):
             nnmodel = DLClass()
@@ -93,3 +96,6 @@ if __name__ == '__main__':
     #     nnmodel.model = load_model(r'E:\FinalProject3\auto_de_only_wiki')
     #
     #     nnmodel.model.predict(unknown_class_sent)
+
+
+
