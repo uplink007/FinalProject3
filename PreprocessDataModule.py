@@ -205,7 +205,7 @@ class PreprocessClass(object):
             avg_label_sent_matrix.append(avg_label_vec)
         sent_wp = np.array(avg_sent_matrix)
         sent_wp=np.array([sent_wp])
-        sent_labs = np.array(avg_label_sent_matrix)
+        sent_labs = np.array([avg_label_sent_matrix])
         sent_labs = np.array([sent_labs])
 
         if self.depth == 'ml':
