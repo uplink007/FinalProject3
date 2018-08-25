@@ -2,6 +2,7 @@ import numpy as np
 import spacy
 import json
 from collections import namedtuple
+import pickle
 
 
 class PreprocessClass(object):
@@ -52,17 +53,29 @@ class PreprocessClass(object):
         self.maxlen = max(self.maxlen, maxlen_dep)
         self.ids2deps = dict([(idx, dep) for dep, idx in self.deps2ids.items()])
 
-    def pad_words(self, tokens, append_tuple=False):
-        if len(tokens) > self.maxlen:
-            return tokens[:self.maxlen]
+    def pad_words(self, tokens, append_tuple=False,predict=False):
+        if not predict:
+            if len(tokens) > self.maxlen:
+                return tokens[:self.maxlen]
+            else:
+                dif = self.maxlen-len(tokens)
+                for i in range(dif):
+                    if not append_tuple:
+                        tokens.append('UNK')
+                    else:
+                        tokens.append(('UNK', 'UNK'))
+                return tokens
         else:
-            dif = self.maxlen-len(tokens)
-            for i in range(dif):
-                if not append_tuple:
-                    tokens.append('UNK')
-                else:
-                    tokens.append(('UNK', 'UNK'))
-            return tokens
+            if len(tokens) > self.maxlen:
+                return tokens[:self.maxlen]
+            else:
+                dif = self.maxlen - len(tokens)
+                for i in range(dif):
+                    if not append_tuple:
+                        tokens.append('UNK')
+                    else:
+                        tokens.append(('UNK', 'UNK'))
+                return tokens
 
     @staticmethod
     def get_pair_words(json_object):
@@ -137,9 +150,8 @@ class PreprocessClass(object):
         self.X_wordpairs = np.array(self.X_wordpairs)
         self.X_deps = np.array(self.X_deps)
 
-    def preprocessed_one(self,sent):
-        object_json_data = json.loads(
-            self.nlp.annotate(sent, properties={'annotators': 'tokenize', 'outputFormat': 'json'}))
+    def preprocessed_one(self,sent,ids_len,max_length):
+        object_json_data = json.loads(self.nlp.annotate(sent, properties={'annotators': 'tokenize', 'outputFormat': 'json'}))
         tokens = [k['word'].lower() for k in object_json_data['tokens']]
         sent_matrix = []
         for token in self.pad_words(tokens):
@@ -151,6 +163,7 @@ class PreprocessClass(object):
                 sent_matrix.append(np.zeros(self.my_vec_model.dims + len(self.ids2deps) + 1))
         sent_matrix_X = np.array(sent_matrix)
 
+        object_json_data = json.loads(self.nlp.annotate(sent, properties={'annotators': 'depparse', 'outputFormat': 'json'}))
         tokens = PreprocessClass.get_pair_words(object_json_data)
         word_pairs = []
         dep_pairs = []
@@ -192,6 +205,27 @@ class PreprocessClass(object):
         else:
             sent_X = sent_matrix_X
         return sent_X
+
+    @staticmethod
+    def save_obj(obj, name):
+        with open('obj/' + name + '.pkl', 'wb') as f:
+            pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
+
+    @staticmethod
+    def load_obj(name):
+        with open('obj/' + name + '.pkl', 'rb') as f:
+            return pickle.load(f)
+
+    def save_stats(self):
+        self.save_obj(self.ids2deps,"ids2deps")
+        self.save_obj(self.deps2ids,"deps2ids")
+        self.save_obj(self.maxlen,"maxlen")
+
+    def load_all(self):
+        self.ids2deps = self.load_obj(self.ids2deps,"ids2deps")
+        self.deps2ids = self.load_obj(self.deps2ids,"deps2ids")
+        self.maxlen = self.load_obj(self.maxlen,"maxlen")
+
 
 
 

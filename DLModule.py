@@ -4,6 +4,7 @@ from keras.layers import Dense, Activation, Bidirectional, Dropout, Conv1D, MaxP
 
 
 
+
 class DLClass(object):
     """docstring for DLClass"""
     def __init__(self):
