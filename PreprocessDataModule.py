@@ -230,9 +230,9 @@ class PreprocessClass(object):
         self.save_obj(self.maxlen,"maxlen")
 
     def load_all(self):
-        self.ids2deps = self.load_obj(self.ids2deps,"ids2deps")
-        self.deps2ids = self.load_obj(self.deps2ids,"deps2ids")
-        self.maxlen = self.load_obj(self.maxlen,"maxlen")
+        self.ids2deps = self.load_obj("ids2deps")
+        self.deps2ids = self.load_obj("deps2ids")
+        self.maxlen = self.load_obj("maxlen")
 
 
 
