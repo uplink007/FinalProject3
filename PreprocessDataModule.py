@@ -209,7 +209,7 @@ class PreprocessClass(object):
         sent_labs = np.array([sent_labs])
 
         if self.depth == 'ml':
-            sent_X = np.concatenate([sent_matrix_X,np.array sent_labs], axis=1)
+            sent_X = np.concatenate([sent_matrix_X,sent_labs], axis=1)
         elif self.depth == 'm':
             sent_X = np.concatenate([sent_matrix_X, sent_wp], axis=1)
         else:
