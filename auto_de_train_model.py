@@ -65,8 +65,11 @@ def main():
     preprocessData.getMaxLength()
     preprocessData.preprocessing_data()
 
-    predict(preprocessData, "A group is termed an ALMOST QUASISIMPLE GROUP if it has a " +
-                            "self-centralizing normal subgroup that is a quasisimple group.", path_to_our_model)
+    if not train:
+        return {"preproc": preprocessData,"path": path_to_our_model}
+
+    predict(preprocessData, "A wiki is a Web site that allows users to add and update content"
+                            " on the site using their own Web browser.", path_to_our_model)
 
     if train:
         preprocessData.X, preprocessData.classified_output = shuffle(preprocessData.X,

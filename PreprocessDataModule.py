@@ -169,7 +169,7 @@ class PreprocessClass(object):
                 sent_matrix.append(vec)
             else:
                 sent_matrix.append(np.zeros(self.my_vec_model.dims + len(self.ids2deps) + 1))
-        sent_matrix_X = np.array(sent_matrix)
+        sent_matrix_X = np.array([sent_matrix])
 
         object_json_data = json.loads(self.nlp.annotate(sent, properties={'annotators': 'depparse', 'outputFormat': 'json'}))
         tokens = PreprocessClass.get_pair_words(object_json_data)
@@ -205,6 +205,8 @@ class PreprocessClass(object):
             avg_label_sent_matrix.append(avg_label_vec)
         sent_wp = np.array([avg_sent_matrix])
         sent_labs = np.array([avg_label_sent_matrix])
+        print(sent_wp.shape)
+        print(sent_labs)
 
         if self.depth == 'ml':
             sent_X = np.concatenate([sent_matrix_X,sent_labs], axis=1)

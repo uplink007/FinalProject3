@@ -1,4 +1,5 @@
 from flask import Flask, request #import main Flask class and request object
+from auto_de_train_model import predict,main
 
 app = Flask(__name__) #create the Flask app
 
@@ -12,6 +13,11 @@ def query_example():
 @app.route('/form-example', methods=['GET', 'POST']) #allow both GET and POST requests
 def form_example():
     if request.method == 'POST': #this block is only entered when the form is submitted
+        pred = predict(parms['preproc'], request.form.get('language'), parms['path'])
+        if pred.__float__() >0.5:
+            msg = "Sorry, but this sentence is not a definition"
+        else:
+            msg = "We think this may be a definition"
         return '''<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -38,7 +44,7 @@ def form_example():
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-</html>'''.format(request.form.get('language'))
+</html>'''.format(msg)
 
     return '''<!DOCTYPE html>
 <html lang="en">
@@ -122,4 +128,5 @@ def json_example():
 
 
 if __name__ == '__main__':
+    parms = main()
     app.run(debug=True, port=5000)
