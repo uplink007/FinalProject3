@@ -30,11 +30,11 @@ if __name__ == '__main__':
         path_to_nlp = r'E:\FinalProject3\stanford-corenlp-full-2018-02-27'
     else:
         if is_it_test :
-            path_to_word_2_vec = "/home/ubuntu/Projet/GoogleNews-vectors-negative300.bin"
+            path_to_word_2_vec = "/home/ubuntu/Projet/FinalProject3/GoogleNews-vectors-negative300.bin"
         else:
-            path_to_word_2_vec = "/home/ubuntu/Projet/FinalProject/wiki.en.vec"
-        path_to_data = "/home/ubuntu/Projet/FinalProject/data/"
-        path_to_nlp = "/home/ubuntu/Projet/FinalProject/stanford-corenlp-full-2018-02-27"
+            path_to_word_2_vec = "/home/ubuntu/Projet/FinalProject3/wiki.en.vec"
+        path_to_data = "/home/ubuntu/Projet/FinalProject3/data/"
+        path_to_nlp = "/home/ubuntu/Projet/FinalProject3/stanford-corenlp-full-2018-02-27"
 
     nlp = StanfordCoreNLP(path_to_nlp)
     dataset = DataClass(path_to_data)
