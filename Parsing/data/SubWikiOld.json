@@ -1,0 +1,3794 @@
+{
+    "(2,3,7)-triangle group": {
+        "printouts": [],
+        "fulltext": "(2,3,7)-triangle group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/(2,3,7)-triangle_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "(2,3,7)-von Dyck group": {
+        "printouts": [],
+        "fulltext": "(2,3,7)-von Dyck group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/(2,3,7)-von_Dyck_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "1-automorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "1-automorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/1-automorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "1-completed subgroup": {
+        "printouts": [],
+        "fulltext": "1-completed subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/1-completed_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "1-endomorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "1-endomorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/1-endomorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "1-isomorphic groups": {
+        "printouts": [],
+        "fulltext": "1-isomorphic groups",
+        "fullurl": "https://groupprops.subwiki.org/wiki/1-isomorphic_groups",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-divisible group": {
+        "printouts": [],
+        "fulltext": "2-divisible group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-divisible_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-generated group": {
+        "printouts": [],
+        "fulltext": "2-generated group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-generated_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-hypernormalized subgroup": {
+        "printouts": [],
+        "fulltext": "2-hypernormalized subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-hypernormalized_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-locally finite group": {
+        "printouts": [],
+        "fulltext": "2-locally finite group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-locally_finite_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-powered group": {
+        "printouts": [],
+        "fulltext": "2-powered group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-powered_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-sub-ideal of a Lie ring": {
+        "printouts": [],
+        "fulltext": "2-sub-ideal of a Lie ring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-sub-ideal_of_a_Lie_ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "2-subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "2-torsion-free group": {
+        "printouts": [],
+        "fulltext": "2-torsion-free group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/2-torsion-free_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "3-Engel group": {
+        "printouts": [],
+        "fulltext": "3-Engel group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/3-Engel_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "3-abelian group": {
+        "printouts": [],
+        "fulltext": "3-abelian group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/3-abelian_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "3-locally nilpotent group": {
+        "printouts": [],
+        "fulltext": "3-locally nilpotent group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/3-locally_nilpotent_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "3-step group for a prime": {
+        "printouts": [],
+        "fulltext": "3-step group for a prime",
+        "fullurl": "https://groupprops.subwiki.org/wiki/3-step_group_for_a_prime",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "3-transposition group": {
+        "printouts": [],
+        "fulltext": "3-transposition group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/3-transposition_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "4-subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "4-subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/4-subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "A-group": {
+        "printouts": [],
+        "fulltext": "A-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/A-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "ACU-closed group property": {
+        "printouts": [],
+        "fulltext": "ACU-closed group property",
+        "fullurl": "https://groupprops.subwiki.org/wiki/ACU-closed_group_property",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "ACU-closed subgroup property": {
+        "printouts": [],
+        "fulltext": "ACU-closed subgroup property",
+        "fullurl": "https://groupprops.subwiki.org/wiki/ACU-closed_subgroup_property",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "AEP-subgroup": {
+        "printouts": [],
+        "fulltext": "AEP-subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/AEP-subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "APS homomorphism": {
+        "printouts": [],
+        "fulltext": "APS homomorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/APS_homomorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "APS of groups": {
+        "printouts": [],
+        "fulltext": "APS of groups",
+        "fullurl": "https://groupprops.subwiki.org/wiki/APS_of_groups",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian direct factor": {
+        "printouts": [],
+        "fulltext": "Abelian direct factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_direct_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian group": {
+        "printouts": [],
+        "fulltext": "Abelian group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian hereditarily normal subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian hereditarily normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_hereditarily_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian normal subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian normal subgroup of maximum order": {
+        "printouts": [],
+        "fulltext": "Abelian normal subgroup of maximum order",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_normal_subgroup_of_maximum_order",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian subgroup of maximum order": {
+        "printouts": [],
+        "fulltext": "Abelian subgroup of maximum order",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_subgroup_of_maximum_order",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian subgroup of maximum order which is normal": {
+        "printouts": [],
+        "fulltext": "Abelian subgroup of maximum order which is normal",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_subgroup_of_maximum_order_which_is_normal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian subgroup of maximum rank": {
+        "printouts": [],
+        "fulltext": "Abelian subgroup of maximum rank",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian_subgroup_of_maximum_rank",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-completed subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian-completed subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-completed_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-extensible automorphism": {
+        "printouts": [],
+        "fulltext": "Abelian-extensible automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-extensible_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-extensible automorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian-extensible automorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-extensible_automorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-extensible endomorphism": {
+        "printouts": [],
+        "fulltext": "Abelian-extensible endomorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-extensible_endomorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-extensible endomorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian-extensible endomorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-extensible_endomorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-potentially characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian-potentially characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-potentially_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-potentially verbal subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian-potentially verbal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-potentially_verbal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abelian-quotient-pullbackable automorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Abelian-quotient-pullbackable automorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abelian-quotient-pullbackable_automorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Abnormal subgroup": {
+        "printouts": [],
+        "fulltext": "Abnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Abnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Absolutely normal subgroup": {
+        "printouts": [],
+        "fulltext": "Absolutely normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Absolutely_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Absolutely regular p-group": {
+        "printouts": [],
+        "fulltext": "Absolutely regular p-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Absolutely_regular_p-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Absolutely simple group": {
+        "printouts": [],
+        "fulltext": "Absolutely simple group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Absolutely_simple_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Action-isomorph-free subgroup": {
+        "printouts": [],
+        "fulltext": "Action-isomorph-free subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Action-isomorph-free_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Algebra group": {
+        "printouts": [],
+        "fulltext": "Algebra group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Algebra_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Algebraic automorphism": {
+        "printouts": [],
+        "fulltext": "Algebraic automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Algebraic_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Algebraic subgroup": {
+        "printouts": [],
+        "fulltext": "Algebraic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Algebraic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Algebraically closed group": {
+        "printouts": [],
+        "fulltext": "Algebraically closed group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Algebraically_closed_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Almost normal subgroup": {
+        "printouts": [],
+        "fulltext": "Almost normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Almost_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Almost quasisimple group": {
+        "printouts": [],
+        "fulltext": "Almost quasisimple group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Almost_quasisimple_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Almost simple group": {
+        "printouts": [],
+        "fulltext": "Almost simple group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Almost_simple_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Almost subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "Almost subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Almost_subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Amalgam-characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Amalgam-characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Amalgam-characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Amalgam-normal-subhomomorph-containing subgroup": {
+        "printouts": [],
+        "fulltext": "Amalgam-normal-subhomomorph-containing subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Amalgam-normal-subhomomorph-containing_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Amalgam-strictly characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Amalgam-strictly characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Amalgam-strictly_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Amalgamated free factor": {
+        "printouts": [],
+        "fulltext": "Amalgamated free factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Amalgamated_free_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Amalgamated free product of Z and Z over 2Z": {
+        "printouts": [],
+        "fulltext": "Amalgamated free product of Z and Z over 2Z",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Amalgamated_free_product_of_Z_and_Z_over_2Z",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Amalgamated free product of two copies of group of rational numbers over group of integers": {
+        "printouts": [],
+        "fulltext": "Amalgamated free product of two copies of group of rational numbers over group of integers",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Amalgamated_free_product_of_two_copies_of_group_of_rational_numbers_over_group_of_integers",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Ambivalent group": {
+        "printouts": [],
+        "fulltext": "Ambivalent group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Ambivalent_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Amenable discrete group": {
+        "printouts": [],
+        "fulltext": "Amenable discrete group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Amenable_discrete_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Approximate normalizer": {
+        "printouts": [],
+        "fulltext": "Approximate normalizer",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Approximate_normalizer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Artinian group": {
+        "printouts": [],
+        "fulltext": "Artinian group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Artinian_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Ascendant subgroup": {
+        "printouts": [],
+        "fulltext": "Ascendant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Ascendant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Associated direct sum of a subnormal series": {
+        "printouts": [],
+        "fulltext": "Associated direct sum of a subnormal series",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Associated_direct_sum_of_a_subnormal_series",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Asymptotically fixed-depth join-transitively subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "Asymptotically fixed-depth join-transitively subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Asymptotically_fixed-depth_join-transitively_subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Auto-invariance property": {
+        "printouts": [],
+        "fulltext": "Auto-invariance property",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Auto-invariance_property",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Autoclinism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Autoclinism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Autoclinism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automatic group": {
+        "printouts": [],
+        "fulltext": "Automatic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automatic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorph-commensurable subgroup": {
+        "printouts": [],
+        "fulltext": "Automorph-commensurable subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorph-commensurable_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorph-conjugate subgroup": {
+        "printouts": [],
+        "fulltext": "Automorph-conjugate subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorph-conjugate_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorph-dominating subgroup": {
+        "printouts": [],
+        "fulltext": "Automorph-dominating subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorph-dominating_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorph-join-closed subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "Automorph-join-closed subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorph-join-closed_subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorph-permutable subgroup": {
+        "printouts": [],
+        "fulltext": "Automorph-permutable subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorph-permutable_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphic subgroups": {
+        "printouts": [],
+        "fulltext": "Automorphic subgroups",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphic_subgroups",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphically endomorph-dominating subgroup": {
+        "printouts": [],
+        "fulltext": "Automorphically endomorph-dominating subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphically_endomorph-dominating_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism group of a group": {
+        "printouts": [],
+        "fulltext": "Automorphism group of a group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism_group_of_a_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism group of alternating group:A6": {
+        "printouts": [],
+        "fulltext": "Automorphism group of alternating group:A6",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism_group_of_alternating_group:A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism group of free group:F2": {
+        "printouts": [],
+        "fulltext": "Automorphism group of free group:F2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism_group_of_free_group:F2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism of a group": {
+        "printouts": [],
+        "fulltext": "Automorphism of a group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism_of_a_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism that preserves conjugacy classes for a generating set": {
+        "printouts": [],
+        "fulltext": "Automorphism that preserves conjugacy classes for a generating set",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism_that_preserves_conjugacy_classes_for_a_generating_set",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism-faithful AEP-subgroup": {
+        "printouts": [],
+        "fulltext": "Automorphism-faithful AEP-subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism-faithful_AEP-subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism-faithful normal subgroup": {
+        "printouts": [],
+        "fulltext": "Automorphism-faithful normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism-faithful_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Automorphism-faithful subgroup": {
+        "printouts": [],
+        "fulltext": "Automorphism-faithful subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Automorphism-faithful_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "BFC-group": {
+        "printouts": [],
+        "fulltext": "BFC-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/BFC-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "BN-pair": {
+        "printouts": [],
+        "fulltext": "BN-pair",
+        "fullurl": "https://groupprops.subwiki.org/wiki/BN-pair",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baby monster group": {
+        "printouts": [],
+        "fulltext": "Baby monster group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baby_monster_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer Lie group": {
+        "printouts": [],
+        "fulltext": "Baer Lie group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer_Lie_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer Lie ring": {
+        "printouts": [],
+        "fulltext": "Baer Lie ring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer_Lie_ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer Malcev ring": {
+        "printouts": [],
+        "fulltext": "Baer Malcev ring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer_Malcev_ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer alternating loop ring": {
+        "printouts": [],
+        "fulltext": "Baer alternating loop ring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer_alternating_loop_ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer diassociative loop": {
+        "printouts": [],
+        "fulltext": "Baer diassociative loop",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer_diassociative_loop",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer group": {
+        "printouts": [],
+        "fulltext": "Baer group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer norm": {
+        "printouts": [],
+        "fulltext": "Baer norm",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer_norm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baer-Specker group": {
+        "printouts": [],
+        "fulltext": "Baer-Specker group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baer-Specker_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Balanced group": {
+        "printouts": [],
+        "fulltext": "Balanced group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Balanced_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Balanced subgroup property (function restriction formalism)": {
+        "printouts": [],
+        "fulltext": "Balanced subgroup property (function restriction formalism)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Balanced_subgroup_property_(function_restriction_formalism)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Balanced subgroup property (generic notion)": {
+        "printouts": [],
+        "fulltext": "Balanced subgroup property (generic notion)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Balanced_subgroup_property_(generic_notion)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Base diagonal of a wreath product": {
+        "printouts": [],
+        "fulltext": "Base diagonal of a wreath product",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Base_diagonal_of_a_wreath_product",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Base of a wreath product": {
+        "printouts": [],
+        "fulltext": "Base of a wreath product",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Base_of_a_wreath_product",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Base of a wreath product with diagonal action": {
+        "printouts": [],
+        "fulltext": "Base of a wreath product with diagonal action",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Base_of_a_wreath_product_with_diagonal_action",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Basic Lie product": {
+        "printouts": [],
+        "fulltext": "Basic Lie product",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Basic_Lie_product",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Baumslag-Solitar group:BS(1,2)": {
+        "printouts": [],
+        "fulltext": "Baumslag-Solitar group:BS(1,2)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Baumslag-Solitar_group:BS(1,2)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Biautomatic group": {
+        "printouts": [],
+        "fulltext": "Biautomatic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Biautomatic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Binary octahedral group": {
+        "printouts": [],
+        "fulltext": "Binary octahedral group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Binary_octahedral_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Binate group": {
+        "printouts": [],
+        "fulltext": "Binate group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Binate_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Binilpotency": {
+        "printouts": [],
+        "fulltext": "Binilpotency",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Binilpotency",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Bound-word subgroup": {
+        "printouts": [],
+        "fulltext": "Bound-word subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Bound-word_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Bounded Engel group": {
+        "printouts": [],
+        "fulltext": "Bounded Engel group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Bounded_Engel_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Bounded-solvable IAPS": {
+        "printouts": [],
+        "fulltext": "Bounded-solvable IAPS",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Bounded-solvable_IAPS",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Burnside group": {
+        "printouts": [],
+        "fulltext": "Burnside group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Burnside_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Burnside group:B(2,4)": {
+        "printouts": [],
+        "fulltext": "Burnside group:B(2,4)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Burnside_group:B(2,4)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Burnside group:B(2,6)": {
+        "printouts": [],
+        "fulltext": "Burnside group:B(2,6)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Burnside_group:B(2,6)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Burnside group:B(4,3)": {
+        "printouts": [],
+        "fulltext": "Burnside group:B(4,3)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Burnside_group:B(4,3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "C-closed normal subgroup": {
+        "printouts": [],
+        "fulltext": "C-closed normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/C-closed_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "C-closed self-centralizing subgroup": {
+        "printouts": [],
+        "fulltext": "C-closed self-centralizing subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/C-closed_self-centralizing_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "C-closed subgroup": {
+        "printouts": [],
+        "fulltext": "C-closed subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/C-closed_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "C-group": {
+        "printouts": [],
+        "fulltext": "C-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/C-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "C-normal subgroup": {
+        "printouts": [],
+        "fulltext": "C-normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/C-normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "C-subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "C-subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/C-subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "C1-group": {
+        "printouts": [],
+        "fulltext": "C1-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/C1-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CA-group": {
+        "printouts": [],
+        "fulltext": "CA-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CA-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CCP-group": {
+        "printouts": [],
+        "fulltext": "CCP-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CCP-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CDIN-subgroup": {
+        "printouts": [],
+        "fulltext": "CDIN-subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CDIN-subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CEP-subgroup": {
+        "printouts": [],
+        "fulltext": "CEP-subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CEP-subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CIA-group": {
+        "printouts": [],
+        "fulltext": "CIA-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CIA-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CN-group": {
+        "printouts": [],
+        "fulltext": "CN-group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CN-group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CS-Baer Lie group": {
+        "printouts": [],
+        "fulltext": "CS-Baer Lie group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CS-Baer_Lie_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CS-extensible automorphism": {
+        "printouts": [],
+        "fulltext": "CS-extensible automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CS-extensible_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CS-pushforwardable automorphism": {
+        "printouts": [],
+        "fulltext": "CS-pushforwardable automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CS-pushforwardable_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "CSCFN-realizable group": {
+        "printouts": [],
+        "fulltext": "CSCFN-realizable group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/CSCFN-realizable_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Camina group": {
+        "printouts": [],
+        "fulltext": "Camina group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Camina_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Canonically Lazard-dividable Lie ring": {
+        "printouts": [],
+        "fulltext": "Canonically Lazard-dividable Lie ring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Canonically_Lazard-dividable_Lie_ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Canonically Lazard-divided Lie ring": {
+        "printouts": [],
+        "fulltext": "Canonically Lazard-divided Lie ring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Canonically_Lazard-divided_Lie_ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Capable group": {
+        "printouts": [],
+        "fulltext": "Capable group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Capable_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Carter subgroup": {
+        "printouts": [],
+        "fulltext": "Carter subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Carter_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Center": {
+        "printouts": [],
+        "fulltext": "Center",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Center",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Center of pronormal subgroup": {
+        "printouts": [],
+        "fulltext": "Center of pronormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Center_of_pronormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Center-fixing automorphism": {
+        "printouts": [],
+        "fulltext": "Center-fixing automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Center-fixing_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Center-fixing automorphism-balanced subgroup": {
+        "printouts": [],
+        "fulltext": "Center-fixing automorphism-balanced subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Center-fixing_automorphism-balanced_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Center-fixing automorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Center-fixing automorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Center-fixing_automorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centerless group": {
+        "printouts": [],
+        "fulltext": "Centerless group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centerless_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centerless group that is upward-closed normal in its automorphism group": {
+        "printouts": [],
+        "fulltext": "Centerless group that is upward-closed normal in its automorphism group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centerless_group_that_is_upward-closed_normal_in_its_automorphism_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central factor": {
+        "printouts": [],
+        "fulltext": "Central factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central factor of normalizer": {
+        "printouts": [],
+        "fulltext": "Central factor of normalizer",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_of_normalizer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central factor-extensible automorphism": {
+        "printouts": [],
+        "fulltext": "Central factor-extensible automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_factor-extensible_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central functor": {
+        "printouts": [],
+        "fulltext": "Central functor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_functor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of D16 and Z4": {
+        "printouts": [],
+        "fulltext": "Central product of D16 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_D16_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of D8 and Q8": {
+        "printouts": [],
+        "fulltext": "Central product of D8 and Q8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_D8_and_Q8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of D8 and Z12": {
+        "printouts": [],
+        "fulltext": "Central product of D8 and Z12",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_D8_and_Z12",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of D8 and Z16": {
+        "printouts": [],
+        "fulltext": "Central product of D8 and Z16",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_D8_and_Z16",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of D8 and Z4": {
+        "printouts": [],
+        "fulltext": "Central product of D8 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_D8_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of D8 and Z8": {
+        "printouts": [],
+        "fulltext": "Central product of D8 and Z8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_D8_and_Z8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of M16 and Z8 over common Z2": {
+        "printouts": [],
+        "fulltext": "Central product of M16 and Z8 over common Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_M16_and_Z8_over_common_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of SL(2,3) and Z4": {
+        "printouts": [],
+        "fulltext": "Central product of SL(2,3) and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_SL(2,3)_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of SL(2,5) and SL(2,7)": {
+        "printouts": [],
+        "fulltext": "Central product of SL(2,5) and SL(2,7)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_SL(2,5)_and_SL(2,7)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of SL(2,5) and Z4": {
+        "printouts": [],
+        "fulltext": "Central product of SL(2,5) and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_SL(2,5)_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of UT(3,3) and Z9": {
+        "printouts": [],
+        "fulltext": "Central product of UT(3,3) and Z9",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_UT(3,3)_and_Z9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of UT(3,Z) and Q": {
+        "printouts": [],
+        "fulltext": "Central product of UT(3,Z) and Q",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_UT(3,Z)_and_Q",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of UT(3,Z) and Z identifying center with 2Z": {
+        "printouts": [],
+        "fulltext": "Central product of UT(3,Z) and Z identifying center with 2Z",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_UT(3,Z)_and_Z_identifying_center_with_2Z",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central product of Z9 and wreath product of Z3 and Z3": {
+        "printouts": [],
+        "fulltext": "Central product of Z9 and wreath product of Z3 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_product_of_Z9_and_wreath_product_of_Z3_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Central subgroup": {
+        "printouts": [],
+        "fulltext": "Central subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Central_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centralizer of involution": {
+        "printouts": [],
+        "fulltext": "Centralizer of involution",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centralizer_of_involution",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centralizer-annihilating endomorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Centralizer-annihilating endomorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-annihilating_endomorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centralizer-connected group": {
+        "printouts": [],
+        "fulltext": "Centralizer-connected group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-connected_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centralizer-dense subgroup": {
+        "printouts": [],
+        "fulltext": "Centralizer-dense subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-dense_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centralizer-free normal subgroup": {
+        "printouts": [],
+        "fulltext": "Centralizer-free normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-free_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centralizer-free subgroup": {
+        "printouts": [],
+        "fulltext": "Centralizer-free subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-free_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centrally closed subgroup": {
+        "printouts": [],
+        "fulltext": "Centrally closed subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centrally_closed_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centrally indecomposable group": {
+        "printouts": [],
+        "fulltext": "Centrally indecomposable group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centrally_indecomposable_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Centrally large subgroup": {
+        "printouts": [],
+        "fulltext": "Centrally large subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Centrally_large_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Chain-extensible automorphism": {
+        "printouts": [],
+        "fulltext": "Chain-extensible automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Chain-extensible_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Character-conjugate conjugacy classes": {
+        "printouts": [],
+        "fulltext": "Character-conjugate conjugacy classes",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Character-conjugate_conjugacy_classes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic AEP-subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristic AEP-subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_AEP-subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic central factor": {
+        "printouts": [],
+        "fulltext": "Characteristic central factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_central_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic central subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristic central subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_central_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic closure": {
+        "printouts": [],
+        "fulltext": "Characteristic closure",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_closure",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic core": {
+        "printouts": [],
+        "fulltext": "Characteristic core",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_core",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic core of subgroup of finite index": {
+        "printouts": [],
+        "fulltext": "Characteristic core of subgroup of finite index",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_core_of_subgroup_of_finite_index",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic direct factor": {
+        "printouts": [],
+        "fulltext": "Characteristic direct factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_direct_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic maximal subgroup of group of prime power order": {
+        "printouts": [],
+        "fulltext": "Characteristic maximal subgroup of group of prime power order",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_maximal_subgroup_of_group_of_prime_power_order",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic subgroup of center": {
+        "printouts": [],
+        "fulltext": "Characteristic subgroup of center",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_center",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic subgroup of direct factor": {
+        "printouts": [],
+        "fulltext": "Characteristic subgroup of direct factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_direct_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic subgroup of finite index": {
+        "printouts": [],
+        "fulltext": "Characteristic subgroup of finite index",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_finite_index",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic subgroup-closed group property": {
+        "printouts": [],
+        "fulltext": "Characteristic subgroup-closed group property",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup-closed_group_property",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic transitively normal subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristic transitively normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_transitively_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic-extensible automorphism": {
+        "printouts": [],
+        "fulltext": "Characteristic-extensible automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic-extensible_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic-isomorph-free subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristic-isomorph-free subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic-isomorph-free_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic-potentially characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristic-potentially characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic-potentially_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristic-semidirectly extensible automorphism": {
+        "printouts": [],
+        "fulltext": "Characteristic-semidirectly extensible automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristic-semidirectly_extensible_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically DP-decomposable subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristically DP-decomposable subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_DP-decomposable_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically Hopfian group": {
+        "printouts": [],
+        "fulltext": "Characteristically Hopfian group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_Hopfian_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically complemented characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristically complemented characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_complemented_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically complemented normal subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristically complemented normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_complemented_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically complemented subgroup": {
+        "printouts": [],
+        "fulltext": "Characteristically complemented subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_complemented_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically metacyclic group": {
+        "printouts": [],
+        "fulltext": "Characteristically metacyclic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_metacyclic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically metacylic group": {
+        "printouts": [],
+        "fulltext": "Characteristically metacylic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_metacylic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Characteristically polycyclic group": {
+        "printouts": [],
+        "fulltext": "Characteristically polycyclic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_polycyclic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Chevalley group of type B:B3(3)": {
+        "printouts": [],
+        "fulltext": "Chevalley group of type B:B3(3)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Chevalley_group_of_type_B:B3(3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Circle group": {
+        "printouts": [],
+        "fulltext": "Circle group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Circle_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Class two Lie cring": {
+        "printouts": [],
+        "fulltext": "Class two Lie cring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Class_two_Lie_cring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Class two near-Lie cring": {
+        "printouts": [],
+        "fulltext": "Class two near-Lie cring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Class_two_near-Lie_cring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Class-inverting automorphism": {
+        "printouts": [],
+        "fulltext": "Class-inverting automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Class-inverting_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Class-preserving automorphism": {
+        "printouts": [],
+        "fulltext": "Class-preserving automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Class-preserving_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Class-separating field": {
+        "printouts": [],
+        "fulltext": "Class-separating field",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Class-separating_field",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Closure-characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Closure-characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Closure-characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cocentral subgroup": {
+        "printouts": [],
+        "fulltext": "Cocentral subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cocentral_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cocentral subgroup of normalizer": {
+        "printouts": [],
+        "fulltext": "Cocentral subgroup of normalizer",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cocentral_subgroup_of_normalizer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cofactorial automorphism": {
+        "printouts": [],
+        "fulltext": "Cofactorial automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cofactorial_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cofactorial automorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Cofactorial automorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cofactorial_automorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Collection of groups satisfying a property-conditional congruence condition": {
+        "printouts": [],
+        "fulltext": "Collection of groups satisfying a property-conditional congruence condition",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Collection_of_groups_satisfying_a_property-conditional_congruence_condition",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Collection of groups satisfying a universal congruence condition": {
+        "printouts": [],
+        "fulltext": "Collection of groups satisfying a universal congruence condition",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Collection_of_groups_satisfying_a_universal_congruence_condition",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Collection of groups satisfying a universal non-divisibility condition": {
+            "printouts": [],
+            "fulltext": "Collection of groups satisfying a universal non-divisibility condition",
+            "fullurl": "https://groupprops.subwiki.org/wiki/Collection_of_groups_satisfying_a_universal_non-divisibility_condition",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": ""
+        },
+    "Commutative binary operation": {
+        "printouts": [],
+        "fulltext": "Commutative binary operation",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Commutative_binary_operation",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Commutator of a normal subgroup and a subset": {
+        "printouts": [],
+        "fulltext": "Commutator of a normal subgroup and a subset",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Commutator_of_a_normal_subgroup_and_a_subset",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Commutator-closed subgroup property": {
+        "printouts": [],
+        "fulltext": "Commutator-closed subgroup property",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Commutator-closed_subgroup_property",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Commutator-in-center subgroup": {
+        "printouts": [],
+        "fulltext": "Commutator-in-center subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Commutator-in-center_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Commutator-in-centralizer subgroup": {
+        "printouts": [],
+        "fulltext": "Commutator-in-centralizer subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Commutator-in-centralizer_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Commutator-realizable group": {
+        "printouts": [],
+        "fulltext": "Commutator-realizable group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Commutator-realizable_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Commutator-verbal subgroup": {
+        "printouts": [],
+        "fulltext": "Commutator-verbal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Commutator-verbal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complemented central factor": {
+        "printouts": [],
+        "fulltext": "Complemented central factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complemented_central_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complemented characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Complemented characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complemented_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complemented fully invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Complemented fully invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complemented_fully_invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complemented homomorph-containing subgroup": {
+        "printouts": [],
+        "fulltext": "Complemented homomorph-containing subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complemented_homomorph-containing_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complemented isomorph-containing subgroup": {
+        "printouts": [],
+        "fulltext": "Complemented isomorph-containing subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complemented_isomorph-containing_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complemented normal subgroup": {
+        "printouts": [],
+        "fulltext": "Complemented normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complemented_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complemented transitively normal subgroup": {
+        "printouts": [],
+        "fulltext": "Complemented transitively normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complemented_transitively_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complete group": {
+        "printouts": [],
+        "fulltext": "Complete group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complete_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Complete map": {
+        "printouts": [],
+        "fulltext": "Complete map",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Complete_map",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Completely divisibility-closed normal subgroup": {
+        "printouts": [],
+        "fulltext": "Completely divisibility-closed normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Completely_divisibility-closed_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Completely divisibility-closed subgroup": {
+        "printouts": [],
+        "fulltext": "Completely divisibility-closed subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Completely_divisibility-closed_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Completion-equivalent subgroups": {
+        "printouts": [],
+        "fulltext": "Completion-equivalent subgroups",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Completion-equivalent_subgroups",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Composition factor-permutable group": {
+        "printouts": [],
+        "fulltext": "Composition factor-permutable group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Composition_factor-permutable_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Composition factor-unique group": {
+        "printouts": [],
+        "fulltext": "Composition factor-unique group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Composition_factor-unique_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Composition operator": {
+        "printouts": [],
+        "fulltext": "Composition operator",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Composition_operator",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Composition series-unique group": {
+        "printouts": [],
+        "fulltext": "Composition series-unique group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Composition_series-unique_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Composition subgroup": {
+        "printouts": [],
+        "fulltext": "Composition subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Composition_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Compressed subgroup": {
+        "printouts": [],
+        "fulltext": "Compressed subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Compressed_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Con-Cos group": {
+        "printouts": [],
+        "fulltext": "Con-Cos group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Con-Cos_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Congruence on a group": {
+        "printouts": [],
+        "fulltext": "Congruence on a group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Congruence_on_a_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy class": {
+        "printouts": [],
+        "fulltext": "Conjugacy class",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy_class",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy functor": {
+        "printouts": [],
+        "fulltext": "Conjugacy functor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy_functor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy-closed Hall subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugacy-closed Hall subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_Hall_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy-closed characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugacy-closed characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy-closed normal subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugacy-closed normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy-closed subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugacy-closed subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy-determined subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugacy-determined subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-determined_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugacy-separable group": {
+        "printouts": [],
+        "fulltext": "Conjugacy-separable group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-separable_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugate-commensurable subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugate-commensurable subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-commensurable_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugate-comparable subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugate-comparable subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-comparable_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugate-dense subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugate-dense subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-dense_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugate-join-closed subgroup property": {
+        "printouts": [],
+        "fulltext": "Conjugate-join-closed subgroup property",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-join-closed_subgroup_property",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugate-join-closed subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugate-join-closed subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-join-closed_subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugate-large subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugate-large subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-large_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugate-permutable subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugate-permutable subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-permutable_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugation-invariantly embedded normal subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugation-invariantly embedded normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugation-invariantly_embedded_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugation-invariantly embedded subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugation-invariantly embedded subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugation-invariantly_embedded_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugation-invariantly permutably complemented subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugation-invariantly permutably complemented subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugation-invariantly_permutably_complemented_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conjugation-invariantly relatively normal subgroup": {
+        "printouts": [],
+        "fulltext": "Conjugation-invariantly relatively normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conjugation-invariantly_relatively_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Constructibly critical subgroup": {
+        "printouts": [],
+        "fulltext": "Constructibly critical subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Constructibly_critical_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Contracharacteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Contracharacteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Contracharacteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Contranormal subgroup": {
+        "printouts": [],
+        "fulltext": "Contranormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Contranormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conway group:Co0": {
+        "printouts": [],
+        "fulltext": "Conway group:Co0",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conway_group:Co0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conway group:Co1": {
+        "printouts": [],
+        "fulltext": "Conway group:Co1",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conway_group:Co1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conway group:Co2": {
+        "printouts": [],
+        "fulltext": "Conway group:Co2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conway_group:Co2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Conway group:Co3": {
+        "printouts": [],
+        "fulltext": "Conway group:Co3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Conway_group:Co3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Coprime automorphism-faithful characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Coprime automorphism-faithful characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Coprime_automorphism-faithful_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Coprime automorphism-faithful normal subgroup": {
+        "printouts": [],
+        "fulltext": "Coprime automorphism-faithful normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Coprime_automorphism-faithful_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Coprime automorphism-faithful subgroup": {
+        "printouts": [],
+        "fulltext": "Coprime automorphism-faithful subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Coprime_automorphism-faithful_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Coprime automorphism-invariant normal subgroup": {
+        "printouts": [],
+        "fulltext": "Coprime automorphism-invariant normal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Coprime_automorphism-invariant_normal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Coprime automorphism-invariant subgroup": {
+        "printouts": [],
+        "fulltext": "Coprime automorphism-invariant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Coprime_automorphism-invariant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Core-characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Core-characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Core-characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Core-free 2-subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "Core-free 2-subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Core-free_2-subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Core-free permutable subgroup": {
+        "printouts": [],
+        "fulltext": "Core-free permutable subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Core-free_permutable_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Core-free subgroup": {
+        "printouts": [],
+        "fulltext": "Core-free subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Core-free_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Core-free subnormal subgroup": {
+        "printouts": [],
+        "fulltext": "Core-free subnormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Core-free_subnormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Countable group": {
+        "printouts": [],
+        "fulltext": "Countable group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Countable_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Countably free group": {
+        "printouts": [],
+        "fulltext": "Countably free group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Countably_free_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Coxeter group": {
+        "printouts": [],
+        "fulltext": "Coxeter group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Coxeter_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cring": {
+        "printouts": [],
+        "fulltext": "Cring",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Critical subgroup": {
+        "printouts": [],
+        "fulltext": "Critical subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Critical_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cutting subgroup": {
+        "printouts": [],
+        "fulltext": "Cutting subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cutting_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group": {
+        "printouts": [],
+        "fulltext": "Cyclic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z10": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z10",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z10",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z12": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z12",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z12",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z128": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z128",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z128",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z16": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z16",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z16",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z18": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z18",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z18",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z2": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z20": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z20",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z20",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z24": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z24",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z24",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z243": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z243",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z243",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z27": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z27",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z27",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z3": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z32": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z32",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z32",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z36": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z36",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z36",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z4": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z40": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z40",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z40",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z5": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z5",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z6": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z6",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z64": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z64",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z64",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z7": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z7",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z8": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z81": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z81",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic group:Z9": {
+        "printouts": [],
+        "fulltext": "Cyclic group:Z9",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_group:Z9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic normal subgroup of finite group": {
+        "printouts": [],
+        "fulltext": "Cyclic normal subgroup of finite group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_normal_subgroup_of_finite_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclic-center group": {
+        "printouts": [],
+        "fulltext": "Cyclic-center group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclic-center_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclonormal subgroup": {
+        "printouts": [],
+        "fulltext": "Cyclonormal subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclonormal_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Cyclotomic group": {
+        "printouts": [],
+        "fulltext": "Cyclotomic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Cyclotomic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "DRC-subgroup": {
+        "printouts": [],
+        "fulltext": "DRC-subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/DRC-subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dedekind group": {
+        "printouts": [],
+        "fulltext": "Dedekind group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dedekind_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Derived subgroup": {
+        "printouts": [],
+        "fulltext": "Derived subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Derived_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Descendant subgroup": {
+        "printouts": [],
+        "fulltext": "Descendant subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Descendant_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Diagonal subgroup of a direct power": {
+        "printouts": [],
+        "fulltext": "Diagonal subgroup of a direct power",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Diagonal_subgroup_of_a_direct_power",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Diagram-extensible automorphism": {
+        "printouts": [],
+        "fulltext": "Diagram-extensible automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Diagram-extensible_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dicyclic group": {
+        "printouts": [],
+        "fulltext": "Dicyclic group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dicyclic_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dicyclic group:Dic20": {
+        "printouts": [],
+        "fulltext": "Dicyclic group:Dic20",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dicyclic_group:Dic20",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dicyclic group:Dic24": {
+        "printouts": [],
+        "fulltext": "Dicyclic group:Dic24",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dicyclic_group:Dic24",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group": {
+        "printouts": [],
+        "fulltext": "Dihedral group",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D10": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D10",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D10",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D12": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D12",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D12",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D128": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D128",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D128",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D14": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D14",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D14",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D16": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D16",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D16",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D18": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D18",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D18",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D20": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D20",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D20",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D24": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D24",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D24",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D256": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D256",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D256",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D32": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D32",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D32",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D64": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D64",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D64",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Dihedral group:D8": {
+        "printouts": [],
+        "fulltext": "Dihedral group:D8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_group:D8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct factor": {
+        "printouts": [],
+        "fulltext": "Direct factor",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct factor of characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Direct factor of characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_of_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct factor over central subgroup": {
+        "printouts": [],
+        "fulltext": "Direct factor over central subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_over_central_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct factor-preserving automorphism": {
+        "printouts": [],
+        "fulltext": "Direct factor-preserving automorphism",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor-preserving_automorphism",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct power-closed characteristic subgroup": {
+        "printouts": [],
+        "fulltext": "Direct power-closed characteristic subgroup",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_power-closed_characteristic_subgroup",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and A4": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and A4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and D8": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and D8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_D8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and E8": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and E8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_E8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and Q8": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and Q8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_Q8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and S3": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and S3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_S3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and Z4 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and Z4 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_Z4_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and Z5": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and Z5",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_Z5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A4 and Z8": {
+        "printouts": [],
+        "fulltext": "Direct product of A4 and Z8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A4_and_Z8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A5 and S3": {
+        "printouts": [],
+        "fulltext": "Direct product of A5 and S3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A5_and_S3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A5 and SL(2,7)": {
+        "printouts": [],
+        "fulltext": "Direct product of A5 and SL(2,7)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A5_and_SL(2,7)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A5 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of A5 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A5_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A5 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of A5 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A5_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A5 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of A5 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A5_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A5 and Z7": {
+        "printouts": [],
+        "fulltext": "Direct product of A5 and Z7",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A5_and_Z7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of A6 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of A6 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_A6_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D12 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of D12 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D12_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D12 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of D12 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D12_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D16 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of D16 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D16_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D16 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of D16 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D16_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D16 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of D16 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D16_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D16 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of D16 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D16_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D32 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of D32 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D32_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and D8": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and D8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_D8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and E8": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and E8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_E8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Q8": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Q8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Q8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and S3": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and S3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_S3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Z4 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Z4 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Z4_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Z5": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Z5",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Z5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Z6": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Z6",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Z6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of D8 and Z7": {
+        "printouts": [],
+        "fulltext": "Direct product of D8 and Z7",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_D8_and_Z7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Dic12 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Dic12 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Dic12_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of E16 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of E16 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_E16_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of E8 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of E8 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_E8_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of E8 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of E8 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_E8_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of M16 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of M16 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_M16_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of M16 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of M16 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_M16_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of M16 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of M16 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_M16_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of M16 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of M16 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_M16_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of M27 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of M27 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_M27_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of M32 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of M32 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_M32_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q16 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of Q16 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q16_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q16 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Q16 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q16_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q16 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of Q16 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q16_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q16 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of Q16 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q16_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q32 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Q32 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q32_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q8 and Q8": {
+        "printouts": [],
+        "fulltext": "Direct product of Q8 and Q8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q8_and_Q8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q8 and S3": {
+        "printouts": [],
+        "fulltext": "Direct product of Q8 and S3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q8_and_S3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q8 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of Q8 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q8_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q8 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of Q8 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q8_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q8 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of Q8 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q8_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Q8 and Z5": {
+        "printouts": [],
+        "fulltext": "Direct product of Q8 and Z5",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Q8_and_Z5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S3 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of S3 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S3_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S3 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of S3 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S3_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S4 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of S4 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S4_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S4 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of S4 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S4_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S4 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of S4 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S4_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S4 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of S4 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S4_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S4 and Z5": {
+        "printouts": [],
+        "fulltext": "Direct product of S4 and Z5",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S4_and_Z5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S5 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of S5 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S5_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of S5 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of S5 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_S5_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SD16 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of SD16 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SD16_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SD16 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SD16 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SD16_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SD16 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of SD16 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SD16_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SD16 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of SD16 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SD16_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SD32 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SD32 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SD32_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SL(2,3) and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of SL(2,3) and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SL(2,3)_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SL(2,3) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SL(2,3) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SL(2,3)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SL(2,3) and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of SL(2,3) and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SL(2,3)_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SL(2,3) and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of SL(2,3) and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SL(2,3)_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SL(2,5) and PSL(3,2)": {
+        "printouts": [],
+        "fulltext": "Direct product of SL(2,5) and PSL(3,2)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SL(2,5)_and_PSL(3,2)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SL(2,5) and SL(2,7)": {
+        "printouts": [],
+        "fulltext": "Direct product of SL(2,5) and SL(2,7)",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SL(2,5)_and_SL(2,7)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SL(2,5) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SL(2,5) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SL(2,5)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,13) and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,13) and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,13)_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,13) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,13) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,13)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,13) and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,13) and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,13)_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,3) and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,3) and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,3)_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,3) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,3) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,3)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,3) and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,3) and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,3)_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,3) and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,3) and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,3)_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,4) and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,4) and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,4)_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,4) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,4) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,4)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(16,4) and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(16,4) and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(16,4)_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,12) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,12) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,12)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,13) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,13) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,13)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,14) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,14) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,14)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,2) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,2) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,2)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,24) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,24) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,24)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,27) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,27) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,27)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,33) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,33) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,33)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,4) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,4) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,4)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,49) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,49) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,49)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of SmallGroup(32,50) and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of SmallGroup(32,50) and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_SmallGroup(32,50)_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z10 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z10 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z10_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z16 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z16 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z16_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z16 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z16 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z16_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z16 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z16 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z16_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z27 and E9": {
+        "printouts": [],
+        "fulltext": "Direct product of Z27 and E9",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z27_and_E9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z27 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of Z27 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z27_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z27 and Z9": {
+        "printouts": [],
+        "fulltext": "Direct product of Z27 and Z9",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z27_and_Z9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z32 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z32 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z32_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z4 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z4 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z4_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z4 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z4 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z4_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z4 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z4 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z4_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z4 and Z4 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z4 and Z4 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z4_and_Z4_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z4 and Z4 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z4 and Z4 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z4_and_Z4_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z4 and Z4 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z4 and Z4 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z4_and_Z4_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z6 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z6 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z6_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z6 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of Z6 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z6_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z6 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z6 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z6_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and D8": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and D8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_D8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and E8": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and E8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_E8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and Z4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and Z4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_Z4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and Z4 and V4": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and Z4 and V4",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_Z4_and_V4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and Z4 and Z2": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and Z4 and Z2",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_Z4_and_Z2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z8 and Z8": {
+        "printouts": [],
+        "fulltext": "Direct product of Z8 and Z8",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z8_and_Z8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z81 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of Z81 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z81_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z9 and E27": {
+        "printouts": [],
+        "fulltext": "Direct product of Z9 and E27",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z9_and_E27",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z9 and E9": {
+        "printouts": [],
+        "fulltext": "Direct product of Z9 and E9",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z9_and_E9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z9 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of Z9 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z9_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z9 and Z9": {
+        "printouts": [],
+        "fulltext": "Direct product of Z9 and Z9",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z9_and_Z9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of Z9 and Z9 and Z3": {
+        "printouts": [],
+        "fulltext": "Direct product of Z9 and Z9 and Z3",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_Z9_and_Z9_and_Z3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of finite groups": {
+        "printouts": [],
+        "fulltext": "Direct product of finite groups",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_finite_groups",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    },
+    "Direct product of group of rational numbers and group of rational numbers modulo integers": {
+        "printouts": [],
+        "fulltext": "Direct product of group of rational numbers and group of rational numbers modulo integers",
+        "fullurl": "https://groupprops.subwiki.org/wiki/Direct_product_of_group_of_rational_numbers_and_group_of_rational_numbers_modulo_integers",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+    }
+}

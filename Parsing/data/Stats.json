@@ -1,0 +1,3986 @@
+{
+	"2-Engel implies class three for groups": {
+		"printouts": [],
+		"fulltext": "2-Engel implies class three for groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-Engel_implies_class_three_for_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-Engel not implies class two for groups": {
+		"printouts": [],
+		"fulltext": "2-Engel not implies class two for groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-Engel_not_implies_class_two_for_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-Sylow subgroup is TI implies it is normal or there is exactly one conjugacy class of involutions": {
+		"printouts": [],
+		"fulltext": "2-Sylow subgroup is TI implies it is normal or there is exactly one conjugacy class of involutions",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-Sylow_subgroup_is_TI_implies_it_is_normal_or_there_is_exactly_one_conjugacy_class_of_involutions",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-hypernormalized satisfies intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "2-hypernormalized satisfies intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-hypernormalized_satisfies_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormal implies conjugate-join-closed subnormal": {
+		"printouts": [],
+		"fulltext": "2-subnormal implies conjugate-join-closed subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormal_implies_conjugate-join-closed_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormal implies conjugate-permutable": {
+		"printouts": [],
+		"fulltext": "2-subnormal implies conjugate-permutable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormal_implies_conjugate-permutable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormal implies join-transitively subnormal": {
+		"printouts": [],
+		"fulltext": "2-subnormal implies join-transitively subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormal_implies_join-transitively_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormal not implies automorph-permutable": {
+		"printouts": [],
+		"fulltext": "2-subnormal not implies automorph-permutable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormal_not_implies_automorph-permutable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormal not implies hypernormalized": {
+		"printouts": [],
+		"fulltext": "2-subnormal not implies hypernormalized",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormal_not_implies_hypernormalized",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormality is conjugate-join-closed": {
+		"printouts": [],
+		"fulltext": "2-subnormality is conjugate-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormality_is_conjugate-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormality is not finite-join-closed": {
+		"printouts": [],
+		"fulltext": "2-subnormality is not finite-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormality_is_not_finite-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormality is not finite-upper join-closed": {
+		"printouts": [],
+		"fulltext": "2-subnormality is not finite-upper join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormality_is_not_finite-upper_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormality is not transitive": {
+		"printouts": [],
+		"fulltext": "2-subnormality is not transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormality_is_not_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"2-subnormality is strongly intersection-closed": {
+		"printouts": [],
+		"fulltext": "2-subnormality is strongly intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/2-subnormality_is_strongly_intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"3-Engel implies locally nilpotent for groups": {
+		"printouts": [],
+		"fulltext": "3-Engel implies locally nilpotent for groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/3-Engel_implies_locally_nilpotent_for_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"3-step group implies solvable CN-group": {
+		"printouts": [],
+		"fulltext": "3-step group implies solvable CN-group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/3-step_group_implies_solvable_CN-group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"3-subnormal implies finite-conjugate-join-closed subnormal": {
+		"printouts": [],
+		"fulltext": "3-subnormal implies finite-conjugate-join-closed subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/3-subnormal_implies_finite-conjugate-join-closed_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"3-subnormal not implies finite-automorph-join-closed subnormal": {
+		"printouts": [],
+		"fulltext": "3-subnormal not implies finite-automorph-join-closed subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/3-subnormal_not_implies_finite-automorph-join-closed_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"4-Engel implies locally nilpotent for groups": {
+		"printouts": [],
+		"fulltext": "4-Engel implies locally nilpotent for groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/4-Engel_implies_locally_nilpotent_for_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"4-subnormal not implies finite-conjugate-join-closed subnormal": {
+		"printouts": [],
+		"fulltext": "4-subnormal not implies finite-conjugate-join-closed subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/4-subnormal_not_implies_finite-conjugate-join-closed_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"ACIC implies nilpotent (finite groups)": {
+		"printouts": [],
+		"fulltext": "ACIC implies nilpotent (finite groups)",
+		"fullurl": "https://groupprops.subwiki.org/wiki/ACIC_implies_nilpotent_(finite_groups)",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"ACIC is characteristic subgroup-closed": {
+		"printouts": [],
+		"fulltext": "ACIC is characteristic subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/ACIC_is_characteristic_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"AEP does not satisfy intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "AEP does not satisfy intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/AEP_does_not_satisfy_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian and pronormal implies SCDIN": {
+		"printouts": [],
+		"fulltext": "Abelian and pronormal implies SCDIN",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_and_pronormal_implies_SCDIN",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian automorphism group implies class two": {
+		"printouts": [],
+		"fulltext": "Abelian automorphism group implies class two",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_automorphism_group_implies_class_two",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian automorphism group not implies abelian": {
+		"printouts": [],
+		"fulltext": "Abelian automorphism group not implies abelian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_automorphism_group_not_implies_abelian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian automorphism group not implies cyclic": {
+		"printouts": [],
+		"fulltext": "Abelian automorphism group not implies cyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_automorphism_group_not_implies_cyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian characteristic is not join-closed": {
+		"printouts": [],
+		"fulltext": "Abelian characteristic is not join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_characteristic_is_not_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian implies ACIC": {
+		"printouts": [],
+		"fulltext": "Abelian implies ACIC",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_implies_ACIC",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian implies every element is automorphic to its inverse": {
+		"printouts": [],
+		"fulltext": "Abelian implies every element is automorphic to its inverse",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_implies_every_element_is_automorphic_to_its_inverse",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian implies every subgroup is normal": {
+		"printouts": [],
+		"fulltext": "Abelian implies every subgroup is normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_implies_every_subgroup_is_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian implies nilpotent": {
+		"printouts": [],
+		"fulltext": "Abelian implies nilpotent",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_implies_nilpotent",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian implies self-centralizing in holomorph": {
+		"printouts": [],
+		"fulltext": "Abelian implies self-centralizing in holomorph",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_implies_self-centralizing_in_holomorph",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian normal is not join-closed": {
+		"printouts": [],
+		"fulltext": "Abelian normal is not join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_normal_is_not_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian normal not implies central": {
+		"printouts": [],
+		"fulltext": "Abelian normal not implies central",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_normal_not_implies_central",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian normal subgroup of core-free maximal subgroup is contranormal implies derived subgroup of whole group is monolith": {
+		"printouts": [],
+		"fulltext": "Abelian normal subgroup of core-free maximal subgroup is contranormal implies derived subgroup of whole group is monolith",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_normal_subgroup_of_core-free_maximal_subgroup_is_contranormal_implies_derived_subgroup_of_whole_group_is_monolith",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian p-group with indecomposable coprime automorphism group is homocyclic": {
+		"printouts": [],
+		"fulltext": "Abelian p-group with indecomposable coprime automorphism group is homocyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian_p-group_with_indecomposable_coprime_automorphism_group_is_homocyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian-quotient not implies cocentral": {
+		"printouts": [],
+		"fulltext": "Abelian-quotient not implies cocentral",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian-quotient_not_implies_cocentral",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelian-quotient not implies kernel of a bihomomorphism": {
+		"printouts": [],
+		"fulltext": "Abelian-quotient not implies kernel of a bihomomorphism",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelian-quotient_not_implies_kernel_of_a_bihomomorphism",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelianness is 2-local": {
+		"printouts": [],
+		"fulltext": "Abelianness is 2-local",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelianness_is_2-local",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelianness is directed union-closed": {
+		"printouts": [],
+		"fulltext": "Abelianness is directed union-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelianness_is_directed_union-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelianness is quotient-closed": {
+		"printouts": [],
+		"fulltext": "Abelianness is quotient-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelianness_is_quotient-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abelianness is subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Abelianness is subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abelianness_is_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abnormal implies WNSCC": {
+		"printouts": [],
+		"fulltext": "Abnormal implies WNSCC",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abnormal_implies_WNSCC",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Abnormal normalizer not implies pronormal": {
+		"printouts": [],
+		"fulltext": "Abnormal normalizer not implies pronormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Abnormal_normalizer_not_implies_pronormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Additive group of a field implies characteristic in holomorph": {
+		"printouts": [],
+		"fulltext": "Additive group of a field implies characteristic in holomorph",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Additive_group_of_a_field_implies_characteristic_in_holomorph",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Algebra group implies power degree group for field size": {
+		"printouts": [],
+		"fulltext": "Algebra group implies power degree group for field size",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Algebra_group_implies_power_degree_group_for_field_size",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Algebraically closed implies simple": {
+		"printouts": [],
+		"fulltext": "Algebraically closed implies simple",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Algebraically_closed_implies_simple",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"All cumulative conjugacy class size statistics values divide the order of the group for groups up to prime-fifth order": {
+		"printouts": [],
+		"fulltext": "All cumulative conjugacy class size statistics values divide the order of the group for groups up to prime-fifth order",
+		"fullurl": "https://groupprops.subwiki.org/wiki/All_cumulative_conjugacy_class_size_statistics_values_divide_the_order_of_the_group_for_groups_up_to_prime-fifth_order",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"All partial sum values of squares of degrees of irreducible representations divide the order of the group for groups up to prime-fifth order": {
+		"printouts": [],
+		"fulltext": "All partial sum values of squares of degrees of irreducible representations divide the order of the group for groups up to prime-fifth order",
+		"fullurl": "https://groupprops.subwiki.org/wiki/All_partial_sum_values_of_squares_of_degrees_of_irreducible_representations_divide_the_order_of_the_group_for_groups_up_to_prime-fifth_order",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Alperin's fusion theorem in terms of well-placed tame intersections": {
+		"printouts": [],
+		"fulltext": "Alperin's fusion theorem in terms of well-placed tame intersections",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Alperin%27s_fusion_theorem_in_terms_of_well-placed_tame_intersections",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Alternating implies flexible": {
+		"printouts": [],
+		"fulltext": "Alternating implies flexible",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Alternating_implies_flexible",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Alternative implies powers up to the fifth are well-defined": {
+		"printouts": [],
+		"fulltext": "Alternative implies powers up to the fifth are well-defined",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Alternative_implies_powers_up_to_the_fifth_are_well-defined",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Amalgam-characteristic implies image-potentially characteristic": {
+		"printouts": [],
+		"fulltext": "Amalgam-characteristic implies image-potentially characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Amalgam-characteristic_implies_image-potentially_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Amalgam-characteristic implies potentially characteristic": {
+		"printouts": [],
+		"fulltext": "Amalgam-characteristic implies potentially characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Amalgam-characteristic_implies_potentially_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ambivalence is direct product-closed": {
+		"printouts": [],
+		"fulltext": "Ambivalence is direct product-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ambivalence_is_direct_product-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ambivalence is quotient-closed": {
+		"printouts": [],
+		"fulltext": "Ambivalence is quotient-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ambivalence_is_quotient-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ambivalent not implies strongly ambivalent": {
+		"printouts": [],
+		"fulltext": "Ambivalent not implies strongly ambivalent",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ambivalent_not_implies_strongly_ambivalent",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Analogue of Thompson transitivity theorem fails for abelian subgroups of rank two": {
+		"printouts": [],
+		"fulltext": "Analogue of Thompson transitivity theorem fails for abelian subgroups of rank two",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Analogue_of_Thompson_transitivity_theorem_fails_for_abelian_subgroups_of_rank_two",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Analogue of Thompson transitivity theorem fails for groups in which not every p-local subgroup is p-constrained": {
+		"printouts": [],
+		"fulltext": "Analogue of Thompson transitivity theorem fails for groups in which not every p-local subgroup is p-constrained",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Analogue_of_Thompson_transitivity_theorem_fails_for_groups_in_which_not_every_p-local_subgroup_is_p-constrained",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Any abelian normal subgroup normalizes an abelian subgroup of maximum order": {
+		"printouts": [],
+		"fulltext": "Any abelian normal subgroup normalizes an abelian subgroup of maximum order",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Any_abelian_normal_subgroup_normalizes_an_abelian_subgroup_of_maximum_order",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Any class two normal subgroup whose derived subgroup is in the ZJ-subgroup normalizes an abelian subgroup of maximum order": {
+		"printouts": [],
+		"fulltext": "Any class two normal subgroup whose derived subgroup is in the ZJ-subgroup normalizes an abelian subgroup of maximum order",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Any_class_two_normal_subgroup_whose_derived_subgroup_is_in_the_ZJ-subgroup_normalizes_an_abelian_subgroup_of_maximum_order",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Artinian implies co-Hopfian": {
+		"printouts": [],
+		"fulltext": "Artinian implies co-Hopfian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Artinian_implies_co-Hopfian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Artinian implies periodic": {
+		"printouts": [],
+		"fulltext": "Artinian implies periodic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Artinian_implies_periodic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ascendant not implies subnormal": {
+		"printouts": [],
+		"fulltext": "Ascendant not implies subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ascendant_not_implies_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ascending chain condition on normal subgroups implies Hopfian": {
+		"printouts": [],
+		"fulltext": "Ascending chain condition on normal subgroups implies Hopfian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ascending_chain_condition_on_normal_subgroups_implies_Hopfian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ascending chain condition on subnormal subgroups implies subnormal join property": {
+		"printouts": [],
+		"fulltext": "Ascending chain condition on subnormal subgroups implies subnormal join property",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ascending_chain_condition_on_subnormal_subgroups_implies_subnormal_join_property",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ascending chain condition on subnormal subgroups is normal subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Ascending chain condition on subnormal subgroups is normal subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ascending_chain_condition_on_subnormal_subgroups_is_normal_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Associative implies generalized associative": {
+		"printouts": [],
+		"fulltext": "Associative implies generalized associative",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Associative_implies_generalized_associative",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"At most n elements of order dividing n implies every finite subgroup is cyclic": {
+		"printouts": [],
+		"fulltext": "At most n elements of order dividing n implies every finite subgroup is cyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/At_most_n_elements_of_order_dividing_n_implies_every_finite_subgroup_is_cyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorph-conjugacy is centralizer-closed": {
+		"printouts": [],
+		"fulltext": "Automorph-conjugacy is centralizer-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorph-conjugacy_is_centralizer-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorph-conjugacy is normalizer-closed": {
+		"printouts": [],
+		"fulltext": "Automorph-conjugacy is normalizer-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorph-conjugacy_is_normalizer-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorph-conjugacy is not finite-conjugate-intersection-closed": {
+		"printouts": [],
+		"fulltext": "Automorph-conjugacy is not finite-conjugate-intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorph-conjugacy_is_not_finite-conjugate-intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorph-conjugacy is not finite-intersection-closed": {
+		"printouts": [],
+		"fulltext": "Automorph-conjugacy is not finite-intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorph-conjugacy_is_not_finite-intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorph-conjugacy is not finite-join-closed": {
+		"printouts": [],
+		"fulltext": "Automorph-conjugacy is not finite-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorph-conjugacy_is_not_finite-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorph-conjugacy is transitive": {
+		"printouts": [],
+		"fulltext": "Automorph-conjugacy is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorph-conjugacy_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorph-permutable not implies permutable": {
+		"printouts": [],
+		"fulltext": "Automorph-permutable not implies permutable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorph-permutable_not_implies_permutable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Automorphism group is transitive on non-identity elements implies characteristically simple": {
+		"printouts": [],
+		"fulltext": "Automorphism group is transitive on non-identity elements implies characteristically simple",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Automorphism_group_is_transitive_on_non-identity_elements_implies_characteristically_simple",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Baer Lie property is not quotient-closed": {
+		"printouts": [],
+		"fulltext": "Baer Lie property is not quotient-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Baer_Lie_property_is_not_quotient-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Baer Lie property is not subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Baer Lie property is not subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Baer_Lie_property_is_not_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Base of a wreath product implies right-transitively 2-subnormal": {
+		"printouts": [],
+		"fulltext": "Base of a wreath product implies right-transitively 2-subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Base_of_a_wreath_product_implies_right-transitively_2-subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Base of a wreath product implies right-transitively conjugate-permutable": {
+		"printouts": [],
+		"fulltext": "Base of a wreath product implies right-transitively conjugate-permutable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Base_of_a_wreath_product_implies_right-transitively_conjugate-permutable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Base of a wreath product implies subset-conjugacy-closed": {
+		"printouts": [],
+		"fulltext": "Base of a wreath product implies subset-conjugacy-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Base_of_a_wreath_product_implies_subset-conjugacy-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Base of a wreath product is transitive": {
+		"printouts": [],
+		"fulltext": "Base of a wreath product is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Base_of_a_wreath_product_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Base of a wreath product not implies elliptic": {
+		"printouts": [],
+		"fulltext": "Base of a wreath product not implies elliptic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Base_of_a_wreath_product_not_implies_elliptic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Brauer's induction theorem": {
+		"printouts": [],
+		"fulltext": "Brauer's induction theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Brauer%27s_induction_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Brauer-Fowler inequality relating number of conjugacy classes of strongly real elements and number of involutions": {
+		"printouts": [],
+		"fulltext": "Brauer-Fowler inequality relating number of conjugacy classes of strongly real elements and number of involutions",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Brauer-Fowler_inequality_relating_number_of_conjugacy_classes_of_strongly_real_elements_and_number_of_involutions",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Brauer-Fowler theorem on existence of subgroup of order greater than the cube root of the group order": {
+		"printouts": [],
+		"fulltext": "Brauer-Fowler theorem on existence of subgroup of order greater than the cube root of the group order",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Brauer-Fowler_theorem_on_existence_of_subgroup_of_order_greater_than_the_cube_root_of_the_group_order",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Bryant-Kovacs theorem": {
+		"printouts": [],
+		"fulltext": "Bryant-Kovacs theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Bryant-Kovacs_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Burnside's basis theorem": {
+		"printouts": [],
+		"fulltext": "Burnside's basis theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Burnside%27s_basis_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Burnside's theorem on coprime automorphisms and Frattini subgroup": {
+		"printouts": [],
+		"fulltext": "Burnside's theorem on coprime automorphisms and Frattini subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Burnside%27s_theorem_on_coprime_automorphisms_and_Frattini_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"C-closed implies local powering-invariant": {
+		"printouts": [],
+		"fulltext": "C-closed implies local powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/C-closed_implies_local_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"C-closed implies powering-invariant": {
+		"printouts": [],
+		"fulltext": "C-closed implies powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/C-closed_implies_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"CA not implies nilpotent": {
+		"printouts": [],
+		"fulltext": "CA not implies nilpotent",
+		"fullurl": "https://groupprops.subwiki.org/wiki/CA_not_implies_nilpotent",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"CDIN of conjugacy-closed implies CDIN": {
+		"printouts": [],
+		"fulltext": "CDIN of conjugacy-closed implies CDIN",
+		"fullurl": "https://groupprops.subwiki.org/wiki/CDIN_of_conjugacy-closed_implies_CDIN",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"CEP implies every relatively normal subgroup is weakly closed": {
+		"printouts": [],
+		"fulltext": "CEP implies every relatively normal subgroup is weakly closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/CEP_implies_every_relatively_normal_subgroup_is_weakly_closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cayley's theorem": {
+		"printouts": [],
+		"fulltext": "Cayley's theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cayley%27s_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Center is normality-large implies every nontrivial normal subgroup contains a cyclic normal subgroup": {
+		"printouts": [],
+		"fulltext": "Center is normality-large implies every nontrivial normal subgroup contains a cyclic normal subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Center_is_normality-large_implies_every_nontrivial_normal_subgroup_contains_a_cyclic_normal_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Center of pronormal implies SCDIN": {
+		"printouts": [],
+		"fulltext": "Center of pronormal implies SCDIN",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Center_of_pronormal_implies_SCDIN",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Center-fixing implies central factor-extensible": {
+		"printouts": [],
+		"fulltext": "Center-fixing implies central factor-extensible",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Center-fixing_implies_central_factor-extensible",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centerless and maximal in automorphism group implies every automorphism is normal-extensible": {
+		"printouts": [],
+		"fulltext": "Centerless and maximal in automorphism group implies every automorphism is normal-extensible",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centerless_and_maximal_in_automorphism_group_implies_every_automorphism_is_normal-extensible",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor implies normal": {
+		"printouts": [],
+		"fulltext": "Central factor implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor implies transitively normal": {
+		"printouts": [],
+		"fulltext": "Central factor implies transitively normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_implies_transitively_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor is centralizer-closed": {
+		"printouts": [],
+		"fulltext": "Central factor is centralizer-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_is_centralizer-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor is not finite-intersection-closed": {
+		"printouts": [],
+		"fulltext": "Central factor is not finite-intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_is_not_finite-intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor is not finite-join-closed": {
+		"printouts": [],
+		"fulltext": "Central factor is not finite-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_is_not_finite-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor is not quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Central factor is not quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_is_not_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor is transitive": {
+		"printouts": [],
+		"fulltext": "Central factor is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor is upper join-closed": {
+		"printouts": [],
+		"fulltext": "Central factor is upper join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_is_upper_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor not implies direct factor": {
+		"printouts": [],
+		"fulltext": "Central factor not implies direct factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_not_implies_direct_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor satisfies image condition": {
+		"printouts": [],
+		"fulltext": "Central factor satisfies image condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_satisfies_image_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central factor satisfies intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Central factor satisfies intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_factor_satisfies_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central implies abelian normal": {
+		"printouts": [],
+		"fulltext": "Central implies abelian normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_implies_abelian_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central implies amalgam-characteristic": {
+		"printouts": [],
+		"fulltext": "Central implies amalgam-characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_implies_amalgam-characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central implies image-potentially characteristic": {
+		"printouts": [],
+		"fulltext": "Central implies image-potentially characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_implies_image-potentially_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central implies normal": {
+		"printouts": [],
+		"fulltext": "Central implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central implies normal satisfying the subgroup-to-quotient powering-invariance implication": {
+		"printouts": [],
+		"fulltext": "Central implies normal satisfying the subgroup-to-quotient powering-invariance implication",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_implies_normal_satisfying_the_subgroup-to-quotient_powering-invariance_implication",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central implies potentially characteristic": {
+		"printouts": [],
+		"fulltext": "Central implies potentially characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_implies_potentially_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central implies potentially verbal in finite": {
+		"printouts": [],
+		"fulltext": "Central implies potentially verbal in finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_implies_potentially_verbal_in_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central product decomposition lemma for characteristic rank one": {
+		"printouts": [],
+		"fulltext": "Central product decomposition lemma for characteristic rank one",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_product_decomposition_lemma_for_characteristic_rank_one",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Central subgroup implies join-transitively central factor": {
+		"printouts": [],
+		"fulltext": "Central subgroup implies join-transitively central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Central_subgroup_implies_join-transitively_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centralizer of coprime automorphism in homomorphic image equals image of centralizer": {
+		"printouts": [],
+		"fulltext": "Centralizer of coprime automorphism in homomorphic image equals image of centralizer",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centralizer_of_coprime_automorphism_in_homomorphic_image_equals_image_of_centralizer",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centralizer product theorem": {
+		"printouts": [],
+		"fulltext": "Centralizer product theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centralizer_product_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centralizer product theorem for elementary abelian group": {
+		"printouts": [],
+		"fulltext": "Centralizer product theorem for elementary abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centralizer_product_theorem_for_elementary_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centralizer-commutator product decomposition for finite groups and cyclic automorphism group": {
+		"printouts": [],
+		"fulltext": "Centralizer-commutator product decomposition for finite groups and cyclic automorphism group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-commutator_product_decomposition_for_finite_groups_and_cyclic_automorphism_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centralizer-commutator product decomposition for finite nilpotent groups": {
+		"printouts": [],
+		"fulltext": "Centralizer-commutator product decomposition for finite nilpotent groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-commutator_product_decomposition_for_finite_nilpotent_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centralizer-free ideal implies automorphism-faithful": {
+		"printouts": [],
+		"fulltext": "Centralizer-free ideal implies automorphism-faithful",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-free_ideal_implies_automorphism-faithful",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Centralizer-free ideal implies derivation-faithful": {
+		"printouts": [],
+		"fulltext": "Centralizer-free ideal implies derivation-faithful",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-free_ideal_implies_derivation-faithful",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic Lie subring not implies ideal": {
+		"printouts": [],
+		"fulltext": "Characteristic Lie subring not implies ideal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_Lie_subring_not_implies_ideal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic and self-centralizing implies coprime automorphism-faithful": {
+		"printouts": [],
+		"fulltext": "Characteristic and self-centralizing implies coprime automorphism-faithful",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_and_self-centralizing_implies_coprime_automorphism-faithful",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic central factor of WNSCDIN implies WNSCDIN": {
+		"printouts": [],
+		"fulltext": "Characteristic central factor of WNSCDIN implies WNSCDIN",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_central_factor_of_WNSCDIN_implies_WNSCDIN",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic direct factor not implies fully invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic direct factor not implies fully invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_direct_factor_not_implies_fully_invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic implies automorph-conjugate": {
+		"printouts": [],
+		"fulltext": "Characteristic implies automorph-conjugate",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_implies_automorph-conjugate",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic implies normal": {
+		"printouts": [],
+		"fulltext": "Characteristic implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies amalgam-characteristic": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies amalgam-characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_amalgam-characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies characteristic-isomorph-free in finite": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies characteristic-isomorph-free in finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_characteristic-isomorph-free_in_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies derivation-invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies derivation-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_derivation-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies direct factor": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies direct factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_direct_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies elementarily characteristic": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies elementarily characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_elementarily_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies fully invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies fully invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_fully_invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies fully invariant in finite abelian group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies fully invariant in finite abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_fully_invariant_in_finite_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies fully invariant in finitely generated abelian group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies fully invariant in finitely generated abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_fully_invariant_in_finitely_generated_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies fully invariant in odd-order class two p-group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies fully invariant in odd-order class two p-group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_fully_invariant_in_odd-order_class_two_p-group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies injective endomorphism-invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies injective endomorphism-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_injective_endomorphism-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies injective endomorphism-invariant in finitely generated abelian group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies injective endomorphism-invariant in finitely generated abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_injective_endomorphism-invariant_in_finitely_generated_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies isomorph-free in finite group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies isomorph-free in finite group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_isomorph-free_in_finite_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies isomorph-normal in finite group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies isomorph-normal in finite group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_isomorph-normal_in_finite_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies normal in loops": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies normal in loops",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_normal_in_loops",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies normal-isomorph-free": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies normal-isomorph-free",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_normal-isomorph-free",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies potentially fully invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies potentially fully invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_potentially_fully_invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies powering-invariant in nilpotent group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies powering-invariant in nilpotent group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_powering-invariant_in_nilpotent_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies powering-invariant in solvable group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies powering-invariant in solvable group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_powering-invariant_in_solvable_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies quasiautomorphism-invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies quasiautomorphism-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_quasiautomorphism-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies strictly characteristic": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies strictly characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_strictly_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies sub-(isomorph-normal characteristic) in finite": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies sub-(isomorph-normal characteristic) in finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_sub-(isomorph-normal_characteristic)_in_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic not implies sub-isomorph-free in finite group": {
+		"printouts": [],
+		"fulltext": "Characteristic not implies sub-isomorph-free in finite group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_not_implies_sub-isomorph-free_in_finite_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic of CDIN implies CDIN": {
+		"printouts": [],
+		"fulltext": "Characteristic of CDIN implies CDIN",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_of_CDIN_implies_CDIN",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic of normal implies normal": {
+		"printouts": [],
+		"fulltext": "Characteristic of normal implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_of_normal_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic rank one is characteristic subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Characteristic rank one is characteristic subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_rank_one_is_characteristic_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic subgroup of Sylow subgroup is weakly closed iff it is normal in every Sylow subgroup containing it": {
+		"printouts": [],
+		"fulltext": "Characteristic subgroup of Sylow subgroup is weakly closed iff it is normal in every Sylow subgroup containing it",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_Sylow_subgroup_is_weakly_closed_iff_it_is_normal_in_every_Sylow_subgroup_containing_it",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic subgroup of abelian group implies intermediately powering-invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic subgroup of abelian group implies intermediately powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_abelian_group_implies_intermediately_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic subgroup of abelian group implies powering-invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic subgroup of abelian group implies powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_abelian_group_implies_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic subgroup of abelian group is quotient-powering-invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic subgroup of abelian group is quotient-powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_abelian_group_is_quotient-powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic subgroup of abelian group not implies divisibility-closed": {
+		"printouts": [],
+		"fulltext": "Characteristic subgroup of abelian group not implies divisibility-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_abelian_group_not_implies_divisibility-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic subgroup of abelian group not implies local powering-invariant": {
+		"printouts": [],
+		"fulltext": "Characteristic subgroup of abelian group not implies local powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_subgroup_of_abelian_group_not_implies_local_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic upper-hook AEP implies characteristic": {
+		"printouts": [],
+		"fulltext": "Characteristic upper-hook AEP implies characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic_upper-hook_AEP_implies_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristic-isomorph-free not implies normal-isomorph-free in finite": {
+		"printouts": [],
+		"fulltext": "Characteristic-isomorph-free not implies normal-isomorph-free in finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristic-isomorph-free_not_implies_normal-isomorph-free_in_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristically complemented characteristic is transitive": {
+		"printouts": [],
+		"fulltext": "Characteristically complemented characteristic is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_complemented_characteristic_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristically metacyclic and commutator-realizable implies abelian": {
+		"printouts": [],
+		"fulltext": "Characteristically metacyclic and commutator-realizable implies abelian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_metacyclic_and_commutator-realizable_implies_abelian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristically metacyclic not implies metacyclic derived series": {
+		"printouts": [],
+		"fulltext": "Characteristically metacyclic not implies metacyclic derived series",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_metacyclic_not_implies_metacyclic_derived_series",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristically simple implies CSCFN-realizable": {
+		"printouts": [],
+		"fulltext": "Characteristically simple implies CSCFN-realizable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_simple_implies_CSCFN-realizable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity does not satisfy image condition": {
+		"printouts": [],
+		"fulltext": "Characteristicity does not satisfy image condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_does_not_satisfy_image_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity does not satisfy intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Characteristicity does not satisfy intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_does_not_satisfy_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity does not satisfy lower central series condition": {
+		"printouts": [],
+		"fulltext": "Characteristicity does not satisfy lower central series condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_does_not_satisfy_lower_central_series_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is centralizer-closed": {
+		"printouts": [],
+		"fulltext": "Characteristicity is centralizer-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_centralizer-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is commutator-closed": {
+		"printouts": [],
+		"fulltext": "Characteristicity is commutator-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_commutator-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is not finite direct power-closed": {
+		"printouts": [],
+		"fulltext": "Characteristicity is not finite direct power-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_not_finite_direct_power-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is not finite-relative-intersection-closed": {
+		"printouts": [],
+		"fulltext": "Characteristicity is not finite-relative-intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_not_finite-relative-intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is not upper join-closed": {
+		"printouts": [],
+		"fulltext": "Characteristicity is not upper join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_not_upper_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Characteristicity is quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is strongly intersection-closed": {
+		"printouts": [],
+		"fulltext": "Characteristicity is strongly intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_strongly_intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is strongly join-closed": {
+		"printouts": [],
+		"fulltext": "Characteristicity is strongly join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_strongly_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is transitive": {
+		"printouts": [],
+		"fulltext": "Characteristicity is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity is transitive for Lie rings": {
+		"printouts": [],
+		"fulltext": "Characteristicity is transitive for Lie rings",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_is_transitive_for_Lie_rings",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Characteristicity satisfies partition difference condition": {
+		"printouts": [],
+		"fulltext": "Characteristicity satisfies partition difference condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Characteristicity_satisfies_partition_difference_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class two implies generated by abelian normal subgroups": {
+		"printouts": [],
+		"fulltext": "Class two implies generated by abelian normal subgroups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class_two_implies_generated_by_abelian_normal_subgroups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class two not implies abelian automorphism group": {
+		"printouts": [],
+		"fulltext": "Class two not implies abelian automorphism group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class_two_not_implies_abelian_automorphism_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class-inverting automorphism implies every element is automorphic to its inverse": {
+		"printouts": [],
+		"fulltext": "Class-inverting automorphism implies every element is automorphic to its inverse",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class-inverting_automorphism_implies_every_element_is_automorphic_to_its_inverse",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class-inverting automorphism induces class-inverting automorphism on any quotient": {
+		"printouts": [],
+		"fulltext": "Class-inverting automorphism induces class-inverting automorphism on any quotient",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class-inverting_automorphism_induces_class-inverting_automorphism_on_any_quotient",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class-preserving implies IA": {
+		"printouts": [],
+		"fulltext": "Class-preserving implies IA",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class-preserving_implies_IA",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class-preserving implies linearly extensible": {
+		"printouts": [],
+		"fulltext": "Class-preserving implies linearly extensible",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class-preserving_implies_linearly_extensible",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class-preserving implies linearly pushforwardable": {
+		"printouts": [],
+		"fulltext": "Class-preserving implies linearly pushforwardable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class-preserving_implies_linearly_pushforwardable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class-preserving not implies inner": {
+		"printouts": [],
+		"fulltext": "Class-preserving not implies inner",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class-preserving_not_implies_inner",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Class-preserving not implies subgroup-conjugating": {
+		"printouts": [],
+		"fulltext": "Class-preserving not implies subgroup-conjugating",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Class-preserving_not_implies_subgroup-conjugating",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of extraspecial groups": {
+		"printouts": [],
+		"fulltext": "Classification of extraspecial groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_extraspecial_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of finite 2-groups of maximal class": {
+		"printouts": [],
+		"fulltext": "Classification of finite 2-groups of maximal class",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_finite_2-groups_of_maximal_class",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of finite p-groups of characteristic rank one": {
+		"printouts": [],
+		"fulltext": "Classification of finite p-groups of characteristic rank one",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_finite_p-groups_of_characteristic_rank_one",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of finite p-groups of normal rank one": {
+		"printouts": [],
+		"fulltext": "Classification of finite p-groups of normal rank one",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_finite_p-groups_of_normal_rank_one",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of finite p-groups of rank one": {
+		"printouts": [],
+		"fulltext": "Classification of finite p-groups of rank one",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_finite_p-groups_of_rank_one",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of finite p-groups with cyclic maximal subgroup": {
+		"printouts": [],
+		"fulltext": "Classification of finite p-groups with cyclic maximal subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_finite_p-groups_with_cyclic_maximal_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of finite p-groups with cyclic normal self-centralizing subgroup": {
+		"printouts": [],
+		"fulltext": "Classification of finite p-groups with cyclic normal self-centralizing subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_finite_p-groups_with_cyclic_normal_self-centralizing_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Classification of finite solvable CN-groups": {
+		"printouts": [],
+		"fulltext": "Classification of finite solvable CN-groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Classification_of_finite_solvable_CN-groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Clifford's theorem": {
+		"printouts": [],
+		"fulltext": "Clifford's theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Clifford%27s_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cocentral implies central factor": {
+		"printouts": [],
+		"fulltext": "Cocentral implies central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cocentral_implies_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cocentral implies centralizer-dense": {
+		"printouts": [],
+		"fulltext": "Cocentral implies centralizer-dense",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cocentral_implies_centralizer-dense",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cocentral implies right-quotient-transitively central factor": {
+		"printouts": [],
+		"fulltext": "Cocentral implies right-quotient-transitively central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cocentral_implies_right-quotient-transitively_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cocentral not implies amalgam-characteristic": {
+		"printouts": [],
+		"fulltext": "Cocentral not implies amalgam-characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cocentral_not_implies_amalgam-characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cocentrality is transitive": {
+		"printouts": [],
+		"fulltext": "Cocentrality is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cocentrality_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cocentrality is upward-closed": {
+		"printouts": [],
+		"fulltext": "Cocentrality is upward-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cocentrality_is_upward-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cocentrality satisfies intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Cocentrality satisfies intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cocentrality_satisfies_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cofactorial automorphism-invariance is not transitive": {
+		"printouts": [],
+		"fulltext": "Cofactorial automorphism-invariance is not transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cofactorial_automorphism-invariance_is_not_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cofactorial automorphism-invariant implies left-transitively 2-subnormal": {
+		"printouts": [],
+		"fulltext": "Cofactorial automorphism-invariant implies left-transitively 2-subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cofactorial_automorphism-invariant_implies_left-transitively_2-subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Column orthogonality theorem": {
+		"printouts": [],
+		"fulltext": "Column orthogonality theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Column_orthogonality_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commensurator of subgroup is subgroup": {
+		"printouts": [],
+		"fulltext": "Commensurator of subgroup is subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commensurator_of_subgroup_is_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commutative implies flexible": {
+		"printouts": [],
+		"fulltext": "Commutative implies flexible",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commutative_implies_flexible",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commutator of a group and a subgroup implies normal": {
+		"printouts": [],
+		"fulltext": "Commutator of a group and a subgroup implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commutator_of_a_group_and_a_subgroup_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commutator of a normal subgroup and a subset implies 2-subnormal": {
+		"printouts": [],
+		"fulltext": "Commutator of a normal subgroup and a subset implies 2-subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commutator_of_a_normal_subgroup_and_a_subset_implies_2-subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commutator of a transitively normal subgroup and a subset implies normal": {
+		"printouts": [],
+		"fulltext": "Commutator of a transitively normal subgroup and a subset implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commutator_of_a_transitively_normal_subgroup_and_a_subset_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commutator of finite group with cyclic coprime automorphism group equals second commutator": {
+		"printouts": [],
+		"fulltext": "Commutator of finite group with cyclic coprime automorphism group equals second commutator",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commutator_of_finite_group_with_cyclic_coprime_automorphism_group_equals_second_commutator",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commutator of finite nilpotent group with coprime automorphism group equals second commutator": {
+		"printouts": [],
+		"fulltext": "Commutator of finite nilpotent group with coprime automorphism group equals second commutator",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commutator_of_finite_nilpotent_group_with_coprime_automorphism_group_equals_second_commutator",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commutator-in-center is intersection-closed": {
+		"printouts": [],
+		"fulltext": "Commutator-in-center is intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commutator-in-center_is_intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Commuting of non-identity elements defines an equivalence relation between prime divisors of the order of a finite CN-group": {
+		"printouts": [],
+		"fulltext": "Commuting of non-identity elements defines an equivalence relation between prime divisors of the order of a finite CN-group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Commuting_of_non-identity_elements_defines_an_equivalence_relation_between_prime_divisors_of_the_order_of_a_finite_CN-group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complemented central factor not implies direct factor": {
+		"printouts": [],
+		"fulltext": "Complemented central factor not implies direct factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complemented_central_factor_not_implies_direct_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complemented characteristic not implies left-transitively complemented normal": {
+		"printouts": [],
+		"fulltext": "Complemented characteristic not implies left-transitively complemented normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complemented_characteristic_not_implies_left-transitively_complemented_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complemented normal implies endomorphism kernel": {
+		"printouts": [],
+		"fulltext": "Complemented normal implies endomorphism kernel",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complemented_normal_implies_endomorphism_kernel",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complemented normal is quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Complemented normal is quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complemented_normal_is_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complemented normal not implies direct factor": {
+		"printouts": [],
+		"fulltext": "Complemented normal not implies direct factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complemented_normal_not_implies_direct_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complemented normal not implies local powering-invariant": {
+		"printouts": [],
+		"fulltext": "Complemented normal not implies local powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complemented_normal_not_implies_local_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complete divisibility-closedness is strongly intersection-closed": {
+		"printouts": [],
+		"fulltext": "Complete divisibility-closedness is strongly intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complete_divisibility-closedness_is_strongly_intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complete divisibility-closedness is transitive": {
+		"printouts": [],
+		"fulltext": "Complete divisibility-closedness is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complete_divisibility-closedness_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Complete not implies ambivalent": {
+		"printouts": [],
+		"fulltext": "Complete not implies ambivalent",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Complete_not_implies_ambivalent",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Composition factor-unique not implies composition series-unique": {
+		"printouts": [],
+		"fulltext": "Composition factor-unique not implies composition series-unique",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Composition_factor-unique_not_implies_composition_series-unique",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy class of prime power size implies not simple": {
+		"printouts": [],
+		"fulltext": "Conjugacy class of prime power size implies not simple",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy_class_of_prime_power_size_implies_not_simple",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy functor whose normalizer generates whole group with p'-core controls fusion": {
+		"printouts": [],
+		"fulltext": "Conjugacy functor whose normalizer generates whole group with p'-core controls fusion",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy_functor_whose_normalizer_generates_whole_group_with_p%27-core_controls_fusion",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-closed and Hall not implies retract": {
+		"printouts": [],
+		"fulltext": "Conjugacy-closed and Hall not implies retract",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_and_Hall_not_implies_retract",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-closed implies focal subgroup equals derived subgroup": {
+		"printouts": [],
+		"fulltext": "Conjugacy-closed implies focal subgroup equals derived subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_implies_focal_subgroup_equals_derived_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-closed normal not implies central factor": {
+		"printouts": [],
+		"fulltext": "Conjugacy-closed normal not implies central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_normal_not_implies_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-closed not implies weak subset-conjugacy-closed": {
+		"printouts": [],
+		"fulltext": "Conjugacy-closed not implies weak subset-conjugacy-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closed_not_implies_weak_subset-conjugacy-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-closedness is not join-closed": {
+		"printouts": [],
+		"fulltext": "Conjugacy-closedness is not join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closedness_is_not_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-closedness is not upper join-closed": {
+		"printouts": [],
+		"fulltext": "Conjugacy-closedness is not upper join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closedness_is_not_upper_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-closedness is transitive": {
+		"printouts": [],
+		"fulltext": "Conjugacy-closedness is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-closedness_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-separable and aperiodic implies every extensible automorphism is class-preserving": {
+		"printouts": [],
+		"fulltext": "Conjugacy-separable and aperiodic implies every extensible automorphism is class-preserving",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-separable_and_aperiodic_implies_every_extensible_automorphism_is_class-preserving",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-separable implies every quotient-pullbackable automorphism is class-preserving": {
+		"printouts": [],
+		"fulltext": "Conjugacy-separable implies every quotient-pullbackable automorphism is class-preserving",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-separable_implies_every_quotient-pullbackable_automorphism_is_class-preserving",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugacy-separable implies residually finite": {
+		"printouts": [],
+		"fulltext": "Conjugacy-separable implies residually finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugacy-separable_implies_residually_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugate-comparable not implies normal": {
+		"printouts": [],
+		"fulltext": "Conjugate-comparable not implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-comparable_not_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugate-denseness is transitive": {
+		"printouts": [],
+		"fulltext": "Conjugate-denseness is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-denseness_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugate-intersection index theorem": {
+		"printouts": [],
+		"fulltext": "Conjugate-intersection index theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-intersection_index_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugate-join-closed subnormal implies join-transitively subnormal": {
+		"printouts": [],
+		"fulltext": "Conjugate-join-closed subnormal implies join-transitively subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-join-closed_subnormal_implies_join-transitively_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugate-permutability is conjugate-join-closed": {
+		"printouts": [],
+		"fulltext": "Conjugate-permutability is conjugate-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-permutability_is_conjugate-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Conjugate-permutability satisfies intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Conjugate-permutability satisfies intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Conjugate-permutability_satisfies_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Contranormal not implies self-normalizing": {
+		"printouts": [],
+		"fulltext": "Contranormal not implies self-normalizing",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Contranormal_not_implies_self-normalizing",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Contranormality is UL-join-closed": {
+		"printouts": [],
+		"fulltext": "Contranormality is UL-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Contranormality_is_UL-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Contranormality is transitive": {
+		"printouts": [],
+		"fulltext": "Contranormality is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Contranormality_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Contranormality is upper join-closed": {
+		"printouts": [],
+		"fulltext": "Contranormality is upper join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Contranormality_is_upper_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Coprime automorphism-faithful characteristicity is transitive": {
+		"printouts": [],
+		"fulltext": "Coprime automorphism-faithful characteristicity is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Coprime_automorphism-faithful_characteristicity_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Core-free and permutable implies subdirect product of finite nilpotent groups": {
+		"printouts": [],
+		"fulltext": "Core-free and permutable implies subdirect product of finite nilpotent groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Core-free_and_permutable_implies_subdirect_product_of_finite_nilpotent_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Core-free permutable subnormal implies solvable of length at most one less than subnormal depth": {
+		"printouts": [],
+		"fulltext": "Core-free permutable subnormal implies solvable of length at most one less than subnormal depth",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Core-free_permutable_subnormal_implies_solvable_of_length_at_most_one_less_than_subnormal_depth",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Corollary of Thompson transitivity theorem": {
+		"printouts": [],
+		"fulltext": "Corollary of Thompson transitivity theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Corollary_of_Thompson_transitivity_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Corollary of centralizer product theorem for rank at least three": {
+		"printouts": [],
+		"fulltext": "Corollary of centralizer product theorem for rank at least three",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Corollary_of_centralizer_product_theorem_for_rank_at_least_three",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Criterion for projective representation to lift to linear representation": {
+		"printouts": [],
+		"fulltext": "Criterion for projective representation to lift to linear representation",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Criterion_for_projective_representation_to_lift_to_linear_representation",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cube map is endomorphism iff abelian (if order is not a multiple of 3)": {
+		"printouts": [],
+		"fulltext": "Cube map is endomorphism iff abelian (if order is not a multiple of 3)",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cube_map_is_endomorphism_iff_abelian_(if_order_is_not_a_multiple_of_3)",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cube map is surjective endomorphism implies abelian": {
+		"printouts": [],
+		"fulltext": "Cube map is surjective endomorphism implies abelian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cube_map_is_surjective_endomorphism_implies_abelian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic Frattini quotient implies cyclic": {
+		"printouts": [],
+		"fulltext": "Cyclic Frattini quotient implies cyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_Frattini_quotient_implies_cyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic automorphism group not implies cyclic": {
+		"printouts": [],
+		"fulltext": "Cyclic automorphism group not implies cyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_automorphism_group_not_implies_cyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic characteristic implies hereditarily characteristic": {
+		"printouts": [],
+		"fulltext": "Cyclic characteristic implies hereditarily characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_characteristic_implies_hereditarily_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic iff not a union of proper subgroups": {
+		"printouts": [],
+		"fulltext": "Cyclic iff not a union of proper subgroups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_iff_not_a_union_of_proper_subgroups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic implies abelian": {
+		"printouts": [],
+		"fulltext": "Cyclic implies abelian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_implies_abelian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic implies abelian automorphism group": {
+		"printouts": [],
+		"fulltext": "Cyclic implies abelian automorphism group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_implies_abelian_automorphism_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic normal implies hereditarily normal": {
+		"printouts": [],
+		"fulltext": "Cyclic normal implies hereditarily normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_normal_implies_hereditarily_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic normal is not join-closed": {
+		"printouts": [],
+		"fulltext": "Cyclic normal is not join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_normal_is_not_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic over central implies abelian": {
+		"printouts": [],
+		"fulltext": "Cyclic over central implies abelian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_over_central_implies_abelian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic quotient of automorphism group by class-preserving automorphism group implies same orbit sizes of conjugacy classes and irreducible representations under automorphism group": {
+		"printouts": [],
+		"fulltext": "Cyclic quotient of automorphism group by class-preserving automorphism group implies same orbit sizes of conjugacy classes and irreducible representations under automorphism group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic_quotient_of_automorphism_group_by_class-preserving_automorphism_group_implies_same_orbit_sizes_of_conjugacy_classes_and_irreducible_representations_under_automorphism_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclic-quotient characteristic implies upward-closed characteristic": {
+		"printouts": [],
+		"fulltext": "Cyclic-quotient characteristic implies upward-closed characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclic-quotient_characteristic_implies_upward-closed_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Cyclicity is subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Cyclicity is subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Cyclicity_is_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Dedekind implies ACIC": {
+		"printouts": [],
+		"fulltext": "Dedekind implies ACIC",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Dedekind_implies_ACIC",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Dedekind implies class two": {
+		"printouts": [],
+		"fulltext": "Dedekind implies class two",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Dedekind_implies_class_two",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Dedekind not implies abelian": {
+		"printouts": [],
+		"fulltext": "Dedekind not implies abelian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Dedekind_not_implies_abelian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Derivation-invariance does not satisfy intermediate subring condition": {
+		"printouts": [],
+		"fulltext": "Derivation-invariance does not satisfy intermediate subring condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Derivation-invariance_does_not_satisfy_intermediate_subring_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Derivation-invariance is Lie bracket-closed": {
+		"printouts": [],
+		"fulltext": "Derivation-invariance is Lie bracket-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Derivation-invariance_is_Lie_bracket-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Derivation-invariance is centralizer-closed": {
+		"printouts": [],
+		"fulltext": "Derivation-invariance is centralizer-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Derivation-invariance_is_centralizer-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Derivation-invariance is not upper join-closed": {
+		"printouts": [],
+		"fulltext": "Derivation-invariance is not upper join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Derivation-invariance_is_not_upper_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Derivation-invariance is transitive": {
+		"printouts": [],
+		"fulltext": "Derivation-invariance is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Derivation-invariance_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Derivation-invariant not implies characteristic": {
+		"printouts": [],
+		"fulltext": "Derivation-invariant not implies characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Derivation-invariant_not_implies_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Derived subgroup satisfies ascending chain condition on subnormal subgroups implies subnormal join property": {
+		"printouts": [],
+		"fulltext": "Derived subgroup satisfies ascending chain condition on subnormal subgroups implies subnormal join property",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Derived_subgroup_satisfies_ascending_chain_condition_on_subnormal_subgroups_implies_subnormal_join_property",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Descendance does not satisfy image condition": {
+		"printouts": [],
+		"fulltext": "Descendance does not satisfy image condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Descendance_does_not_satisfy_image_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Descendant not implies subnormal": {
+		"printouts": [],
+		"fulltext": "Descendant not implies subnormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Descendant_not_implies_subnormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Dickson's theorem": {
+		"printouts": [],
+		"fulltext": "Dickson's theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Dickson%27s_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Dihedral trick": {
+		"printouts": [],
+		"fulltext": "Dihedral trick",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Dihedral_trick",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor implies central factor": {
+		"printouts": [],
+		"fulltext": "Direct factor implies central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_implies_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor implies join-transitively central factor": {
+		"printouts": [],
+		"fulltext": "Direct factor implies join-transitively central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_implies_join-transitively_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor implies normal": {
+		"printouts": [],
+		"fulltext": "Direct factor implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor implies right-quotient-transitively central factor": {
+		"printouts": [],
+		"fulltext": "Direct factor implies right-quotient-transitively central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_implies_right-quotient-transitively_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor implies transitively normal": {
+		"printouts": [],
+		"fulltext": "Direct factor implies transitively normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_implies_transitively_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor is not finite-join-closed": {
+		"printouts": [],
+		"fulltext": "Direct factor is not finite-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_is_not_finite-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor is not intersection-closed": {
+		"printouts": [],
+		"fulltext": "Direct factor is not intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_is_not_intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor is not upper join-closed": {
+		"printouts": [],
+		"fulltext": "Direct factor is not upper join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_is_not_upper_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor is quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Direct factor is quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_is_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor is transitive": {
+		"printouts": [],
+		"fulltext": "Direct factor is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor not implies amalgam-characteristic": {
+		"printouts": [],
+		"fulltext": "Direct factor not implies amalgam-characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_not_implies_amalgam-characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor not implies characteristic": {
+		"printouts": [],
+		"fulltext": "Direct factor not implies characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_not_implies_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor satisfies intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Direct factor satisfies intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_satisfies_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Direct factor satisfies lower central series condition": {
+		"printouts": [],
+		"fulltext": "Direct factor satisfies lower central series condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Direct_factor_satisfies_lower_central_series_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Directed union of subgroups is subgroup": {
+		"printouts": [],
+		"fulltext": "Directed union of subgroups is subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Directed_union_of_subgroups_is_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Divisibility is central extension-closed": {
+		"printouts": [],
+		"fulltext": "Divisibility is central extension-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Divisibility_is_central_extension-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Divisibility-closed implies powering-invariant": {
+		"printouts": [],
+		"fulltext": "Divisibility-closed implies powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Divisibility-closed_implies_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Divisibility-closed not implies local divisibility-closed": {
+		"printouts": [],
+		"fulltext": "Divisibility-closed not implies local divisibility-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Divisibility-closed_not_implies_local_divisibility-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Divisibility-closedness is not finite-intersection-closed": {
+		"printouts": [],
+		"fulltext": "Divisibility-closedness is not finite-intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Divisibility-closedness_is_not_finite-intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Divisibility-closedness is not finite-join-closed": {
+		"printouts": [],
+		"fulltext": "Divisibility-closedness is not finite-join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Divisibility-closedness_is_not_finite-join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Divisibility-closedness is transitive": {
+		"printouts": [],
+		"fulltext": "Divisibility-closedness is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Divisibility-closedness_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Divisible not implies rationally powered": {
+		"printouts": [],
+		"fulltext": "Divisible not implies rationally powered",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Divisible_not_implies_rationally_powered",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Double coset index two implies maximal": {
+		"printouts": [],
+		"fulltext": "Double coset index two implies maximal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Double_coset_index_two_implies_maximal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Doubly transitive implies primitive": {
+		"printouts": [],
+		"fulltext": "Doubly transitive implies primitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Doubly_transitive_implies_primitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorph-dominating not implies automorph-conjugate": {
+		"printouts": [],
+		"fulltext": "Endomorph-dominating not implies automorph-conjugate",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorph-dominating_not_implies_automorph-conjugate",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorphism image implies divisibility-closed": {
+		"printouts": [],
+		"fulltext": "Endomorphism image implies divisibility-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorphism_image_implies_divisibility-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorphism image implies powering-invariant": {
+		"printouts": [],
+		"fulltext": "Endomorphism image implies powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorphism_image_implies_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorphism kernel does not satisfy intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Endomorphism kernel does not satisfy intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorphism_kernel_does_not_satisfy_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorphism kernel implies quotient-powering-invariant": {
+		"printouts": [],
+		"fulltext": "Endomorphism kernel implies quotient-powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorphism_kernel_implies_quotient-powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorphism kernel is not transitive": {
+		"printouts": [],
+		"fulltext": "Endomorphism kernel is not transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorphism_kernel_is_not_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorphism kernel is quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Endomorphism kernel is quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorphism_kernel_is_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Endomorphism kernel not implies complemented normal": {
+		"printouts": [],
+		"fulltext": "Endomorphism kernel not implies complemented normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Endomorphism_kernel_not_implies_complemented_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Equivalence of definitions of finite characteristically simple group": {
+		"printouts": [],
+		"fulltext": "Equivalence of definitions of finite characteristically simple group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Equivalence_of_definitions_of_finite_characteristically_simple_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Equivalence of definitions of group": {
+		"printouts": [],
+		"fulltext": "Equivalence of definitions of group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Equivalence_of_definitions_of_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every Sylow subgroup is cyclic implies metacyclic": {
+		"printouts": [],
+		"fulltext": "Every Sylow subgroup is cyclic implies metacyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_Sylow_subgroup_is_cyclic_implies_metacyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every element is automorphic to its inverse is characteristic subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Every element is automorphic to its inverse is characteristic subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_element_is_automorphic_to_its_inverse_is_characteristic_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every finite division ring is a field": {
+		"printouts": [],
+		"fulltext": "Every finite division ring is a field",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_finite_division_ring_is_a_field",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every group is a quotient of a free group": {
+		"printouts": [],
+		"fulltext": "Every group is a quotient of a free group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_group_is_a_quotient_of_a_free_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every group is a quotient of a hypoabelian group": {
+		"printouts": [],
+		"fulltext": "Every group is a quotient of a hypoabelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_group_is_a_quotient_of_a_hypoabelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every group is a quotient of a residually finite group": {
+		"printouts": [],
+		"fulltext": "Every group is a quotient of a residually finite group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_group_is_a_quotient_of_a_residually_finite_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every group is a quotient of a residually nilpotent group": {
+		"printouts": [],
+		"fulltext": "Every group is a quotient of a residually nilpotent group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_group_is_a_quotient_of_a_residually_nilpotent_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every group is a union of cyclic subgroups": {
+		"printouts": [],
+		"fulltext": "Every group is a union of cyclic subgroups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_group_is_a_union_of_cyclic_subgroups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every group is characteristic in itself": {
+		"printouts": [],
+		"fulltext": "Every group is characteristic in itself",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_group_is_characteristic_in_itself",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every group is normal in itself": {
+		"printouts": [],
+		"fulltext": "Every group is normal in itself",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_group_is_normal_in_itself",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every nontrivial subgroup of the group of integers is cyclic on its smallest element": {
+		"printouts": [],
+		"fulltext": "Every nontrivial subgroup of the group of integers is cyclic on its smallest element",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_nontrivial_subgroup_of_the_group_of_integers_is_cyclic_on_its_smallest_element",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every normal subgroup satisfies the quotient-to-subgroup powering-invariance implication": {
+		"printouts": [],
+		"fulltext": "Every normal subgroup satisfies the quotient-to-subgroup powering-invariance implication",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_normal_subgroup_satisfies_the_quotient-to-subgroup_powering-invariance_implication",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Every subgroup is subnormal implies normalizer condition": {
+		"printouts": [],
+		"fulltext": "Every subgroup is subnormal implies normalizer condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Every_subgroup_is_subnormal_implies_normalizer_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Exactly n elements of order dividing n in a finite solvable group implies the elements form a subgroup": {
+		"printouts": [],
+		"fulltext": "Exactly n elements of order dividing n in a finite solvable group implies the elements form a subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Exactly_n_elements_of_order_dividing_n_in_a_finite_solvable_group_implies_the_elements_form_a_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Existentially bound-word not implies verbal": {
+		"printouts": [],
+		"fulltext": "Existentially bound-word not implies verbal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Existentially_bound-word_not_implies_verbal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Extensible implies normal": {
+		"printouts": [],
+		"fulltext": "Extensible implies normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Extensible_implies_normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Extensible implies permutation-extensible": {
+		"printouts": [],
+		"fulltext": "Extensible implies permutation-extensible",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Extensible_implies_permutation-extensible",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Extensible implies subgroup-conjugating": {
+		"printouts": [],
+		"fulltext": "Extensible implies subgroup-conjugating",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Extensible_implies_subgroup-conjugating",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Extraspecial commutator-in-center subgroup is central factor": {
+		"printouts": [],
+		"fulltext": "Extraspecial commutator-in-center subgroup is central factor",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Extraspecial_commutator-in-center_subgroup_is_central_factor",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Extraspecial implies Camina": {
+		"printouts": [],
+		"fulltext": "Extraspecial implies Camina",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Extraspecial_implies_Camina",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"FC not implies BFC": {
+		"printouts": [],
+		"fulltext": "FC not implies BFC",
+		"fullurl": "https://groupprops.subwiki.org/wiki/FC_not_implies_BFC",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"FC not implies finite derived subgroup": {
+		"printouts": [],
+		"fulltext": "FC not implies finite derived subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/FC_not_implies_finite_derived_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"FZ implies finite derived subgroup": {
+		"printouts": [],
+		"fulltext": "FZ implies finite derived subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/FZ_implies_finite_derived_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"FZ implies generalized subnormal join property": {
+		"printouts": [],
+		"fulltext": "FZ implies generalized subnormal join property",
+		"fullurl": "https://groupprops.subwiki.org/wiki/FZ_implies_generalized_subnormal_join_property",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite N-group is solvable or almost simple": {
+		"printouts": [],
+		"fulltext": "Finite N-group is solvable or almost simple",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_N-group_is_solvable_or_almost_simple",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite abelian implies same orbit sizes of conjugacy classes and irreducible representations under automorphism group": {
+		"printouts": [],
+		"fulltext": "Finite abelian implies same orbit sizes of conjugacy classes and irreducible representations under automorphism group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_abelian_implies_same_orbit_sizes_of_conjugacy_classes_and_irreducible_representations_under_automorphism_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite derived subgroup not implies FZ": {
+		"printouts": [],
+		"fulltext": "Finite derived subgroup not implies FZ",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_derived_subgroup_not_implies_FZ",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite direct power-closed characteristic is quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Finite direct power-closed characteristic is quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_direct_power-closed_characteristic_is_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite direct power-closed characteristic is transitive": {
+		"printouts": [],
+		"fulltext": "Finite direct power-closed characteristic is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_direct_power-closed_characteristic_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite direct power-closed characteristic not implies fully invariant": {
+		"printouts": [],
+		"fulltext": "Finite direct power-closed characteristic not implies fully invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_direct_power-closed_characteristic_not_implies_fully_invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite double coset index is not finite-intersection-closed": {
+		"printouts": [],
+		"fulltext": "Finite double coset index is not finite-intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_double_coset_index_is_not_finite-intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite group having at least two conjugacy classes of involutions has order less than the cube of the maximum of orders of centralizers of involutions": {
+		"printouts": [],
+		"fulltext": "Finite group having at least two conjugacy classes of involutions has order less than the cube of the maximum of orders of centralizers of involutions",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_group_having_at_least_two_conjugacy_classes_of_involutions_has_order_less_than_the_cube_of_the_maximum_of_orders_of_centralizers_of_involutions",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite implies local powering-invariant": {
+		"printouts": [],
+		"fulltext": "Finite implies local powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_implies_local_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite implies powering-invariant": {
+		"printouts": [],
+		"fulltext": "Finite implies powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_implies_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite implies subnormal join property": {
+		"printouts": [],
+		"fulltext": "Finite implies subnormal join property",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_implies_subnormal_join_property",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite index implies completely divisibility-closed": {
+		"printouts": [],
+		"fulltext": "Finite index implies completely divisibility-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_index_implies_completely_divisibility-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite index implies powering-invariant": {
+		"printouts": [],
+		"fulltext": "Finite index implies powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_index_implies_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite index not implies local powering-invariant": {
+		"printouts": [],
+		"fulltext": "Finite index not implies local powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_index_not_implies_local_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite minimal simple implies 2-generated": {
+		"printouts": [],
+		"fulltext": "Finite minimal simple implies 2-generated",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_minimal_simple_implies_2-generated",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite non-abelian 2-group has maximal class iff its abelianization has order four": {
+		"printouts": [],
+		"fulltext": "Finite non-abelian 2-group has maximal class iff its abelianization has order four",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_non-abelian_2-group_has_maximal_class_iff_its_abelianization_has_order_four",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite normal implies amalgam-characteristic": {
+		"printouts": [],
+		"fulltext": "Finite normal implies amalgam-characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_normal_implies_amalgam-characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite normal implies image-potentially characteristic": {
+		"printouts": [],
+		"fulltext": "Finite normal implies image-potentially characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_normal_implies_image-potentially_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite normal implies quotient-powering-invariant": {
+		"printouts": [],
+		"fulltext": "Finite normal implies quotient-powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_normal_implies_quotient-powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite not implies composition factor-permutable": {
+		"printouts": [],
+		"fulltext": "Finite not implies composition factor-permutable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_not_implies_composition_factor-permutable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite not implies composition factor-unique": {
+		"printouts": [],
+		"fulltext": "Finite not implies composition factor-unique",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_not_implies_composition_factor-unique",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite not implies divisibility-closed in abelian group": {
+		"printouts": [],
+		"fulltext": "Finite not implies divisibility-closed in abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_not_implies_divisibility-closed_in_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite simple implies 2-generated": {
+		"printouts": [],
+		"fulltext": "Finite simple implies 2-generated",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_simple_implies_2-generated",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite solvable not implies p-normal": {
+		"printouts": [],
+		"fulltext": "Finite solvable not implies p-normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_solvable_not_implies_p-normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite solvable not implies subgroups of all orders dividing the group order": {
+		"printouts": [],
+		"fulltext": "Finite solvable not implies subgroups of all orders dividing the group order",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_solvable_not_implies_subgroups_of_all_orders_dividing_the_group_order",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite solvable not implies supersolvable": {
+		"printouts": [],
+		"fulltext": "Finite solvable not implies supersolvable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_solvable_not_implies_supersolvable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite solvable-extensible implies class-preserving": {
+		"printouts": [],
+		"fulltext": "Finite solvable-extensible implies class-preserving",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_solvable-extensible_implies_class-preserving",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite solvable-extensible implies inner": {
+		"printouts": [],
+		"fulltext": "Finite solvable-extensible implies inner",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_solvable-extensible_implies_inner",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite supersolvable implies subgroups of all orders dividing the group order": {
+		"printouts": [],
+		"fulltext": "Finite supersolvable implies subgroups of all orders dividing the group order",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite_supersolvable_implies_subgroups_of_all_orders_dividing_the_group_order",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite-extensible implies Hall-semidirectly extensible": {
+		"printouts": [],
+		"fulltext": "Finite-extensible implies Hall-semidirectly extensible",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite-extensible_implies_Hall-semidirectly_extensible",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite-extensible implies class-preserving": {
+		"printouts": [],
+		"fulltext": "Finite-extensible implies class-preserving",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite-extensible_implies_class-preserving",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite-extensible implies inner": {
+		"printouts": [],
+		"fulltext": "Finite-extensible implies inner",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite-extensible_implies_inner",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite-extensible implies subgroup-conjugating": {
+		"printouts": [],
+		"fulltext": "Finite-extensible implies subgroup-conjugating",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite-extensible_implies_subgroup-conjugating",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite-quotient-pullbackable implies class-preserving": {
+		"printouts": [],
+		"fulltext": "Finite-quotient-pullbackable implies class-preserving",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite-quotient-pullbackable_implies_class-preserving",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finite-quotient-pullbackable implies inner": {
+		"printouts": [],
+		"fulltext": "Finite-quotient-pullbackable implies inner",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finite-quotient-pullbackable_implies_inner",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated abelian implies Hopfian": {
+		"printouts": [],
+		"fulltext": "Finitely generated abelian implies Hopfian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_abelian_implies_Hopfian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated abelian implies residually finite": {
+		"printouts": [],
+		"fulltext": "Finitely generated abelian implies residually finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_abelian_implies_residually_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated abelian is subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Finitely generated abelian is subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_abelian_is_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated and free implies Hopfian": {
+		"printouts": [],
+		"fulltext": "Finitely generated and free implies Hopfian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_and_free_implies_Hopfian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated and nilpotent implies Hopfian": {
+		"printouts": [],
+		"fulltext": "Finitely generated and nilpotent implies Hopfian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_and_nilpotent_implies_Hopfian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated and parafree not implies free": {
+		"printouts": [],
+		"fulltext": "Finitely generated and parafree not implies free",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_and_parafree_not_implies_free",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated and residually finite implies Hopfian": {
+		"printouts": [],
+		"fulltext": "Finitely generated and residually finite implies Hopfian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_and_residually_finite_implies_Hopfian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated and solvable not implies finitely presented": {
+		"printouts": [],
+		"fulltext": "Finitely generated and solvable not implies finitely presented",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_and_solvable_not_implies_finitely_presented",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated and solvable not implies polycyclic": {
+		"printouts": [],
+		"fulltext": "Finitely generated and solvable not implies polycyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_and_solvable_not_implies_polycyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated implies countable": {
+		"printouts": [],
+		"fulltext": "Finitely generated implies countable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_implies_countable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated implies every subgroup of finite index has finitely many automorphic subgroups": {
+		"printouts": [],
+		"fulltext": "Finitely generated implies every subgroup of finite index has finitely many automorphic subgroups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_implies_every_subgroup_of_finite_index_has_finitely_many_automorphic_subgroups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated implies finitely many homomorphisms to any finite group": {
+		"printouts": [],
+		"fulltext": "Finitely generated implies finitely many homomorphisms to any finite group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_implies_finitely_many_homomorphisms_to_any_finite_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated inner automorphism group implies every locally inner automorphism is inner": {
+		"printouts": [],
+		"fulltext": "Finitely generated inner automorphism group implies every locally inner automorphism is inner",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_inner_automorphism_group_implies_every_locally_inner_automorphism_is_inner",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated not implies Noetherian": {
+		"printouts": [],
+		"fulltext": "Finitely generated not implies Noetherian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_not_implies_Noetherian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated not implies finitely presented": {
+		"printouts": [],
+		"fulltext": "Finitely generated not implies finitely presented",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_not_implies_finitely_presented",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely generated not implies residually finite": {
+		"printouts": [],
+		"fulltext": "Finitely generated not implies residually finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_generated_not_implies_residually_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely many homomorphisms to any finite group implies every subgroup of finite index has finitely many automorphic subgroups": {
+		"printouts": [],
+		"fulltext": "Finitely many homomorphisms to any finite group implies every subgroup of finite index has finitely many automorphic subgroups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_many_homomorphisms_to_any_finite_group_implies_every_subgroup_of_finite_index_has_finitely_many_automorphic_subgroups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely presented and conjugacy-separable implies solvable conjugacy problem": {
+		"printouts": [],
+		"fulltext": "Finitely presented and conjugacy-separable implies solvable conjugacy problem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_presented_and_conjugacy-separable_implies_solvable_conjugacy_problem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely presented and residually finite implies solvable word problem": {
+		"printouts": [],
+		"fulltext": "Finitely presented and residually finite implies solvable word problem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_presented_and_residually_finite_implies_solvable_word_problem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely presented and solvable not implies polycyclic": {
+		"printouts": [],
+		"fulltext": "Finitely presented and solvable not implies polycyclic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_presented_and_solvable_not_implies_polycyclic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely presented implies all homomorphisms to any finite group can be listed in finite time": {
+		"printouts": [],
+		"fulltext": "Finitely presented implies all homomorphisms to any finite group can be listed in finite time",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_presented_implies_all_homomorphisms_to_any_finite_group_can_be_listed_in_finite_time",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finitely presented not implies Noetherian": {
+		"printouts": [],
+		"fulltext": "Finitely presented not implies Noetherian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finitely_presented_not_implies_Noetherian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Finiteness is extension-closed": {
+		"printouts": [],
+		"fulltext": "Finiteness is extension-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Finiteness_is_extension-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"First isomorphism theorem": {
+		"printouts": [],
+		"fulltext": "First isomorphism theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/First_isomorphism_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fixed-point subgroup of a subgroup of the automorphism group implies local powering-invariant": {
+		"printouts": [],
+		"fulltext": "Fixed-point subgroup of a subgroup of the automorphism group implies local powering-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fixed-point_subgroup_of_a_subgroup_of_the_automorphism_group_implies_local_powering-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fixed-point-free automorphism of order four implies solvable": {
+		"printouts": [],
+		"fulltext": "Fixed-point-free automorphism of order four implies solvable",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fixed-point-free_automorphism_of_order_four_implies_solvable",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fixed-point-free automorphism of order three implies nilpotent": {
+		"printouts": [],
+		"fulltext": "Fixed-point-free automorphism of order three implies nilpotent",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fixed-point-free_automorphism_of_order_three_implies_nilpotent",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fixed-point-free involution on finite group is inverse map": {
+		"printouts": [],
+		"fulltext": "Fixed-point-free involution on finite group is inverse map",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fixed-point-free_involution_on_finite_group_is_inverse_map",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Focal subgroup of a Sylow subgroup is generated by the commutators with normalizers of non-identity tame intersections": {
+		"printouts": [],
+		"fulltext": "Focal subgroup of a Sylow subgroup is generated by the commutators with normalizers of non-identity tame intersections",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Focal_subgroup_of_a_Sylow_subgroup_is_generated_by_the_commutators_with_normalizers_of_non-identity_tame_intersections",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Focal subgroup theorem": {
+		"printouts": [],
+		"fulltext": "Focal subgroup theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Focal_subgroup_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fourth isomorphism theorem": {
+		"printouts": [],
+		"fulltext": "Fourth isomorphism theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fourth_isomorphism_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Frattini subgroup is nilpotent in finite": {
+		"printouts": [],
+		"fulltext": "Frattini subgroup is nilpotent in finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Frattini_subgroup_is_nilpotent_in_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Frattini subgroup is normal-monotone": {
+		"printouts": [],
+		"fulltext": "Frattini subgroup is normal-monotone",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Frattini_subgroup_is_normal-monotone",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Frattini's argument": {
+		"printouts": [],
+		"fulltext": "Frattini's argument",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Frattini%27s_argument",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Frattini-embedded normal-realizable implies every automorph-conjugate subgroup is characteristic": {
+		"printouts": [],
+		"fulltext": "Frattini-embedded normal-realizable implies every automorph-conjugate subgroup is characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Frattini-embedded_normal-realizable_implies_every_automorph-conjugate_subgroup_is_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Frattini-embedded normal-realizable implies inner-in-automorphism-Frattini": {
+		"printouts": [],
+		"fulltext": "Frattini-embedded normal-realizable implies inner-in-automorphism-Frattini",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Frattini-embedded_normal-realizable_implies_inner-in-automorphism-Frattini",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Frattini-in-center odd-order p-group implies p-power map is endomorphism": {
+		"printouts": [],
+		"fulltext": "Frattini-in-center odd-order p-group implies p-power map is endomorphism",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Frattini-in-center_odd-order_p-group_implies_p-power_map_is_endomorphism",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Free abelian is subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Free abelian is subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Free_abelian_is_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Free factor implies self-normalizing or trivial": {
+		"printouts": [],
+		"fulltext": "Free factor implies self-normalizing or trivial",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Free_factor_implies_self-normalizing_or_trivial",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Free implies every subgroup is descendant": {
+		"printouts": [],
+		"fulltext": "Free implies every subgroup is descendant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Free_implies_every_subgroup_is_descendant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Free implies residually finite": {
+		"printouts": [],
+		"fulltext": "Free implies residually finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Free_implies_residually_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Free implies residually nilpotent": {
+		"printouts": [],
+		"fulltext": "Free implies residually nilpotent",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Free_implies_residually_nilpotent",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Freeness is subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Freeness is subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Freeness_is_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Frobenius' normal p-complement theorem": {
+		"printouts": [],
+		"fulltext": "Frobenius' normal p-complement theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Frobenius%27_normal_p-complement_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Full invariance does not satisfy image condition": {
+		"printouts": [],
+		"fulltext": "Full invariance does not satisfy image condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Full_invariance_does_not_satisfy_image_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Full invariance does not satisfy intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Full invariance does not satisfy intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Full_invariance_does_not_satisfy_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Full invariance is finite direct power-closed": {
+		"printouts": [],
+		"fulltext": "Full invariance is finite direct power-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Full_invariance_is_finite_direct_power-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Full invariance is not direct power-closed": {
+		"printouts": [],
+		"fulltext": "Full invariance is not direct power-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Full_invariance_is_not_direct_power-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Full invariance is quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Full invariance is quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Full_invariance_is_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Full invariance is strongly join-closed": {
+		"printouts": [],
+		"fulltext": "Full invariance is strongly join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Full_invariance_is_strongly_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Full invariance is transitive": {
+		"printouts": [],
+		"fulltext": "Full invariance is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Full_invariance_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant direct factor implies left-transitively homomorph-containing": {
+		"printouts": [],
+		"fulltext": "Fully invariant direct factor implies left-transitively homomorph-containing",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_direct_factor_implies_left-transitively_homomorph-containing",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant implies characteristic": {
+		"printouts": [],
+		"fulltext": "Fully invariant implies characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_implies_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant implies finite direct power-closed characteristic": {
+		"printouts": [],
+		"fulltext": "Fully invariant implies finite direct power-closed characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_implies_finite_direct_power-closed_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant implies ideal for class two Lie ring": {
+		"printouts": [],
+		"fulltext": "Fully invariant implies ideal for class two Lie ring",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_implies_ideal_for_class_two_Lie_ring",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant not implies abelian-potentially verbal in abelian group": {
+		"printouts": [],
+		"fulltext": "Fully invariant not implies abelian-potentially verbal in abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_not_implies_abelian-potentially_verbal_in_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant not implies normal in loops": {
+		"printouts": [],
+		"fulltext": "Fully invariant not implies normal in loops",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_not_implies_normal_in_loops",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant not implies verbal in finite abelian group": {
+		"printouts": [],
+		"fulltext": "Fully invariant not implies verbal in finite abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_not_implies_verbal_in_finite_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant of strictly characteristic implies strictly characteristic": {
+		"printouts": [],
+		"fulltext": "Fully invariant of strictly characteristic implies strictly characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_of_strictly_characteristic_implies_strictly_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fully invariant subgroup of abelian group not implies divisibility-closed": {
+		"printouts": [],
+		"fulltext": "Fully invariant subgroup of abelian group not implies divisibility-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fully_invariant_subgroup_of_abelian_group_not_implies_divisibility-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fusion system-relatively weakly closed is not finite-intersection-closed": {
+		"printouts": [],
+		"fulltext": "Fusion system-relatively weakly closed is not finite-intersection-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fusion_system-relatively_weakly_closed_is_not_finite-intersection-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Fusion system-relatively weakly closed not implies isomorph-normal": {
+		"printouts": [],
+		"fulltext": "Fusion system-relatively weakly closed not implies isomorph-normal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Fusion_system-relatively_weakly_closed_not_implies_isomorph-normal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Glauberman type implies ZJ-functor controls fusion": {
+		"printouts": [],
+		"fulltext": "Glauberman type implies ZJ-functor controls fusion",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Glauberman_type_implies_ZJ-functor_controls_fusion",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Glauberman type is not quotient-closed": {
+		"printouts": [],
+		"fulltext": "Glauberman type is not quotient-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Glauberman_type_is_not_quotient-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Glauberman type not implies p-constrained": {
+		"printouts": [],
+		"fulltext": "Glauberman type not implies p-constrained",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Glauberman_type_not_implies_p-constrained",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Glauberman's replacement theorem": {
+		"printouts": [],
+		"fulltext": "Glauberman's replacement theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Glauberman%27s_replacement_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Glauberman's theorem on intersection with the ZJ-subgroup": {
+		"printouts": [],
+		"fulltext": "Glauberman's theorem on intersection with the ZJ-subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Glauberman%27s_theorem_on_intersection_with_the_ZJ-subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Glauberman-Thompson normal p-complement theorem": {
+		"printouts": [],
+		"fulltext": "Glauberman-Thompson normal p-complement theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Glauberman-Thompson_normal_p-complement_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Golod's theorem on locally finite groups": {
+		"printouts": [],
+		"fulltext": "Golod's theorem on locally finite groups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Golod%27s_theorem_on_locally_finite_groups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Grand orthogonality theorem": {
+		"printouts": [],
+		"fulltext": "Grand orthogonality theorem",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Grand_orthogonality_theorem",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Group acts as automorphisms by conjugation": {
+		"printouts": [],
+		"fulltext": "Group acts as automorphisms by conjugation",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Group_acts_as_automorphisms_by_conjugation",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Group implies G-loop": {
+		"printouts": [],
+		"fulltext": "Group implies G-loop",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Group_implies_G-loop",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall does not satisfy transfer condition": {
+		"printouts": [],
+		"fulltext": "Hall does not satisfy transfer condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_does_not_satisfy_transfer_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall implies join of Sylow subgroups": {
+		"printouts": [],
+		"fulltext": "Hall implies join of Sylow subgroups",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_implies_join_of_Sylow_subgroups",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall implies paracharacteristic": {
+		"printouts": [],
+		"fulltext": "Hall implies paracharacteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_implies_paracharacteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall is transitive": {
+		"printouts": [],
+		"fulltext": "Hall is transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_is_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall not implies WNSCDIN": {
+		"printouts": [],
+		"fulltext": "Hall not implies WNSCDIN",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_not_implies_WNSCDIN",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall not implies automorph-conjugate": {
+		"printouts": [],
+		"fulltext": "Hall not implies automorph-conjugate",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_not_implies_automorph-conjugate",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall not implies order-conjugate": {
+		"printouts": [],
+		"fulltext": "Hall not implies order-conjugate",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_not_implies_order-conjugate",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall not implies order-isomorphic": {
+		"printouts": [],
+		"fulltext": "Hall not implies order-isomorphic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_not_implies_order-isomorphic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall not implies procharacteristic": {
+		"printouts": [],
+		"fulltext": "Hall not implies procharacteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_not_implies_procharacteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall not implies pronormal": {
+		"printouts": [],
+		"fulltext": "Hall not implies pronormal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_not_implies_pronormal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall retract implies order-conjugate": {
+		"printouts": [],
+		"fulltext": "Hall retract implies order-conjugate",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_retract_implies_order-conjugate",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall satisfies intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Hall satisfies intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_satisfies_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall satisfies permuting transfer condition": {
+		"printouts": [],
+		"fulltext": "Hall satisfies permuting transfer condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_satisfies_permuting_transfer_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall subgroups exist in finite solvable group": {
+		"printouts": [],
+		"fulltext": "Hall subgroups exist in finite solvable group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_subgroups_exist_in_finite_solvable_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall subgroups need not exist": {
+		"printouts": [],
+		"fulltext": "Hall subgroups need not exist",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall_subgroups_need_not_exist",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall-extensible implies class-preserving": {
+		"printouts": [],
+		"fulltext": "Hall-extensible implies class-preserving",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall-extensible_implies_class-preserving",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall-semidirectly extensible implies inner": {
+		"printouts": [],
+		"fulltext": "Hall-semidirectly extensible implies inner",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall-semidirectly_extensible_implies_inner",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hall-semidirectly extensible implies linearly pushforwardable over prime field": {
+		"printouts": [],
+		"fulltext": "Hall-semidirectly extensible implies linearly pushforwardable over prime field",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hall-semidirectly_extensible_implies_linearly_pushforwardable_over_prime_field",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Having subgroups of all orders dividing the group order is not quotient-closed": {
+		"printouts": [],
+		"fulltext": "Having subgroups of all orders dividing the group order is not quotient-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Having_subgroups_of_all_orders_dividing_the_group_order_is_not_quotient-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Having subgroups of all orders dividing the group order is not subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Having subgroups of all orders dividing the group order is not subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Having_subgroups_of_all_orders_dividing_the_group_order_is_not_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hereditarily characteristic not implies cyclic in finite": {
+		"printouts": [],
+		"fulltext": "Hereditarily characteristic not implies cyclic in finite",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hereditarily_characteristic_not_implies_cyclic_in_finite",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Higman's theorem on automorphism of prime order of Lie ring": {
+		"printouts": [],
+		"fulltext": "Higman's theorem on automorphism of prime order of Lie ring",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Higman%27s_theorem_on_automorphism_of_prime_order_of_Lie_ring",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Homomorph-containing not implies no nontrivial homomorphism to quotient group": {
+		"printouts": [],
+		"fulltext": "Homomorph-containing not implies no nontrivial homomorphism to quotient group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Homomorph-containing_not_implies_no_nontrivial_homomorphism_to_quotient_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Homomorph-containment is finite direct power-closed": {
+		"printouts": [],
+		"fulltext": "Homomorph-containment is finite direct power-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Homomorph-containment_is_finite_direct_power-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Homomorph-containment is not transitive": {
+		"printouts": [],
+		"fulltext": "Homomorph-containment is not transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Homomorph-containment_is_not_transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Homomorph-containment is quotient-transitive": {
+		"printouts": [],
+		"fulltext": "Homomorph-containment is quotient-transitive",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Homomorph-containment_is_quotient-transitive",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Homomorph-containment is strongly join-closed": {
+		"printouts": [],
+		"fulltext": "Homomorph-containment is strongly join-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Homomorph-containment_is_strongly_join-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Homomorph-containment satisfies intermediate subgroup condition": {
+		"printouts": [],
+		"fulltext": "Homomorph-containment satisfies intermediate subgroup condition",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Homomorph-containment_satisfies_intermediate_subgroup_condition",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hopfianness is not subgroup-closed": {
+		"printouts": [],
+		"fulltext": "Hopfianness is not subgroup-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hopfianness_is_not_subgroup-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Hypoabelian not implies imperfect": {
+		"printouts": [],
+		"fulltext": "Hypoabelian not implies imperfect",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Hypoabelian_not_implies_imperfect",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"IA not implies class-preserving": {
+		"printouts": [],
+		"fulltext": "IA not implies class-preserving",
+		"fullurl": "https://groupprops.subwiki.org/wiki/IA_not_implies_class-preserving",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ideal not implies derivation-invariant": {
+		"printouts": [],
+		"fulltext": "Ideal not implies derivation-invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ideal_not_implies_derivation-invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ideal property is centralizer-closed": {
+		"printouts": [],
+		"fulltext": "Ideal property is centralizer-closed",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ideal_property_is_centralizer-closed",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ideal property is not transitive for Lie rings": {
+		"printouts": [],
+		"fulltext": "Ideal property is not transitive for Lie rings",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ideal_property_is_not_transitive_for_Lie_rings",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Ideal property is upper join-closed for Lie rings": {
+		"printouts": [],
+		"fulltext": "Ideal property is upper join-closed for Lie rings",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Ideal_property_is_upper_join-closed_for_Lie_rings",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Identity functor controls strong fusion for abelian Sylow subgroup": {
+		"printouts": [],
+		"fulltext": "Identity functor controls strong fusion for abelian Sylow subgroup",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Identity_functor_controls_strong_fusion_for_abelian_Sylow_subgroup",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Identity functor controls strong fusion for saturated fusion system on abelian group": {
+		"printouts": [],
+		"fulltext": "Identity functor controls strong fusion for saturated fusion system on abelian group",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Identity_functor_controls_strong_fusion_for_saturated_fusion_system_on_abelian_group",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Image-closed characteristic not implies fully invariant": {
+		"printouts": [],
+		"fulltext": "Image-closed characteristic not implies fully invariant",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Image-closed_characteristic_not_implies_fully_invariant",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Image-closed fully invariant not implies verbal": {
+		"printouts": [],
+		"fulltext": "Image-closed fully invariant not implies verbal",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Image-closed_fully_invariant_not_implies_verbal",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Imperfect not implies hypoabelian": {
+		"printouts": [],
+		"fulltext": "Imperfect not implies hypoabelian",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Imperfect_not_implies_hypoabelian",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Index four implies 2-subnormal or double coset index two": {
+		"printouts": [],
+		"fulltext": "Index four implies 2-subnormal or double coset index two",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Index_four_implies_2-subnormal_or_double_coset_index_two",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Index is multiplicative": {
+		"printouts": [],
+		"fulltext": "Index is multiplicative",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Index_is_multiplicative",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Index three implies normal or double coset index two": {
+		"printouts": [],
+		"fulltext": "Index three implies normal or double coset index two",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Index_three_implies_normal_or_double_coset_index_two",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Index two not implies characteristic": {
+		"printouts": [],
+		"fulltext": "Index two not implies characteristic",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Index_two_not_implies_characteristic",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	},
+	"Inner implies IA": {
+		"printouts": [],
+		"fulltext": "Inner implies IA",
+		"fullurl": "https://groupprops.subwiki.org/wiki/Inner_implies_IA",
+		"namespace": 0,
+		"exists": "1",
+		"displaytitle": ""
+	}
+}

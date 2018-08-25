@@ -1,0 +1,1916 @@
+Any 2-Engel group must be a group of nilpotency class three .
+0
+https://groupprops.subwiki.org/w/index.php?title=2-Engel_implies_class_three_for_groups&action=edit
+It is possible for a group to be a 2-Engel group but _ not _ a group of nilpotency class two .
+1
+https://groupprops.subwiki.org/w/index.php?title=2-Engel_not_implies_class_two_for_groups&action=edit
+Suppose G is a finite group of even order with the property that one ( and hence all ) of its 2-Sylow subgroups is a TI-subgroup .
+In other words , any two distinct 2-Sylow subgroups intersect trivially .
+Then , one of the following is true : G has exactly one conjugacy class of involutions ( i.e. , any two elements of order two are conjugate ) .
+The 2-Sylow subgroup of G is normal , or equivalently , G has a unique 2-Sylow subgroup .
+2
+https://groupprops.subwiki.org/w/index.php?title=2-Sylow_subgroup_is_TI_implies_it_is_normal_or_there_is_exactly_one_conjugacy_class_of_involutions&action=edit
+Suppose H is a 2-hypernormalized subgroup of a group G .
+In other words , N _ ( G ) ( N _ ( G ) ( H ) ) = G. Suppose K is a subgroup of G containing H. Then , H is 2-hypernormalized in K : N _ ( K ) ( N _ ( K ) ( H ) ) = K.
+3
+https://groupprops.subwiki.org/w/index.php?title=2-hypernormalized_satisfies_intermediate_subgroup_condition&action=edit
+A 2-subnormal subgroup of a group is a conjugate-join-closed subnormal subgroup : the join of an arbitrary number of conjugate subgroups to a 2-subnormal subgroup is subnormal .
+4
+https://groupprops.subwiki.org/w/index.php?title=2-subnormal_implies_conjugate-join-closed_subnormal&action=edit
+Any 2-subnormal subgroup ( i.e. a subgroup that is normal inside its normal closure ) is conjugate-permutable .
+Suppose H is a 2-subnormal subgroup of G .
+In other words , H is a normal subgroup inside its normal closure in G. Then , for any g ∈ G , H and gHg ^ ( − 1 ) are permuting subgroups .
+The subgroup property of being 2-subnormal is stronger than the subgroup property of being conjugate-permutable .
+5
+https://groupprops.subwiki.org/w/index.php?title=2-subnormal_implies_conjugate-permutable&action=edit
+Suppose H , K ≤ G are subgroups such that H is a 2-subnormal subgroup of G and K is a subnormal subgroup of G. Then , the join ⟨ H , K ⟩ is a subnormal subgroup of G , and its subnormal depth in G is at most twice the subnormal depth of K.
+6
+https://groupprops.subwiki.org/w/index.php?title=2-subnormal_implies_join-transitively_subnormal&action=edit
+The subgroup property of being a 2-subnormal subgroup is not stronger than the subgroup property of being an automorph-permutable subgroup .
+A 2-subnormal subgroup ( a subgroup that is normal in a normal subgroup ) need not be automorph-permutable .
+7
+https://groupprops.subwiki.org/w/index.php?title=2-subnormal_not_implies_automorph-permutable&action=edit
+A 2-subnormal subgroup of a group need not be hypernormalized .
+8
+https://groupprops.subwiki.org/w/index.php?title=2-subnormal_not_implies_hypernormalized&action=edit
+A join of any collection of 2-subnormal subgroups that are conjugate to each other is also a 2-subnormal subgroup .
+9
+https://groupprops.subwiki.org/w/index.php?title=2-subnormality_is_conjugate-join-closed&action=edit
+A join of two 2-subnormal subgroups of a group need not be 2-subnormal .
+10
+https://groupprops.subwiki.org/w/index.php?title=2-subnormality_is_not_finite-join-closed&action=edit
+Suppose G is a group , H ≤ G is a subgroup and K , L ≤ G are subgroups containing H. Then , it can happen that H is a 2-subnormal subgroup of K and of L , but H is _ not _ a 2-subnormal subgroup of the join of subgroups ⟨ K , L ⟩ .
+11
+https://groupprops.subwiki.org/w/index.php?title=2-subnormality_is_not_finite-upper_join-closed&action=edit
+A 2-subnormal subgroup of a 2-subnormal subgroup need not be 2-subnormal .
+12
+https://groupprops.subwiki.org/w/index.php?title=2-subnormality_is_not_transitive&action=edit
+An arbitrary intersection of 2-subnormal subgroups of a group is 2-subnormal .
+13
+https://groupprops.subwiki.org/w/index.php?title=2-subnormality_is_strongly_intersection-closed&action=edit
+The statement has the following equivalent formulations : Any 3-Engel group is a locally nilpotent group .
+Any finitely generated 3-Engel group is a nilpotent group .
+( In fact , we can work out an explicit bound on the nilpotency class of the group in terms of the size of the generating set ) .
+14
+https://groupprops.subwiki.org/w/index.php?title=3-Engel_implies_locally_nilpotent_for_groups&action=edit
+Suppose G is a finite group that is a 3-step group for a prime number p. Then , G is a solvable group ( i.e. , a finite solvable group ) and also a CN-group .
+15
+https://groupprops.subwiki.org/w/index.php?title=3-step_group_implies_solvable_CN-group&action=edit
+Any 3-subnormal subgroup of a group is finite-conjugate-join-closed subnormal : a join of finitely many conjugates of such a subgroup is a subnormal subgroup .
+Further , the join of r such conjugates has subnormal depth at most 2 ^ ( r ) + 1 .
+16
+https://groupprops.subwiki.org/w/index.php?title=3-subnormal_implies_finite-conjugate-join-closed_subnormal&action=edit
+A join of finitely many 3-subnormal subgroups that are all automorphs of each other need not be a subnormal subgroup .
+In fact , even a join of _ two _ 3-subnormal subgroups that are automorphs of each other need not be a subnormal subgroup .
+17
+https://groupprops.subwiki.org/w/index.php?title=3-subnormal_not_implies_finite-automorph-join-closed_subnormal&action=edit
+The statement has the following equivalent formulations : Any 4-Engel group is a locally nilpotent group .
+Any finitely generated 4-Engel group is a nilpotent group .
+( In fact , we can work out an explicit bound on the nilpotency class of the group in terms of the size of the generating set ) .
+18
+https://groupprops.subwiki.org/w/index.php?title=4-Engel_implies_locally_nilpotent_for_groups&action=edit
+It is possible to have a group G and a finite collection of conjugate 4-subnormal subgroups of G whose join is not subnormal .
+In fact , it is possible to have just two conjugate 4-subnormal subgroups whose join is not subnormal .
+19
+https://groupprops.subwiki.org/w/index.php?title=4-subnormal_not_implies_finite-conjugate-join-closed_subnormal&action=edit
+For finite groups , the property of being ACIC is stronger than the property of being nilpotent .
+Any finite ACIC-group is nilpotent .
+20
+https://groupprops.subwiki.org/w/index.php?title=ACIC_implies_nilpotent_(finite_groups)&action=edit
+Suppose G is an ACIC-group , i.e. , every automorph-conjugate subgroup of G is characteristic in G ( note that characteristic implies automorph-conjugate , so in such a group , the notion of being a characteristic subgroup precisely coincides with the notion of being an automorph-conjugate subgroup ) .
+Suppose H is a characteristic subgroup ( or equivalently , an automorph-conjugate subgroup ) of G. Then , H is also an ACIC-group .
+21
+https://groupprops.subwiki.org/w/index.php?title=ACIC_is_characteristic_subgroup-closed&action=edit
+The subgroup property of being an AEP-subgroup does not satisfy the subgroup metaproperty of the intermediate subgroup condition .
+It is possible to have groups H ≤ K ≤ G such that H is an AEP-subgroup of G but H is not an AEP-subgroup of K.
+22
+https://groupprops.subwiki.org/w/index.php?title=AEP_does_not_satisfy_intermediate_subgroup_condition&action=edit
+An abelian pronormal subgroup ( i.e. , a pronormal subgroup that is also an abelian group ) of a group is a SCDIN-subgroup : it is subset-conjugacy-determined in its normalizer relative to the whole group .
+Suppose H is an abelian pronormal subgroup of a group G. Then , H is a SCDIN-subgroup of G : given any two subsets A , B of H that are conjugate by g in G , they are conjugate by some h in N _ ( G ) ( H ) , and the action of h coincides with the action of g on A.
+23
+https://groupprops.subwiki.org/w/index.php?title=Abelian_and_pronormal_implies_SCDIN&action=edit
+Let G be a group whose automorphism group is abelian , i.e. , the automorphism group of G is an abelian group .
+Then , G is a group of nilpotency class two
+24
+https://groupprops.subwiki.org/w/index.php?title=Abelian_automorphism_group_implies_class_two&action=edit
+There exist non-abelian groups ( in fact , non-abelian finite p-groups for every prime p ) that are groups whose automorphism group is abelian : the automorphism group is an abelian group .
+25
+https://groupprops.subwiki.org/w/index.php?title=Abelian_automorphism_group_not_implies_abelian&action=edit
+It is possible to have a group whose automorphism group is abelian but such that the group is not a cyclic group .
+26
+https://groupprops.subwiki.org/w/index.php?title=Abelian_automorphism_group_not_implies_cyclic&action=edit
+It is possible to have a group G with Abelian characteristic subgroups ( i.e. , subgroups that are both Abelian and characteristic ) H and K such that the join ⟨ H , K ⟩ is not an Abelian characteristic subgroup .
+Since the join is always a characteristic subgroup , the particular thing that can fail is that the join need not be Abelian .
+27
+https://groupprops.subwiki.org/w/index.php?title=Abelian_characteristic_is_not_join-closed&action=edit
+The group property of being an Abelian group is stronger than the group property of being an ACIC-group .
+Any Abelian group is ACIC : any automorph-conjugate subgroup is characteristic .
+28
+https://groupprops.subwiki.org/w/index.php?title=Abelian_implies_ACIC&action=edit
+Suppose G is an abelian group .
+Then , for any g ∈ G , there is an automorphism sending g to g ^ ( − 1 ) .
+29
+https://groupprops.subwiki.org/w/index.php?title=Abelian_implies_every_element_is_automorphic_to_its_inverse&action=edit
+Every subgroup of an Abelian group is a normal subgroup .
+The group property of being an Abelian group is stronger than the group property of being a Dedekind group ( a group where every subgroup is normal ) .
+30
+https://groupprops.subwiki.org/w/index.php?title=Abelian_implies_every_subgroup_is_normal&action=edit
+Any abelian group is a nilpotent group .
+In fact , abelian groups are precisely the nilpotent groups of nilpotency class equal to 1 .
+31
+https://groupprops.subwiki.org/w/index.php?title=Abelian_implies_nilpotent&action=edit
+Suppose G is an abelian group and H = G ⋊ Aut ( G ) is its holomorph .
+Then , C _ ( H ) ( G ) = G .
+In other words , G is a self-centralizing subgroup of H. Further , since every group is normal fully normalized in its holomorph , this tells us that G is normal , self-centralizing and fully normalized in its holomorph .
+In short , G is a NSCFN-subgroup of its holomorph , and thus , is a NSCFN-realizable group .
+32
+https://groupprops.subwiki.org/w/index.php?title=Abelian_implies_self-centralizing_in_holomorph&action=edit
+It is possible to have a group G with Abelian normal subgroups H , K such that the join ⟨ H , K ⟩ is not an Abelian normal subgroup .
+33
+https://groupprops.subwiki.org/w/index.php?title=Abelian_normal_is_not_join-closed&action=edit
+It is possible to have a group G and an abelian normal subgroup H of G ( i.e. , H is an abelian group and is a normal subgroup of G ) that is not a central subgroup of G ( i.e. , H is not contained in the center of G ) .
+34
+https://groupprops.subwiki.org/w/index.php?title=Abelian_normal_not_implies_central&action=edit
+Suppose G is a primitive group , M is a core-free maximal subgroup of G ( or , the stabilizer of a point for a faithful primitive group action of G ) , and A is an abelian normal subgroup of M that is a contranormal subgroup of G : G is generated by the conjugates of A in it .
+Then , the commutator subgroup [ G , G ] is the monolith of G , i.e. , every nontrivial normal subgroup of G contains the commutator subgroup of G.
+35
+https://groupprops.subwiki.org/w/index.php?title=Abelian_normal_subgroup_of_core-free_maximal_subgroup_is_contranormal_implies_derived_subgroup_of_whole_group_is_monolith&action=edit
+Suppose P is an Abelian group of prime power order and A ≤ Aut ( P ) is a group of order relatively prime to p , such that A acts indecomposably on P .
+In other words , P can not be expressed as an internal direct product of A-invariant subgroups .
+Then , P is a homocyclic group .
+36
+https://groupprops.subwiki.org/w/index.php?title=Abelian_p-group_with_indecomposable_coprime_automorphism_group_is_homocyclic&action=edit
+It is possible to have a group G and a normal subgroup H such that G/H is an abelian group , so H is an abelian-quotient subgroup , but HZ ( G ) is not equal to G , i.e. , H is not a cocentral subgroup of G.
+37
+https://groupprops.subwiki.org/w/index.php?title=Abelian-quotient_not_implies_cocentral&action=edit
+There are three different but equivalent formulations ( in the sense that any example for one formulation also furnishes examples for the other ) : It is possible to have an abelian group G such that there is _ no _ bihomomorphism b : G × G → M to any group M with kernel the trivial subgroup of G .
+It is possible to have a group G and an abelian-quotient subgroup H of G such that there is _ no _ bihomomorphism G × G → M for any group M with kernel H .
+It is possible to have a nilpotent group G such that there is _ no _ bihomomorphism b : G × G → M to any group M with kernel the [ [ derived subgroup ] of G.
+38
+https://groupprops.subwiki.org/w/index.php?title=Abelian-quotient_not_implies_kernel_of_a_bihomomorphism&action=edit
+A group G is Abelian if and only if the subgroup ⟨ a , b ⟩ is Abelian for any two elements a , b ∈ G.
+39
+https://groupprops.subwiki.org/w/index.php?title=Abelianness_is_2-local&action=edit
+The union of any nonempty directed set of Abelian subgroups of a group is again Abelian .
+40
+https://groupprops.subwiki.org/w/index.php?title=Abelianness_is_directed_union-closed&action=edit
+Suppose G is an abelian group and N is a normal subgroup of G. Denote by G/N the quotient group .
+Then , G/N is also an abelian group .
+41
+https://groupprops.subwiki.org/w/index.php?title=Abelianness_is_quotient-closed&action=edit
+Any subgroup of an abelian group is an abelian group .
+42
+https://groupprops.subwiki.org/w/index.php?title=Abelianness_is_subgroup-closed&action=edit
+Suppose H is an abnormal subgroup of a group G. Then , H is a WNSCC-subgroup of G : for any two normal subsets A , B of H with gAg ^ ( − 1 ) = B for some g ∈ G , we have A = B.
+43
+https://groupprops.subwiki.org/w/index.php?title=Abnormal_implies_WNSCC&action=edit
+A subgroup whose normalizer is an abnormal subgroup need not be pronormal .
+44
+https://groupprops.subwiki.org/w/index.php?title=Abnormal_normalizer_not_implies_pronormal&action=edit
+Suppose G is isomorphic to the additive group of a field .
+Equivalently , G is a characteristically simple group that is also an abelian group .
+In particular , G is either an elementary abelian group or a direct sum of copies of the rationals .
+Then , G is a characteristic subgroup in its holomorph .
+45
+https://groupprops.subwiki.org/w/index.php?title=Additive_group_of_a_field_implies_characteristic_in_holomorph&action=edit
+Suppose N is a nilpotent associative algebra over a finite field 𝔽 _ ( q ) for a prime power q , and G is the algebra group corresponding to N. Then , G is a q-power degree group : all its degrees of irreducible representations are powers of q.
+46
+https://groupprops.subwiki.org/w/index.php?title=Algebra_group_implies_power_degree_group_for_field_size&action=edit
+Any algebraically closed group is a simple group .
+47
+https://groupprops.subwiki.org/w/index.php?title=Algebraically_closed_implies_simple&action=edit
+Suppose p is a prime number and k is an integer satisfying 0 ≤ k ≤ 5 .
+Suppose P is a group of order p ^ ( k ) .
+Then , P is a finite group in which all cumulative conjugacy class size statistics values divide the order of the group .
+In this case , it means that for any r ≤ k , the number of elements of P whose conjugacy class has size dividing p ^ ( r ) is itself a power of p.
+48
+https://groupprops.subwiki.org/w/index.php?title=All_cumulative_conjugacy_class_size_statistics_values_divide_the_order_of_the_group_for_groups_up_to_prime-fifth_order&action=edit
+Suppose p is a prime number and k is an integer satisfying 0 ≤ k ≤ 5 .
+Suppose P is a group of order p ^ ( k ) .
+Then , P is a finite group in which all partial sum values of squares of degrees of irreducible representations divide the order of the group .
+In this case , it means that for any r ≤ k , the sum of squares of degrees of irreducible representations of P that are at most p ^ ( r ) is itself a power of p.
+49
+https://groupprops.subwiki.org/w/index.php?title=All_partial_sum_values_of_squares_of_degrees_of_irreducible_representations_divide_the_order_of_the_group_for_groups_up_to_prime-fifth_order&action=edit
+Suppose G is a finite group , p is a prime , and P is a p-Sylow subgroup of G. Then , the collection of tame intersections involving P form a conjugation family for P in G. G is a finite group , p is a prime , and P is a p-Sylow subgroup of G. Suppose A , B are subsets of P that are conjugate by some element g ∈ G. Then , there exists a collection of well-placed tame Sylow intersections P ∩ Q _ ( i ) , 1 ≤ i ≤ n and a collection of elements g _ ( i ) ∈ N _ ( G ) ( P ∩ Q _ ( i ) ) such that : - ⟨ A ⟩ ≤ P ∩ Q ₁ .
+- A ^ ( g ₁ g ₂ … g _ ( r ) ) ∈ P ∩ Q _ ( r + 1 ) for any 1 ≤ r ≤ n − 1 .
+- g = g ₁ g ₂ … g _ ( n ) .
+50
+https://groupprops.subwiki.org/w/index.php?title=Alperin's_fusion_theorem_in_terms_of_well-placed_tame_intersections&action=edit
+Suppose R is a non-associative ring ( i.e. , a not necessarily associative ring ) .
+Then , if R is an alternative ring ( i.e. , the square of any element is zero ) then R is a flexible ring .
+51
+https://groupprops.subwiki.org/w/index.php?title=Alternating_implies_flexible&action=edit
+Suppose ( S , * ) is an alternative magma , i.e. , it satisfies the following two identities : x ( X y ) = ( x X ) y ∀ x , y ∈ S and x ( Y y ) = ( x Y ) y ∀ x , y ∈ S These are respectively termed the _ left-alternative law _ and _ right-alternative law _ .
+Then cubes , fourth powers , and fifth powers are well-defined in S .
+In other words , if x ² denotes x * x , we have the following for all a ∈ S : Cubes are well-defined : a ² A = A a ² , and this is denoted as a ³ .
+Fourth powers are well-defined : a ³ A = A ² a ² = a * a ³ , and this is denoted as a ⁴ .
+Fifth powers are well-defined : a ⁴ A = A ³ a ² = a ² A ³ = A a ⁴ and this is denoted as a ⁵ .
+52
+https://groupprops.subwiki.org/w/index.php?title=Alternative_implies_powers_up_to_the_fifth_are_well-defined&action=edit
+Suppose H is an amalgam-characteristic subgroup of a group G .
+In other words , the amalgamated subgroup H is a characteristic subgroup of the amalgamated free product G * _ ( H ) G. Then , H is an image-potentially characteristic subgroup of G : there exists a group K with a surjective homomorphism ρ : K → G and a characteristic subgroup L of K such that ρ ( L ) = H.
+53
+https://groupprops.subwiki.org/w/index.php?title=Amalgam-characteristic_implies_image-potentially_characteristic&action=edit
+Any amalgam-characteristic subgroup of a group is a potentially characteristic subgroup .
+54
+https://groupprops.subwiki.org/w/index.php?title=Amalgam-characteristic_implies_potentially_characteristic&action=edit
+Suppose I is an indexing set and G _ ( i ) , i ∈ I , is a collection of ambivalent groups .
+Let G be the external direct product of the G _ ( i ) s. Then , G is also an ambivalent group .
+55
+https://groupprops.subwiki.org/w/index.php?title=Ambivalence_is_direct_product-closed&action=edit
+If G is an ambivalent group , and H is a normal subgroup of G , the quotient group G/H is also an ambivalent group .
+56
+https://groupprops.subwiki.org/w/index.php?title=Ambivalence_is_quotient-closed&action=edit
+It is possible to have an ambivalent group ( i.e. , a group in which all elements are real elements ) that is _ not _ a strongly ambivalent group .
+In particular , there is at least one element that is not a strongly real element .
+As a corollary , a real element of a group need not be a strongly real element .
+57
+https://groupprops.subwiki.org/w/index.php?title=Ambivalent_not_implies_strongly_ambivalent&action=edit
+It is possible to choose a finite group G and a prime number p such that G is a group in which every p-local subgroup is p-constrained , such that : There exists a subgroup A of G that is maximal among abelian normal subgroups in some p-Sylow subgroup of G , such that A has rank two , and there is a prime q ≠ p such that C _ ( G ) ( A ) is not transitive on the collection of maximal A-invariant q-subgroups of G .
+In other words , the analogue of the Thompson transitivity theorem fails if we drop the assumption of rank at least three .
+58
+https://groupprops.subwiki.org/w/index.php?title=Analogue_of_Thompson_transitivity_theorem_fails_for_abelian_subgroups_of_rank_two&action=edit
+It is possible to choose a finite group G and a prime number p such that G is _ not _ a group in which every p-local subgroup is p-constrained , and such that : There is a subgroup A that is maximal among abelian normal subgroups in some p-Sylow subgroup of G such that the rank of A is at least three , and there is a prime q ≠ p such that C _ ( G ) ( A ) is _ not _ transitive on the set of maximal A-invariant q-subgroups .
+In other words , the analogue of the Thompson transitivity theorem fails if we drop the assumption that the group is a group in which every p-local subgroup is p-constrained .
+59
+https://groupprops.subwiki.org/w/index.php?title=Analogue_of_Thompson_transitivity_theorem_fails_for_groups_in_which_not_every_p-local_subgroup_is_p-constrained&action=edit
+Any abelian normal subgroup of a group of prime power order ( i.e. , any abelian normal subgroup of group of prime power order ) normalizes an abelian subgroup of maximum order .
+In symbols : let P be a group of prime power order and B be an abelian normal subgroup of P. Then , there exists an abelian subgroup of maximum order A in P such that B ≤ N _ ( P ) ( A ) .
+let P be a group of prime power order and B be an abelian normal subgroup of P. Let A be any abelian subgroup of maximum order in P. Then , there exists an abelian subgroup of maximum order A _ ( ∞ ) in P such that B ≤ N _ ( P ) ( A _ ( ∞ ) ) and such that A _ ( ∞ ) is contained in the subgroup ⟨ A ^ ( B ) ⟩ , i.e. , the closure of A under the action of B by conjugation .
+60
+https://groupprops.subwiki.org/w/index.php?title=Any_abelian_normal_subgroup_normalizes_an_abelian_subgroup_of_maximum_order&action=edit
+Suppose p is an odd prime , P is a finite p-group , and B is a class two normal subgroup of P such that its commutator subgroup [ B , B ] is contained in the ZJ-subgroup Z ( J ( P ) ) .
+Then , there exists an abelian subgroup of maximum order A of P such that B normalizes A.
+61
+https://groupprops.subwiki.org/w/index.php?title=Any_class_two_normal_subgroup_whose_derived_subgroup_is_in_the_ZJ-subgroup_normalizes_an_abelian_subgroup_of_maximum_order&action=edit
+Any Artinian group ( i.e. , a group satisfying the descending chain condition on subgroups ) is co-Hopfian : it is not isomorphic to any proper subgroup of itself .
+62
+https://groupprops.subwiki.org/w/index.php?title=Artinian_implies_co-Hopfian&action=edit
+An Artinian group ( i.e. , a group in which every descending chain of subgroups stabilizes at a finite stage ) must be a periodic group : every element in the group has finite order .
+63
+https://groupprops.subwiki.org/w/index.php?title=Artinian_implies_periodic&action=edit
+An ascendant subgroup of a group need not be a subnormal subgroup .
+64
+https://groupprops.subwiki.org/w/index.php?title=Ascendant_not_implies_subnormal&action=edit
+If a group satisfies the ascending chain condition on normal subgroups , then it is Hopfian : it is not isomorphic to any of its proper quotients .
+65
+https://groupprops.subwiki.org/w/index.php?title=Ascending_chain_condition_on_normal_subgroups_implies_Hopfian&action=edit
+Any group satisfying ascending chain condition on subnormal subgroups , i.e. , any group in which there is no infinite ascending chain of subnormal subgroups , also satisfies the following two conditions : It is a group satisfying subnormal join property , i.e. , the join of any two ( and hence finitely many ) subnormal subgroups of the group is again subnormal .
+It is a group satisfying generalized subnormal join property , i.e. , the join of any , possibly infinite , collection of subnormal subgroups of the group is again subnormal .
+66
+https://groupprops.subwiki.org/w/index.php?title=Ascending_chain_condition_on_subnormal_subgroups_implies_subnormal_join_property&action=edit
+The property of being a group satisfying ascending chain condition on subnormal subgroups is a normal subgroup-closed group property .
+Suppose G is a group satisfying ascending chain condition on subnormal subgroups and N is a normal subgroup of G. Then , N is also a group satisfying ascending chain condition on subnormal subgroups .
+67
+https://groupprops.subwiki.org/w/index.php?title=Ascending_chain_condition_on_subnormal_subgroups_is_normal_subgroup-closed&action=edit
+Let S be a set and * be a binary operation on S. Suppose that * is an associative binary operation ; in other words : a ( B c ) = ( a B ) c ∀ a , b , c ∈ S Then , for any positive integer n , every possible parenthesization of the expression : a ₁ A ₂ … * a _ ( n ) is equivalent .
+68
+https://groupprops.subwiki.org/w/index.php?title=Associative_implies_generalized_associative&action=edit
+The group property of being a group with at most n elements of order dividing n is stronger than the group property of being a group in which every finite subgroup is cyclic .
+Suppose G is a group , with identity element 1 , with the property that for any n , there are at most n elements x ∈ G satisfying x ^ ( n ) = 1 .
+Then , every finite subgroup of G is cyclic .
+69
+https://groupprops.subwiki.org/w/index.php?title=At_most_n_elements_of_order_dividing_n_implies_every_finite_subgroup_is_cyclic&action=edit
+The centralizer of an automorph-conjugate subgroup of a group is again an automorph-conjugate subgroup .
+70
+https://groupprops.subwiki.org/w/index.php?title=Automorph-conjugacy_is_centralizer-closed&action=edit
+Suppose G is a group and H is an automorph-conjugate subgroup of G , then N _ ( G ) ( H ) ( the normalizer of H in G ) is also an automorph-conjugate subgroup of G.
+71
+https://groupprops.subwiki.org/w/index.php?title=Automorph-conjugacy_is_normalizer-closed&action=edit
+We can have a group G with two automorph-conjugate subgroups H , K ≤ G , such that H and K are conjugate subgroups within G , and H ∩ K is not automorph-conjugate in G.
+72
+https://groupprops.subwiki.org/w/index.php?title=Automorph-conjugacy_is_not_finite-conjugate-intersection-closed&action=edit
+We can have a group G with two automorph-conjugate subgroups H , K ≤ G , such that H ∩ K is not automorph-conjugate in G.
+73
+https://groupprops.subwiki.org/w/index.php?title=Automorph-conjugacy_is_not_finite-intersection-closed&action=edit
+A join of finitely many automorph-conjugate subgroups need not be automorph-conjugate .
+74
+https://groupprops.subwiki.org/w/index.php?title=Automorph-conjugacy_is_not_finite-join-closed&action=edit
+Suppose H ≤ K ≤ G are groups such that H is an automorph-conjugate subgroup of K , and K is an automorph-conjugate subgroup of G. Then , H is an automorph-conjugate subgroup of G.
+75
+https://groupprops.subwiki.org/w/index.php?title=Automorph-conjugacy_is_transitive&action=edit
+An automorph-permutable subgroup of a group need not be permutable .
+76
+https://groupprops.subwiki.org/w/index.php?title=Automorph-permutable_not_implies_permutable&action=edit
+If a group has the property that its automorphism group acts transitively on non-identity elements , then the group is characteristically simple .
+77
+https://groupprops.subwiki.org/w/index.php?title=Automorphism_group_is_transitive_on_non-identity_elements_implies_characteristically_simple&action=edit
+It is possible to have a Baer Lie group G and H a normal subgroup of G such that the quotient group G/H is not a Baer Lie group .
+78
+https://groupprops.subwiki.org/w/index.php?title=Baer_Lie_property_is_not_quotient-closed&action=edit
+It is possible to have a Baer Lie group ( a 2-powered class two group ) G and a subgroup H of G that is _ not _ a Baer Lie group .
+79
+https://groupprops.subwiki.org/w/index.php?title=Baer_Lie_property_is_not_subgroup-closed&action=edit
+The statement has the following equivalent forms : The subgroup property of being the base of a wreath product is stronger than the subgroup property of being a right-transitively 2-subnormal subgroup .
+The composition of the subgroup property of being 2-subnormal with the subgroup property of being the base of a wreath product implies the subgroup property of being 2-subnormal .
+2-subnormal * Base of a wreath product ≤ 2-subnormal Any base of a wreath product in a group is a right-transitively 2-subnormal subgroup .
+Any 2-subnormal subgroup of the base of a wreath product is 2-subnormal in the whole group .
+If K is the base of a wreath product in G , then K is a right-transitively 2-subnormal subgroup of G .
+If H is a 2-subnormal subgroup of K and K is the base of a wreath product in G , then H is 2-subnormal in G.
+80
+https://groupprops.subwiki.org/w/index.php?title=Base_of_a_wreath_product_implies_right-transitively_2-subnormal&action=edit
+The following equivalent statements are true : The subgroup property of being the base of a wreath product implies , i.e. , is stronger than , the subgroup property of being a right-transitively conjugate-permutable subgroup .
+Applying the composition operator to the property of being a conjugate-permutable subgroup and the property of being the base of a wreath product , yields a property stronger than the property of being a conjugate-permutable subgroup .
+Conjugate-permutable * Base of a wreath product ≤ Conjugate-permutable The following equivalent statements are true : Any base of a wreath product in a group is a right-transitively conjugate-permutable subgroup .
+A conjugate-permutable subgroup of the base of a wreath product is conjugate-permutable in the whole group .
+The following equivalent statements are true : If K is the base of a wreath product in a group G , then K is a right-transitively conjugate-permutable subgroup of G .
+If H is a conjugate-permutable subgroup of K and K is the base of a wreath product in G , then H is conjugate-permutable in G.
+81
+https://groupprops.subwiki.org/w/index.php?title=Base_of_a_wreath_product_implies_right-transitively_conjugate-permutable&action=edit
+Suppose G is the internal wreath product of subgroups H and K .
+In other words , H is the base of a wreath product in G. Then , H is a subset-conjugacy-closed subgroup of G : if A , B are subsets of H and there is a g ∈ G such that gAg ^ ( − 1 ) = B , then there exists a h ∈ H such that hah ^ ( ( − 1 ) = gag ) ( − 1 ) for all a ∈ A.
+82
+https://groupprops.subwiki.org/w/index.php?title=Base_of_a_wreath_product_implies_subset-conjugacy-closed&action=edit
+Suppose H is the base of a wreath product in K and K is the base of a wreath product in G. Then , H is the base of a wreath product in G.
+83
+https://groupprops.subwiki.org/w/index.php?title=Base_of_a_wreath_product_is_transitive&action=edit
+A base of a wreath product need not be an elliptic subgroup .
+84
+https://groupprops.subwiki.org/w/index.php?title=Base_of_a_wreath_product_not_implies_elliptic&action=edit
+Let G be a finite group .
+BRAUER 'S INDUCTION THEOREM states that every character of G is a combination , with integer coefficients , of characters induced from elementary subgroups of G .
+In other words , the character ring of G ( over integers , for representations over complex numbers ) is generated as a $ \ Z$ - module by characters induced from elementary subgroups .
+Here , the term _ induced _ is used in the sense of induced class function .
+For a character of a representation on H , the induced class function on G by the character is the same as the character of the induced representation from H to G. Let G be a finite group .
+This strong form of Brauer 's induction theorem states that every character of G is a combination , with ( possibly negative ) integer coefficients , of characters induced from linear characters ( i.e. , characters of one-dimensional representations ) on elementary subgroups .
+Let G be a finite group .
+Every character of G is a combination , with ( possibly negative ) integer coefficients , of characters induced from linear characters ( i.e. , characters of one-dimensional representations ) on subgroups .
+85
+https://groupprops.subwiki.org/w/index.php?title=Brauer's_induction_theorem&action=edit
+Suppose G is a finite group whose order is an even number greater than 1 .
+Then , G has a proper subgroup H such that : | G | < | H | ³ Further , if the center Z ( G ) is an odd-order group , then we can choose H to be the centralizer C _ ( G ) ( x ) of some non-identity strongly real element x of G.
+87
+https://groupprops.subwiki.org/w/index.php?title=Brauer-Fowler_theorem_on_existence_of_subgroup_of_order_greater_than_the_cube_root_of_the_group_order&action=edit
+Suppose p is a prime number , and V is a vector space over the prime field 𝔽 _ ( p ) of dimension greater than 1 .
+In other words , V is an elementary Abelian p-group that is not cyclic .
+Then , if G is a subgroup of GL ( V ) ( the general linear group on V ) , there exists a finite p-group P such that P/Φ ( P ) ≅ V , and under the natural homomorphism : Aut ( P ) → Aut ( P/Φ ( P ) ) = GL ( V ) the image of Aut ( P ) is precisely G.
+88
+https://groupprops.subwiki.org/w/index.php?title=Bryant-Kovacs_theorem&action=edit
+Let P be a p-group for some prime p , and let Φ ( P ) denote the Frattini subgroup of P. Then , P/Φ ( P ) is the largest elementary Abelian quotient of P , and hence is a vector space over the prime field 𝔽 _ ( p ) .
+Burnside 's basis theorem states that : - A subset S of P is a generating set for P iff the image of S in P/Φ ( P ) generates P/Φ ( P ) as a 𝔽 _ ( p ) - vector space .
+- A subset S of P is a minimal generating set for P iff the image of S in P/Φ ( P ) is a vector space basis for P/Φ ( P ) .
+89
+https://groupprops.subwiki.org/w/index.php?title=Burnside's_basis_theorem&action=edit
+Suppose P is a finite p-group , i.e. , a group of prime power order .
+Suppose φ is an automorphism of P whose order ( as an element of the automorphism group of P ) is relatively prime to P. Then , if φ induces the identity on P/Φ ( P ) , φ is the identity automorphism of P .
+Here Φ ( P ) is the Frattini subgroup of P. Equivalently the kernel of the map : Aut ( P ) → Aut ( P/Φ ( P ) ) is a p-group .
+We also say that the Frattini subgroup of a p-group is a quotient-coprime automorphism-faithful subgroup .
+90
+https://groupprops.subwiki.org/w/index.php?title=Burnside's_theorem_on_coprime_automorphisms_and_Frattini_subgroup&action=edit
+Suppose G is a group and H is a c-closed subgroup of G , i.e. , H occurs as the centralizer of some subset ( and hence also of some subgroup ) of G. Then , H is a local powering-invariant subgroup of G : for any natural number n and any element h ∈ H such that the equation x ^ ( n ) = h has a unique solution x ∈ G , we must have x ∈ H.
+91
+https://groupprops.subwiki.org/w/index.php?title=C-closed_implies_local_powering-invariant&action=edit
+Suppose G is a group and H is a c-closed subgroup of G , i.e. , H occurs as the centralizer of some subset ( and hence also of some subgroup ) of G. Then , H is a powering-invariant subgroup of G : for any prime number p such that G is p-powered , H is also p-powered .
+92
+https://groupprops.subwiki.org/w/index.php?title=C-closed_implies_powering-invariant&action=edit
+It is possible to have a CA-group G that is _ not _ a nilpotent group .
+Here , _ CA _ means that the centralizer of every non-identity element is abelian .
+Equivalently , it means that every proper subgroup is either a centerless group or an abelian group .
+This also shows that : - A CN-group need not be a nilpotent group .
+- A CA-group need not be an abelian group .
+93
+https://groupprops.subwiki.org/w/index.php?title=CA_not_implies_nilpotent&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a CDIN-subgroup of K and K is a conjugacy-closed subgroup of G .
+Then H is a CDIN-subgroup of G.
+94
+https://groupprops.subwiki.org/w/index.php?title=CDIN_of_conjugacy-closed_implies_CDIN&action=edit
+This has the following equivalent formulations : - If K is a CEP-subgroup of a group G , then K is a subgroup in which every relatively normal subgroup is weakly closed .
+- If K is a CEP-subgroup of a group G , and H is a normal subgroup of K , then H is a weakly closed subgroup in K with respect to G , i.e. , any conjugate subgroup to H in G that is contained in K must be contained in H itself .
+95
+https://groupprops.subwiki.org/w/index.php?title=CEP_implies_every_relatively_normal_subgroup_is_weakly_closed&action=edit
+Let G be a group .
+The group multiplication G × G → G , defines a group action of G on itself .
+In other words , the _ left multiplication _ gives an action of G on itself , with the rule g.h = gh .
+This action is termed the left-regular group action .
+This group action is faithful -- no non-identity element of G acts trivially .
+Let G be a group .
+There is a homomorphism from G to Sym ( G ) ( the symmetric group , i.e. , the group of all permutations , on the underlying set of G ) .
+Moreover , this homomorphism is injective .
+Thus , every group can be realized as a subgroup of a symmetric group .
+96
+https://groupprops.subwiki.org/w/index.php?title=Cayley's_theorem&action=edit
+The group property of being a group whose center is normality-large , is _ stronger than _ the group property of being a group in which every nontrivial normal subgroup contains a cyclic normal subgroup .
+If the center of a group has the property that its intersection with every nontrivial normal subgroup is nontrivial , then every nontrivial normal subgroup of the group contains a cyclic normal subgroup .
+97
+https://groupprops.subwiki.org/w/index.php?title=Center_is_normality-large_implies_every_nontrivial_normal_subgroup_contains_a_cyclic_normal_subgroup&action=edit
+Suppose G is a group and H is a pronormal subgroup of G. Then , Z ( H ) , the center of H , is a SCDIN-subgroup of G.
+98
+https://groupprops.subwiki.org/w/index.php?title=Center_of_pronormal_implies_SCDIN&action=edit
+Suppose G is a group and σ is an automorphism of G such that σ is center-fixing : σ ( z ) = z for all z in the center of G. Then , σ is a central factor-extensible automorphism of G .
+In other words , given any group K containing G as a central factor , σ can be extended to an automorphism of K. Note that this in particular shows that if _ every _ automorphism of G is center-fixing ( e.g. , if G is centerless , or has a center of order two ) , then G is an AEP-subgroup inside any group in which it is a central factor .
+99
+https://groupprops.subwiki.org/w/index.php?title=Center-fixing_implies_central_factor-extensible&action=edit
+If a centerless group is a maximal subgroup in its automorphism group , then every automorphism of the group is normal-extensible .
+100
+https://groupprops.subwiki.org/w/index.php?title=Centerless_and_maximal_in_automorphism_group_implies_every_automorphism_is_normal-extensible&action=edit
+Any central factor of a group is a normal subgroup .
+The subgroup property of being a central factor is stronger than the subgroup property of being a normal subgroup .
+101
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_implies_normal&action=edit
+Any central factor of a group is a transitively normal subgroup .
+In other words , any normal subgroup of a central factor is a central factor .
+Suppose K is a central factor of a group G. Then , K is a transitively normal subgroup of G , i.e. , if H is a normal subgroup of K , then H is a normal subgroup of G.
+102
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_implies_transitively_normal&action=edit
+The centralizer of a central factor of the whole group is also a central factor of the whole group .
+103
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_is_centralizer-closed&action=edit
+An intersection of central factors need not be a central factor .
+104
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_is_not_finite-intersection-closed&action=edit
+It is possible to have a finite group G with subgroups H , K such that both H and K are central factors of G but the product HK ( which in this case is also the join of subgroups ⟨ H , K ⟩ ) is not a central factor .
+105
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_is_not_finite-join-closed&action=edit
+It is possible to have groups H ≤ K ≤ G such that : - H is a central factor of G. ( In particular , H is normal in G ) .
+- K/H is a central factor of G/H .
+- K is not a central factor of G.
+106
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_is_not_quotient-transitive&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a central factor of K and K is a central factor of G. Then , H is a central factor of G.
+107
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_is_transitive&action=edit
+Suppose G is a group , H is a subgroup of G , and K _ ( i ) , i ∈ I , are subgroups of G all containing H. Suppose , further , that H is a central factor of each K _ ( i ) .
+Then , H is also a central factor of the join of the K _ ( i ) s.
+108
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_is_upper_join-closed&action=edit
+A central factor of a group need not be a direct factor .
+109
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_not_implies_direct_factor&action=edit
+Suppose H is a central factor of a group G ( in other words , HC _ ( G ) ( H ) = G ) .
+Suppose φ : G → K is a surjective homomorphism of groups .
+Then , φ ( H ) is a central factor of K.
+110
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_satisfies_image_condition&action=edit
+A central factor of a group is also a central factor in every intermediate subgroup .
+111
+https://groupprops.subwiki.org/w/index.php?title=Central_factor_satisfies_intermediate_subgroup_condition&action=edit
+Any central subgroup of a group ( i.e. , any subgroup contained in the center of the group ) is an abelian normal subgroup ( i.e. , it is both a normal subgroup and an abelian group ) .
+112
+https://groupprops.subwiki.org/w/index.php?title=Central_implies_abelian_normal&action=edit
+Suppose H is a central subgroup of a group G. Then , H is a characteristic subgroup inside the amalgam K : = G * _ ( H ) G .
+In other words , H is an amalgam-characteristic subgroup .
+113
+https://groupprops.subwiki.org/w/index.php?title=Central_implies_amalgam-characteristic&action=edit
+Suppose H is a central subgroup of a group G : H is contained in the center of G. Then , H is an image-potentially characteristic subgroup of G : there exists a surjective homomorphism ρ : K → G and a characteristic subgroup L of K such that ρ ( L ) = H.
+114
+https://groupprops.subwiki.org/w/index.php?title=Central_implies_image-potentially_characteristic&action=edit
+Suppose H is a subgroup of G that is a central subgroup of G , i.e. , H is contained in the center Z ( G ) of G. Then , H is a normal subgroup of G.
+115
+https://groupprops.subwiki.org/w/index.php?title=Central_implies_normal&action=edit
+Suppose G is a group and H is a central subgroup of G. Note that central implies normal , so H is normal .
+Then , H is a normal subgroup satisfying the subgroup-to-quotient powering-invariance implication in G : if p is a prime number such that both G and H are p-powered , so is the quotient group G/H .
+Suppose G is a group and H is a subgroup of G satisfying the following two conditions : H is a central subgroup of G , i.e. , every element of H commutes with every element of G. H is a powering-invariant subgroup of G , i.e. , for any prime p such that G is powered over p , so is H. Then , H is a quotient-powering-invariant subgroup of G , i.e. , for any prime p such that G is powered over p , so is the quotient group G/H .
+116
+https://groupprops.subwiki.org/w/index.php?title=Central_implies_normal_satisfying_the_subgroup-to-quotient_powering-invariance_implication&action=edit
+A central subgroup of a group is always a potentially characteristic subgroup : it can be realized as a characteristic subgroup inside a possibly bigger group .
+117
+https://groupprops.subwiki.org/w/index.php?title=Central_implies_potentially_characteristic&action=edit
+Suppose G is a finite group and H is a central subgroup of G. Then , there exists a finite group K containing G such that H is a verbal subgroup of K.
+118
+https://groupprops.subwiki.org/w/index.php?title=Central_implies_potentially_verbal_in_finite&action=edit
+Suppose G is a finite p-group of characteristic rank one , i.e. , G is a group of prime power order and every Abelian characteristic subgroup of G is cyclic .
+Then , if C is a critical subgroup of G , Z ( C ) is a cyclic group .
+Further , there exists a subgroup E of C satisfying the following conditions : E is an extraspecial group E is a central factor of G Z ( C ) E = C ( i.e. , E is a cocentral subgroup of G ) .
+If R = C _ ( G ) ( E ) denotes the centralizer of E in G , then Z ( C ) is a self-centralizing subgroup of R ( Note that the existence of critical subgroups is guaranteed by Thompson 's critical subgroup theorem ) .
+119
+https://groupprops.subwiki.org/w/index.php?title=Central_product_decomposition_lemma_for_characteristic_rank_one&action=edit
+Suppose G is a group and H is a central subgroup of G , i.e. , H is contained in the center of G. Suppose K is a central factor of G. Then , the join of subgroups ⟨ H , K ⟩ , which is also the product of subgroups HK , is a central factor of G.
+120
+https://groupprops.subwiki.org/w/index.php?title=Central_subgroup_implies_join-transitively_central_factor&action=edit
+Suppose G is a finite group and φ is an automorphism of G whose order is coprime to the order of G. Suppose N is a normal φ-invariant subgroup of G , and let π : G → G/N denote the quotient map .
+Then , φ has a natural induced action on the quotient group G/N , and we have : π ( C _ ( G ) ( φ ) ) = C _ ( G/N ) ( φ ) .
+121
+https://groupprops.subwiki.org/w/index.php?title=Centralizer_of_coprime_automorphism_in_homomorphic_image_equals_image_of_centralizer&action=edit
+Suppose p , q are distinct primes .
+Let P be a finite p-group , and Q ≤ Aut ( P ) be an abelian q-group that is _ not _ cyclic .
+Suppose x ₁ , x ₂ , … , x _ ( n ) are the non-identity elements of Q , enumerated in any arbitrary order .
+Then , we have : P = C _ ( P ) ( x ₁ ) C _ ( P ) ( x ₂ ) … C _ ( P ) ( x _ ( n ) ) .
+Suppose p , q are distinct primes .
+Let P be a finite p-group , and Q be an abelian q-group that is _ not _ cyclic .
+Suppose Q acts on P by automorphisms .
+Suppose x ₁ , x ₂ , … , x _ ( n ) are the non-identity elements of Q , enumerated in any arbitrary order .
+Then , we have : P = C _ ( P ) ( x ₁ ) C _ ( P ) ( x ₂ ) … C _ ( P ) ( x _ ( n ) ) .
+Note that the version for general group actions follows directly from the version for faithful group actions .
+In fact , for an action that is not faithful , it suffices to take the products of centralizers of coset representatives of the kernel of the action .
+122
+https://groupprops.subwiki.org/w/index.php?title=Centralizer_product_theorem&action=edit
+Suppose p , q are distinct primes .
+Suppose P is an elementary abelian p-group , and Q ≤ Aut ( P ) is an abelian q-group that is not cyclic .
+Let x ₁ , x ₂ , … , x _ ( n ) be an enumeration of the non-identity elements of Q. Then , we have : P = C _ ( P ) ( x ₁ ) C _ ( P ) ( x ₂ ) … C _ ( P ) ( x _ ( n ) ) .
+where C _ ( P ) ( x _ ( i ) ) denotes the set of fixed points in P of the automorphism x _ ( i ) .
+123
+https://groupprops.subwiki.org/w/index.php?title=Centralizer_product_theorem_for_elementary_abelian_group&action=edit
+Suppose G is a finite group and H is a cyclic subgroup of Aut ( G ) .
+Let [ G , H ] be the subgroup of G generated by all elements of the form gσ ( g ) ^ ( − 1 ) for σ ∈ H. Let C _ ( G ) ( H ) denote the subgroup of G comprising those elements fixed by every element of H. Then : G = [ G , H ] C _ ( G ) ( H ) .
+124
+https://groupprops.subwiki.org/w/index.php?title=Centralizer-commutator_product_decomposition_for_finite_groups_and_cyclic_automorphism_group&action=edit
+Suppose G is a finite nilpotent group and H ≤ Aut ( G ) is such that the orders of G are relatively prime .
+Define : - [ G , H ] as the subgroup generated by all elements of the form gσ ( g ) ^ ( − 1 ) where g ∈ G , σ ∈ H. - C _ ( G ) ( H ) as the subgroup of G comprising those g ∈ G such that σ ( g ) = g for all σ ∈ H. Then , we have the following : G = [ G , H ] C _ ( G ) ( H ) .
+Further , if K ≤ G is a H-invariant subgroup such that G = KC _ ( G ) ( H ) , then [ G , H ] ≤ K.
+125
+https://groupprops.subwiki.org/w/index.php?title=Centralizer-commutator_product_decomposition_for_finite_nilpotent_groups&action=edit
+Suppose L is a Lie ring and I is a centralizer-free ideal of L , i.e. , I is an ideal of L and its centralizer in L is zero .
+Then , I is an automorphism-faithful Lie subring ( and hence an automorphism-faithful ideal ) of L : Any non-identity automorphism of L that restricts to an automorphism of I restricts to a non-identity automorphism of I.
+126
+https://groupprops.subwiki.org/w/index.php?title=Centralizer-free_ideal_implies_automorphism-faithful&action=edit
+Suppose L is a Lie ring and I is a centralizer-free ideal of L .
+In other words , I is an ideal of L and the centralizer of I in L is the zero subring .
+Then , I is a derivation-faithful Lie subring ( and hence a derivation-faithful ideal ) of L.
+127
+https://groupprops.subwiki.org/w/index.php?title=Centralizer-free_ideal_implies_derivation-faithful&action=edit
+A characteristic subring of a Lie ring need not be an ideal of the Lie ring .
+128
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_Lie_subring_not_implies_ideal&action=edit
+Any characteristic self-centralizing subgroup of a finite group is coprime automorphism-faithful : in particular , it is a coprime automorphism-faithful characteristic subgroup .
+Let G be a finite group , and H be a characteristic self-centralizing subgroup , i.e. C _ ( G ) ( H ) ≤ H ( or equivalently C _ ( G ) ( H ) = Z ( H ) ) .
+Then , any non-identity automorphism of G restricts to a non-identity automorphism of H.
+129
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_and_self-centralizing_implies_coprime_automorphism-faithful&action=edit
+Suppose H ≤ K ≤ G are groups .
+Suppose H is a characteristic central factor of K : in other words , H is both a characteristic subgroup and a central factor of K. Suppose K is a WNSCDIN-subgroup of G. Then , H is also a WNSCDIN-subgroup of G .
+In other words , if H is a characteristic central factor of K , then H is a left-transitively WNSCDIN-subgroup of K.
+130
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_central_factor_of_WNSCDIN_implies_WNSCDIN&action=edit
+A characteristic direct factor of a group ( i.e. , a characteristic subgroup that is also a direct factor ) need not be a fully invariant subgroup -- it need not be invariant under all endomorphisms of the group .
+131
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_direct_factor_not_implies_fully_invariant&action=edit
+Any characteristic subgroup of a group is an automorph-conjugate subgroup .
+Let H be a characteristic subgroup of G .
+Then H is an automorph-conjugate subgroup of G .
+The subgroup property of being characteristic is _ stronger than _ the subgroup property of being automorph-connjugate .
+132
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_implies_automorph-conjugate&action=edit
+Let H be a characteristic subgroup of G. Then , H is normal in G.
+133
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_implies_normal&action=edit
+A characteristic subgroup of a group need not be an amalgam-characteristic subgroup .
+134
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_amalgam-characteristic&action=edit
+We can find a group G ( in fact , we can choose G to be a finite group ) and characteristic subgroups H , K of G that are not isomorphic to each other but distinct .
+135
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_characteristic-isomorph-free_in_finite&action=edit
+A characteristic subring of a Lie ring need not be a derivation-invariant Lie subring .
+136
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_derivation-invariant&action=edit
+A characteristic subgroup of a group need not be a direct factor .
+137
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_direct_factor&action=edit
+It is possible to have a characteristic subgroup of a group G that is not an elementarily characteristic subgroup of G.
+138
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_elementarily_characteristic&action=edit
+A characteristic subgroup of a group need not be a fully invariant subgroup .
+139
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_fully_invariant&action=edit
+In a finite abelian group , a characteristic subgroup need not be a fully invariant subgroup .
+140
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_fully_invariant_in_finite_abelian_group&action=edit
+We can have a finitely generated abelian group with a subgroup that is characteristic but not fully invariant .
+141
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_fully_invariant_in_finitely_generated_abelian_group&action=edit
+For any ( odd ) prime p , there exists a p-group G of class two and a characteristic subgroup of this group that is not fully invariant .
+The construction also works for p = 2 , but for p = 2 , there are already examples of abelian groups with characteristic subgroups that are not fully invariant .
+142
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_fully_invariant_in_odd-order_class_two_p-group&action=edit
+It is possible to have a group G with a characteristic subgroup H that is not injective endomorphism-invariant : in other words , every automorphism of G sends H to itself , but every injective endomorphism of G does _ not _ send H to itself .
+143
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_injective_endomorphism-invariant&action=edit
+It is possible to have a finitely generated abelian group G and a subgroup H of G such that H is a characteristic subgroup of G but is _ not _ an injective endomorphism-invariant subgroup of G , i.e. , there exists an injective endomorphism σ of G such that σ ( H ) is not contained in H.
+144
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_injective_endomorphism-invariant_in_finitely_generated_abelian_group&action=edit
+There exists a finite group G and a characteristic subgroup H of G such that H is _ not _ an isomorph-free subgroup of G .
+In other words , there exists another subgroup K of G that is isomorphic to H.
+145
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_isomorph-free_in_finite_group&action=edit
+It is possible to have a group G and a subgroup H of G such that H is a characteristic subgroup of G but is not isomorph-normal in G : there exists a subgroup K of G isomorphic to H that is not normal in G.
+146
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_isomorph-normal_in_finite_group&action=edit
+A characteristic subloop of a loop need not be a normal subloop .
+147
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_normal_in_loops&action=edit
+It is possible to have a finite group G and subgroups H , K of G such that H is a characteristic subgroup of G , K is a normal subgroup of G , and H , K are isomorphic groups .
+148
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_normal-isomorph-free&action=edit
+It is possible to have a subgroup H of a group G such that H is a characteristic subgroup of G but is _ not _ a potentially fully invariant subgroup of G , i.e. , there is _ no _ group K containing G such that < H/math > isafullyinvariantsubgroupof < math > K.
+149
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_potentially_fully_invariant&action=edit
+It is possible to have a nilpotent group G and a characteristic subgroup H of G such that H is _ not _ a powering-invariant subgroup of G .
+In other words , there exists a prime number p such that every element of G has a unique p ^ ( ( th ) \ root , \ but \ there \ are \ elements \ of \ H \ whose \ p ) ( th ) roots are outside H.
+150
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_powering-invariant_in_nilpotent_group&action=edit
+It is possible to construct a solvable group G and a characteristic subgroup H of G such that H is not a powering-invariant subgroup of G .
+In fact , we can choose G to be powered for any set of primes and H to be powered over any choice of subset of the set of primes ( and not over the others ) .
+151
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_powering-invariant_in_solvable_group&action=edit
+It is possible to have a group G and a characteristic subgroup H of G such that H is not a quasiautomorphism-invariant subgroup , i.e. , there are quasiautomorphisms of G that do not send H to itself .
+152
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_quasiautomorphism-invariant&action=edit
+A characteristic subgroup of a group need not be a strictly characteristic subgroup .
+153
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_strictly_characteristic&action=edit
+We can have a finite group G and a characteristic subgroup H of G such that H is not sub - ( isomorph-normal characteristic ) in G .
+In other words , there is no ascending chain of subgroups from H to G such that each member is an isomorph-normal characteristic subgroup of its successor .
+154
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_sub-(isomorph-normal_characteristic)_in_finite&action=edit
+We can have a finite group G and a characteristic subgroup H of G such that H is not a sub-isomorph-free subgroup of G .
+In other words , there is no ascending chain of subgroups starting at H and ending at G with each member an isomorph-free subgroup of its successor .
+155
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_not_implies_sub-isomorph-free_in_finite_group&action=edit
+Suppose H ≤ K ≤ G are groups such that H is characteristic in K and K is a CDIN-subgroup of G .
+Then H is a CDIN-subgroup of G.
+156
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_of_CDIN_implies_CDIN&action=edit
+Characteristic * Normal ≤ Normal Here , * denotes the composition operator .
+Every characteristic subgroup of a normal subgroup is normal .
+Let H ≤ K ≤ G such that H is characteristic in K and K is normal in G , then H is normal in G.
+157
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_of_normal_implies_normal&action=edit
+The group property of being a finite p-group of characteristic rank one is characteristic subgroup-closed .
+Any characteristic subgroup of a finite p-group of characteristic rank one , is also a finite p-group of characteristic rank one .
+158
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_rank_one_is_characteristic_subgroup-closed&action=edit
+Suppose G is a finite group , p is a prime number , P is a p-Sylow subgroup , and K is a characteristic subgroup of P. Then , K is a weakly closed subgroup in P ( relative to G ) if and only if K is a normal subgroup in every p-Sylow subgroup containing it .
+159
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_subgroup_of_Sylow_subgroup_is_weakly_closed_iff_it_is_normal_in_every_Sylow_subgroup_containing_it&action=edit
+Suppose G is an abelian group and H , K are subgroups of G with H ≤ K ≤ G. Suppose that H is a characteristic subgroup of G. Then , H is also a powering-invariant subgroup of K.
+160
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_subgroup_of_abelian_group_implies_intermediately_powering-invariant&action=edit
+Suppose G is an abelian group and H is a characteristic subgroup of G. Then , H is a powering-invariant subgroup of G : for any prime number p such that every element of G has a unique p ^ ( th ) root , every element of H also has a unique p ^ ( th ) root in H.
+161
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_subgroup_of_abelian_group_implies_powering-invariant&action=edit
+Suppose G is an abelian group and H is a characteristic subgroup of G ( in other words , H is a characteristic subgroup of abelian group ) .
+Then , H is a quotient-powering-invariant subgroup of G : if G is powered over a prime p ( i.e. , every element of G has a unique p ^ ( th ) root ) , so is the quotient group G/H .
+162
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_subgroup_of_abelian_group_is_quotient-powering-invariant&action=edit
+It is possible to have an abelian group G and a characteristic subgroup H of G such that H is not a divisibility-closed subgroup of G .
+In other words , there exists a prime number p such that G is p-divisible but H is not .
+163
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_subgroup_of_abelian_group_not_implies_divisibility-closed&action=edit
+It is possible to have an abelian group G and a characteristic subgroup H of G that is not a local powering-invariant subgroup of G : in other words , it is possible to have h ∈ H and n ∈ ℕ are such that there is a unique x ∈ G satisfying x ^ ( n ) = h , but x ∉ H.
+164
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_subgroup_of_abelian_group_not_implies_local_powering-invariant&action=edit
+Suppose H ≤ K ≤ G are groups satisfying the following two conditions : - H is a characteristic subgroup of G : every automorphism of G restricts to an automorphism of H. - K is an AEP-subgroup of G : every automorphism of K can be extended to an automorphism of G. Then , H is a characteristic subgroup of K.
+165
+https://groupprops.subwiki.org/w/index.php?title=Characteristic_upper-hook_AEP_implies_characteristic&action=edit
+We may have a group with a characteristic subgroup such that there are no other characteristic subgroups isomorphic to it , but there are other normal subgroups isomorphic to it .
+166
+https://groupprops.subwiki.org/w/index.php?title=Characteristic-isomorph-free_not_implies_normal-isomorph-free_in_finite&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a characteristically complemented characteristic subgroup of K and K is a characteristically complemented characteristic subgroup of G. Then , H is a characteristically complemented characteristic subgroup of G.
+167
+https://groupprops.subwiki.org/w/index.php?title=Characteristically_complemented_characteristic_is_transitive&action=edit
+The statement has two forms : Suppose G is a characteristically metacylic group : in other words , there exists a cyclic characteristic subgroup K of G such that G/K is also cyclic .
+Further , suppose that G is a commutator-realizable group : there exists a group H such that [ H , H ] = G , i.e. , G occurs as the commutator subgroup of some group .
+Then , G is an abelian group .
+Suppose G is commutator-realizable , and has a characteristic subgroup such that the quotient is a nontrivial characteristically metacyclic quotient group .
+Then , that quotient group must be abelian .
+A particular case of this is as follows : if G/G ′ and G ′ / G ″ are both cyclic , and G occurs as the commutator subgroup of some group , then G ′ = G ″ .
+168
+https://groupprops.subwiki.org/w/index.php?title=Characteristically_metacyclic_and_commutator-realizable_implies_abelian&action=edit
+It is possible to have a group G with a cyclic characteristic subgroup N such that G/N is also cyclic , but such that the abelianization G / [ G , G ] is _ not _ cyclic .
+169
+https://groupprops.subwiki.org/w/index.php?title=Characteristically_metacyclic_not_implies_metacyclic_derived_series&action=edit
+Any characteristically simple group can be realized as a CSCFN-subgroup of some group .
+170
+https://groupprops.subwiki.org/w/index.php?title=Characteristically_simple_implies_CSCFN-realizable&action=edit
+The subgroup property of being a characteristic subgroup satisfies the subgroup metaproperty called the image condition .
+If H is a characteristic subgroup of G and f : G → K is a surjective homomorphism , then f ( H ) is _ not necessarily _ a characteristic subgroup of K.
+171
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_does_not_satisfy_image_condition&action=edit
+It is possible to have a group G with a characteristic subgroup H , and a subgroup K ≤ G containing H , such that H is _ not _ characteristic as a subgroup of K.
+172
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_does_not_satisfy_intermediate_subgroup_condition&action=edit
+It is possible to have a group G and a characteristic subgroup H of G such that there is a positive integer k for which the lower central series member γ _ ( k ) ( H ) is _ not _ a characteristic subgroup of the lower central series member γ _ ( k ) ( G ) .
+In fact , we can construct , for each positive integer k > 1 , an example that works for that k .
+In the special case that k = 2 , we obtain an example of a group G and a characteristic subgroup H of G such that the derived subgroup H ′ is not a characteristic subgroup of the derived subgroup G ′ .
+173
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_does_not_satisfy_lower_central_series_condition&action=edit
+The subgroup property of being characteristic satisfies the subgroup metaproperty of being centralizer-closed .
+The centralizer of a characteristic subgroup is characteristic .
+Suppose G is a group and H is a characteristic subgroup of G. Then , the centralizer C _ ( G ) ( H ) of H in G is also a characteristic subgroup of G.
+174
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_centralizer-closed&action=edit
+Suppose G is a group and H , K are characteristic subgroups of G ( possibly equal ) .
+Then , the commutator [ H , K ] , defined as the subgroup of G generated by commutators between elements of H and elements of K , is also a characteristic subgroup of G.
+175
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_commutator-closed&action=edit
+It is possible to have a group G and a characteristic subgroup H of G such that in the direct square G × G , the corresponding direct square H × H , viewed as a subgroup , is _ not _ a characteristic subgroup .
+176
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_not_finite_direct_power-closed&action=edit
+It is possible to have a group G with subgroups H , K , L , such that H ≤ L , K ≤ L , H characteristic in G and K characteristic in L , but H ∩ K _ not _ characteristic in G.
+177
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_not_finite-relative-intersection-closed&action=edit
+The subgroup property of being a characteristic subgroup does not satisfy the subgroup metaproperty of being upper join-closed .
+It is possible to find a group G , a subgroup H of G , and intermediate subgroups K , L of G containing H , such that H is characteristic in both K and L , but H is not characteristic in ⟨ K , L ⟩ .
+178
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_not_upper_join-closed&action=edit
+The subgroup property of being a characteristic subgroup satisfies the subgroup metaproperty of being quotient-transitive .
+Suppose H ≤ K ≤ G are subgroups such that H is a characteristic subgroup of G , and K/H is a characteristic subgroup of G/H .
+Then , K is a characteristic subgroup of G.
+179
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_quotient-transitive&action=edit
+An arbitrary ( possibly empty ) intersection of characteristic subgroups of a group is a characteristic subgroup .
+Suppose I is an indexing set and H _ ( i ) , i ∈ I is a collection of characteristic subgroups of a group G. Then , the intersection of subgroups ⋂ _ ( i ∈ I ) H _ ( i ) is also a characteristic subgroup of G.
+180
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_strongly_intersection-closed&action=edit
+Suppose G is a group and H _ ( i ) , i ∈ I is a ( possibly empty ) collection of characteristic subgroups of G. Suppose the join of the H _ ( i ) s equals H. By convention , the join of the empty collection is taken to be the trivial subgroup .
+Then , H is also a characteristic subgroup of G.
+181
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_strongly_join-closed&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a characteristic subgroup of K , and K is a characteristic subgroup of G. Then , H is a characteristic subgroup of G.
+182
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_transitive&action=edit
+If A ≤ B ≤ L are Lie rings such that A is a characteristic subring of B and B is a characteristic subring of L , then A is a characteristic subring of L.
+183
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_is_transitive_for_Lie_rings&action=edit
+Suppose G is a group and H is a subgroup of G such that H has a partition into subgroups H _ ( i ) , i ∈ I , with I containing at least two elements .
+Then , if all except possibly one of the H _ ( i ) is a characteristic subgroup of G , all the H _ ( i ) s are characteristic subgroups of G.
+184
+https://groupprops.subwiki.org/w/index.php?title=Characteristicity_satisfies_partition_difference_condition&action=edit
+Suppose P is a group of nilpotency class two .
+Then , P is a group generated by abelian normal subgroups .
+In fact , P is a _ union _ of abelian normal subgroups .
+185
+https://groupprops.subwiki.org/w/index.php?title=Class_two_implies_generated_by_abelian_normal_subgroups&action=edit
+A group of nilpotency class two need not be a group whose automorphism group is abelian , i.e. , its automorphism group need not be an abelian group .
+186
+https://groupprops.subwiki.org/w/index.php?title=Class_two_not_implies_abelian_automorphism_group&action=edit
+Suppose G is a group having a class-inverting automorphism , i.e. , there exists an automorphism σ of G such that for every g ∈ G , there exists x ∈ G such that σ ( g ) = xg ^ ( ( − 1 ) x ) ( − 1 ) .
+Then , G is a group in which every element is automorphic to its inverse : for every g ∈ G , there exists an automorphism α of G such that α ( g ) = g ^ ( − 1 ) .
+187
+https://groupprops.subwiki.org/w/index.php?title=Class-inverting_automorphism_implies_every_element_is_automorphic_to_its_inverse&action=edit
+Suppose G is a group having a class-inverting automorphism .
+In other words , there is a class-inverting automorphism σ of G : an automorphism σ such that for all g ∈ G , σ ( g ) is conjugate to g ^ ( − 1 ) .
+Suppose N is a normal subgroup of G. Then , G/N is also a group having a class-inverting automorphism .
+In fact , σ ( N ) = N and the automorphism induced by σ on G/N is a class-inverting automorphism .
+188
+https://groupprops.subwiki.org/w/index.php?title=Class-inverting_automorphism_induces_class-inverting_automorphism_on_any_quotient&action=edit
+The automorphism property of being a class-preserving automorphism is stronger than the automorphism property of being an IA-automorphism .
+189
+https://groupprops.subwiki.org/w/index.php?title=Class-preserving_implies_IA&action=edit
+Suppose G is a group and k is a class-determining field for G. Then , any class-preserving automorphism of G is linearly pushforwardable .
+191
+https://groupprops.subwiki.org/w/index.php?title=Class-preserving_implies_linearly_pushforwardable&action=edit
+We can find a group with a class-preserving automorphism ( an automorphism sending every element to within its conjugacy class ) that is _ not _ an inner automorphism ( i.e. , there does not exist any _ single _ element of the group conjugation by which equals the automorphism .
+In symbols , we can find a group G and an automorphism σ of G such that : - For every x ∈ G , there exists g ( dependent on x ) such that σ ( x ) = gxg ^ ( − 1 ) - There does not exist any single g ∈ G satisfying σ ( x ) = gxg ^ ( − 1 ) for all x ∈ G.
+192
+https://groupprops.subwiki.org/w/index.php?title=Class-preserving_not_implies_inner&action=edit
+A class-preserving automorphism of a group ( i.e. , an automorphism that preserves conjugacy classes of elements ) need not be a subgroup-conjugating automorphism ( i.e. , it need not send every subgroup to a conjugate subgroup ) .
+193
+https://groupprops.subwiki.org/w/index.php?title=Class-preserving_not_implies_subgroup-conjugating&action=edit
+Let G be a group of order 2 ^ ( n ) and nilpotency class n − 1 , where n ≥ 4 .
+In other words , G is a 2-group that is also a maximal class group .
+Then , G has a cyclic maximal subgroup M ≅ ℤ/2 ^ ( n − 1 ) ℤ , and it is one of the following groups : A dihedral group : it is a semidirect product of M and a cyclic group of order two , which acts on M via multiplication by -1 .
+A semidihedral group : a semidirect product of M and a cyclic group of order two , which acts on M via multiplication by 2 ^ ( n − 2 ) − 1 .
+A generalized quaternion group .
+Note that in the case n = 3 , we only get the dihedral group : D8 and the quaternion group , and no semidihedral group .
+195
+https://groupprops.subwiki.org/w/index.php?title=Classification_of_finite_2-groups_of_maximal_class&action=edit
+Suppose P is a finite p-group whose normal rank is one : every Abelian normal subgroup of P is cyclic .
+Then : - If p is odd , P is itself cyclic .
+- If p = 2 , P is either cyclic , or it has a cyclic maximal subgroup , with the quotient acting by multiplication by either − 1 ( dihedral group and generalized quaternion group ) or 2 ^ ( r − 2 ) − 1 , where | P | = 2 ^ ( r ) .
+197
+https://groupprops.subwiki.org/w/index.php?title=Classification_of_finite_p-groups_of_normal_rank_one&action=edit
+Let p be a prime , and let P be a finite p-group ( a group whose order is a power of p ) , such that P has rank at most one : in other words , every Abelian subgroup of P is cyclic .
+Then : If p is odd , then P must be cyclic If p = 2 , then P is either cyclic or is a generalized quaternion group
+198
+https://groupprops.subwiki.org/w/index.php?title=Classification_of_finite_p-groups_of_rank_one&action=edit
+Let p be an odd prime , and G be a group of order p ^ ( n ) with a cyclic maximal subgroup M ( so M ≅ ℤ/p ^ ( n − 1 ) ℤ ) .
+Then , there are two possibilities for G : G is isomorphic to $ \ mathbb { Z } / p ^ { n-1 } \ mathbb { Z } \ times \ Z/p \ mathbb { Z } $ , with M being the first direct factor ( we could choose other isomorphisms where M is not one of the direct factors ) .
+G is isomorphic to ℤ/p ^ ( n ) ℤ , with the isomorphism sending M to the subgroup of multiples of p G is an internal semidirect product of the subgroup M and a cyclic group of order p , whose generator acts on M via multiplication by p ^ ( n − 2 ) + 1 .
+When n = 2 , then ( 2 ) and ( 3 ) are equivalent , for n ≥ 3 , we get three possible isomorphism classes for G from the above .
+Let G be a group of order 2 ^ ( ( n ) \ with \ a \ cyclic \ maximal \ subgroup \ M ≅ ℤ/2 ) ( n − 1 ) ℤ .
+Then , there are six possibilities for G : G is isomorphic to ℤ/2 ^ ( n − 1 ) ℤ × ℤ/2ℤ , with M being the first direct factor ( we could choose other isomorphisms where M is not one of the direct factors ) .
+G is isomorphic to ℤ/2 ^ ( n ) ℤ , with the isomorphism sending M to the subgroup of multiples of p G is a dihedral group : it is a semidirect product of M and a cyclic group of order two , which acts on M via multiplication by -1 .
+G is a semidirect product of M and a cyclic group of order two , which acts on M via multiplication by 2 ^ ( n − 2 ) + 1 .
+G is a semidirect product of M and a cyclic group of order two , which acts on M via multiplication by 2 ^ ( n − 2 ) − 1 G is a generalized quaternion group
+199
+https://groupprops.subwiki.org/w/index.php?title=Classification_of_finite_p-groups_with_cyclic_maximal_subgroup&action=edit
+Suppose G is a finite group that is both a finite solvable group and a CN-group ( hence also a finite CN-group .
+Then , G must be of one of these three types : G is a finite nilpotent group .
+G is a Frobenius group where the Frobenius complement is a finite group in which every abelian subgroup is cyclic .
+G is a 3-step group .
+201
+https://groupprops.subwiki.org/w/index.php?title=Classification_of_finite_solvable_CN-groups&action=edit
+The restriction of any irreducible complex character of a group , to a normal subgroup , is a multiple of the sum of all conjugates in the whole group of some irreducible character of the normal subgroup .
+Let G be a finite group and N a normal subgroup of G. Let χ be a complex irreducible character of G and μ of N such that : ⟨ Res ( χ ) _ ( N ) ^ ( G ) , μ ⟩ ≠ 0 Then : $ \ operatorname { Res } ( \ chi ) _ N ^ G = a \ left ( \ sum _ { i = 1 } ^ t \ mu ^ { ( g_i ) } \ right ) $ where g _ ( i ) ∈ G and μ ^ ( ( ( g ) ) \ denotes \ the \ character :\ n ↦ μ ( gng ) ( − 1 ) ) Further a and t are positive integers dividing the index [ G : N ] .
+In fact , t is the index of the subgroup I _ ( G ) ( μ ) , defined as : { g ∈ G | μ ^ ( ( g ) ) = μ } I _ ( G ) ( μ ) is termed the inertial subgroup .
+Further , e divides the index [ I _ ( G ) ( μ ) : N ] .
+202
+https://groupprops.subwiki.org/w/index.php?title=Clifford's_theorem&action=edit
+Any cocentral subgroup of a group is a central factor .
+203
+https://groupprops.subwiki.org/w/index.php?title=Cocentral_implies_central_factor&action=edit
+Suppose G is a group and H is a cocentral subgroup of G. Then , if K is a subgroup of G containing H such that K/H is a central factor of G/H , K is also a central factor of G.
+205
+https://groupprops.subwiki.org/w/index.php?title=Cocentral_implies_right-quotient-transitively_central_factor&action=edit
+It is possible to have a group G and a cocentral subgroup H of G ( i.e. , HZ ( G ) = G ) such that H is not a characteristic subgroup in the amalgamated free product L : = G * _ ( H ) G.
+206
+https://groupprops.subwiki.org/w/index.php?title=Cocentral_not_implies_amalgam-characteristic&action=edit
+If H is a cocentral subgroup of K , and K is a cocentral subgroup of G , then H is a cocentral subgroup of G.
+207
+https://groupprops.subwiki.org/w/index.php?title=Cocentrality_is_transitive&action=edit
+Any subgroup of a group containing a cocentral subgroup is also a cocentral subgroup .
+208
+https://groupprops.subwiki.org/w/index.php?title=Cocentrality_is_upward-closed&action=edit
+Any cocentral subgroup of a group is also a cocentral subgroup in every intermediate subgroup .
+209
+https://groupprops.subwiki.org/w/index.php?title=Cocentrality_satisfies_intermediate_subgroup_condition&action=edit
+It is possible to have groups H ≤ K ≤ G such that H is a cofactorial automorphism-invariant subgroup of K and K is a cofactorial automorphism-invariant subgroup of G , but H is not a cofactorial automorphism-invariant subgroup of G .
+The key observation here is that the set of prime divisors of the order of K may be a proper subset of the set of prime divisors of the order of G. Shrinkage in the set of prime divisors is necessary to construct a counterexample .
+210
+https://groupprops.subwiki.org/w/index.php?title=Cofactorial_automorphism-invariance_is_not_transitive&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a cofactorial automorphism-invariant subgroup of K and K is a 2-subnormal subgroup of G. Then , H is a 2-subnormal subgroup of G.
+211
+https://groupprops.subwiki.org/w/index.php?title=Cofactorial_automorphism-invariant_implies_left-transitively_2-subnormal&action=edit
+Let G be a finite group , and k be a splitting field for G. Then , consider the character table of G : this is a matrix whose rows are indexed by the irreducible linear representations of G over k , and whose columns are indicated by the conjugacy classes of G , and where the entry in row ρ and column c is the trace of ρ ( g ) where g ∈ c. Then , the columns of this table are _ orthogonal _ .
+More explicitly , for any conjugacy classes c ₁ and c ₂ , pick g ₁ ∈ c ₁ , g ₂ ∈ c ₂ .
+We get : ∑ _ ( χ ) χ ( g ₁ ) χ ( g ₂ ^ ( − 1 ) ) = 0 where χ varies over the characters of irreducible linear representations of G. Further , for a single conjugacy class c and g ∈ c : $ \ sum _ \ chi \ chi ( g ) \ chi ( g ^ { -1 } ) = \ frac { | G | } { | c | } $ Note that any sufficiently large field ( i.e. , any field that contains all the m ^ ( th ) roots of unity where m is the exponent of G ) is a splitting field .
+212
+https://groupprops.subwiki.org/w/index.php?title=Column_orthogonality_theorem&action=edit
+Suppose H is a subgroup of a group G. Consider the commensurator K of H in G , defined as the set of all g ∈ G such that H ∩ gHg ^ ( − 1 ) is a subgroup of finite index in both H and gHg ^ ( − 1 ) , i.e. , H and gHg ^ ( − 1 ) are commensurable subgroups .
+Then , K is a subgroup of G.
+213
+https://groupprops.subwiki.org/w/index.php?title=Commensurator_of_subgroup_is_subgroup&action=edit
+Suppose ( S , * ) is a commutative magma , i.e , we have : a B = B a ∀ a , b ∈ S Then , ( S , * ) is also a flexible magma , i.e. , we have : x ( Y x ) = ( x Y ) x ∀ x , y ∈ S This also shows that a commutative non-associative ring must be a flexible ring .
+214
+https://groupprops.subwiki.org/w/index.php?title=Commutative_implies_flexible&action=edit
+Suppose G is a group and H is any subgroup .
+Then , the commutator [ G , H ] , defined as : [ G , H ] : = ⟨ [ g , h ] ∣ g ∈ G , h ∈ H ⟩ is a normal subgroup of G.
+215
+https://groupprops.subwiki.org/w/index.php?title=Commutator_of_a_group_and_a_subgroup_implies_normal&action=edit
+Suppose G is a group , H is a normal subgroup of G , and A is any subset of G. Then , the subgroup : [ A , H ] = ⟨ [ a , h ] ∣ a ∈ A , h ∈ H ⟩ is a 2-subnormal subgroup of G.
+216
+https://groupprops.subwiki.org/w/index.php?title=Commutator_of_a_normal_subgroup_and_a_subset_implies_2-subnormal&action=edit
+Suppose G is a group , H is a transitively normal subgroup of G ( i.e. , every normal subgroup of H is normal in G ) , and S is a subset of G. Then , the commutator : [ H , S ] = ⟨ [ h , s ] ∣ h ∈ H , s ∈ S ⟩ is a normal subgroup of G.
+217
+https://groupprops.subwiki.org/w/index.php?title=Commutator_of_a_transitively_normal_subgroup_and_a_subset_implies_normal&action=edit
+Let G be a finite group and A be a cyclic subgroup of Aut ( G ) such that the orders of G and A are relatively prime .
+Then : [ [ G , A ] , A ] = [ G , A ] .
+218
+https://groupprops.subwiki.org/w/index.php?title=Commutator_of_finite_group_with_cyclic_coprime_automorphism_group_equals_second_commutator&action=edit
+Let G be a finite nilpotent group and A be a subgroup of Aut ( G ) whose order is relatively prime to the order of G. Then , we have : [ [ G , A ] , A ] = [ G , A ] , where : [ G , A ] = ⟨ gσ ( g ) ^ ( − 1 ) ∣ g ∈ G , σ ∈ A } .
+219
+https://groupprops.subwiki.org/w/index.php?title=Commutator_of_finite_nilpotent_group_with_coprime_automorphism_group_equals_second_commutator&action=edit
+The property of being a commutator-in-center subgroup is an intersection-closed subgroup property : it is closed under arbitrary nonempty intersections .
+Note that it is _ not _ a strongly intersection-closed subgroup property because it is not closed under the empty intersection , since every group need not satisfy this property within itself .
+Suppose G is a group and H _ ( i ) , i ∈ I is a nonempty collection of commutator-in-center subgroups of G. Let H = ⋂ _ ( i ∈ I ) H _ ( i ) .
+Then , H is also a commutator-in-center subgroup of G.
+220
+https://groupprops.subwiki.org/w/index.php?title=Commutator-in-center_is_intersection-closed&action=edit
+Suppose G is a finite CN-group ( i.e. , a finite group that is also a CN-group ) .
+Let π be the set of prime divisors of the order of G. Define a relation ∼ on π as follows : for p , q ∈ π ( possibly equal , possibly distinct ) , p ∼ q if and only if either p = q or there exists a p-Sylow subgroup P of G and a q-Sylow subgroup Q of G such that the following equivalent conditions hold : There exists a non-identity element x of P and a non-identity element y of Q such that x and y commute .
+Every element of P commutes with every element of Q. Note that the conditions are equivalent because uses : : Sylow subgroups for distinct primes in CN-group centralize each other iff they have non-identity elements that centralize each other .
+Note also that these conditions are _ not as strong as _ the statement that every element of p-power order in G commutes with every element of q-power order .
+It is simply a statement about being able to find two specific Sylow subgroups that centralize each other .
+The CLAIM is that ∼ is an equivalence relation on π .
+221
+https://groupprops.subwiki.org/w/index.php?title=Commuting_of_non-identity_elements_defines_an_equivalence_relation_between_prime_divisors_of_the_order_of_a_finite_CN-group&action=edit
+It is possible to have a group G and a subgroup H of G , such that H is a complemented central factor of G ( i.e. , HC _ ( G ) ( H ) = G and there is a subgroup K of G such that HK = G and H ∩ K is trivial ) but H is not a direct factor of G.
+222
+https://groupprops.subwiki.org/w/index.php?title=Complemented_central_factor_not_implies_direct_factor&action=edit
+It is possible to have the following situation : groups H ≤ K ≤ G such that H is a complemented characteristic subgroup of K and K is a complemented normal subgroup of G , but H is not a complemented normal subgroup of G.
+223
+https://groupprops.subwiki.org/w/index.php?title=Complemented_characteristic_not_implies_left-transitively_complemented_normal&action=edit
+If H is a complemented normal subgroup of G , H is an endomorphism kernel in G , i.e. , there is a subgroup K of G such that G/H ≅ K.
+224
+https://groupprops.subwiki.org/w/index.php?title=Complemented_normal_implies_endomorphism_kernel&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a complemented normal subgroup of G and K/H is a complemented normal subgroup of G .
+Then K is a complemented normal subgroup of G.
+225
+https://groupprops.subwiki.org/w/index.php?title=Complemented_normal_is_quotient-transitive&action=edit
+It is possible to have a group G and a complemented normal subgroup H such that H is not a direct factor of G .
+In other words , H has a permutable complement in G , but no normal complement in G.
+226
+https://groupprops.subwiki.org/w/index.php?title=Complemented_normal_not_implies_direct_factor&action=edit
+It is possible to have a group G and a complemented normal subgroup H of G such that H is not a local powering-invariant subgroup of G , i.e. , there exists an element h ∈ H and a natural number n such that there is a unique solution u ∈ G to u ^ ( n ) = h , but u ∉ H.
+227
+https://groupprops.subwiki.org/w/index.php?title=Complemented_normal_not_implies_local_powering-invariant&action=edit
+Suppose G is a group and H _ ( i ) , i ∈ I are all completely divisibility-closed subgroups of G. Then , the intersection of subgroups H = ⋂ _ ( i ∈ I ) H _ ( i ) is also completely divisibility-closed .
+Here , a subgroup is completely divisibility-closed if for any prime number p such that every element of the group has a p ^ ( th ) root in the group , all p ^ ( th ) roots of any element in the subgroup are in the subgroup .
+228
+https://groupprops.subwiki.org/w/index.php?title=Complete_divisibility-closedness_is_strongly_intersection-closed&action=edit
+Suppose G is a group and H , K are subgroups with H ≤ K ≤ G. Suppose K is a completely divisibility-closed subgroup of G and H is a completely divisibility-closed subgroup of K. Then , H is a completely divisibility-closed subgroup of G.
+229
+https://groupprops.subwiki.org/w/index.php?title=Complete_divisibility-closedness_is_transitive&action=edit
+A complete group ( i.e. , a centerless group in which every automorphism is an inner automorphism ) need not be an ambivalent group ( i.e. , a group in which every element is conjugate to its inverse ) .
+230
+https://groupprops.subwiki.org/w/index.php?title=Complete_not_implies_ambivalent&action=edit
+It is possible to have a group ( in fact , a finite group ) such that any two composition series for the group have the same composition factors occurring in the same order , but such that there is more than one composition series .
+231
+https://groupprops.subwiki.org/w/index.php?title=Composition_factor-unique_not_implies_composition_series-unique&action=edit
+If a finite group contains a conjugacy class whose size is a power of a prime ( and also , greater than 1 ) , then the finite group can not be simple .
+232
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy_class_of_prime_power_size_implies_not_simple&action=edit
+Suppose G is a finite group , p is a prime number , and W is a p - conjugacy functor on G whose normalizer , along with the p ' - core , generates the whole group .
+Explicitly , this means that if P is a p-Sylow subgroup of G : G = O _ ( p ′ ) ( G ) N _ ( G ) ( W ( P ) ) .
+Then , W controls fusion in G .
+In other words , any two subsets of P that are conjugate in G are also conjugate in N _ ( G ) ( W ( P ) ) .
+233
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy_functor_whose_normalizer_generates_whole_group_with_p'-core_controls_fusion&action=edit
+A conjugacy-closed Hall subgroup ( i.e. , a Hall subgroup that is conjugacy-closed : any two elements in the subgroup that are conjugate in the whole group are conjugate in the subgroup ) need not be a retract .
+Specifically , there need not be a normal Hall subgroup that is a complement to it .
+234
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-closed_and_Hall_not_implies_retract&action=edit
+Suppose H is a conjugacy-closed subgroup of a group G .
+In other words , any two elements of H that are conjugate in G are in fact conjugate in H. Then , the focal subgroup of H equals its commutator subgroup .
+235
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-closed_implies_focal_subgroup_equals_derived_subgroup&action=edit
+The subgroup property of being a conjugacy-closed normal subgroup is _ not _ stronger than the subgroup property of being a central factor .
+236
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-closed_normal_not_implies_central_factor&action=edit
+It is possible to have a group G and a subgroup H of G such that H is a conjugacy-closed subgroup of G but not a weak subset-conjugacy-closed subgroup of G .
+In particular , H is not a subset-conjugacy-closed subgroup of G.
+237
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-closed_not_implies_weak_subset-conjugacy-closed&action=edit
+We can have a situation where H , K are conjuacy-closed subgroups of G but the join ⟨ H , K ⟩ is not conjugacy-closed in G.
+238
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-closedness_is_not_join-closed&action=edit
+We can have the following situation : H ≤ G is a subgroup , K ₁ , K ₂ are intermediate subgroups of G containing H , such that H is conjugacy-closed in K ₁ as well as in K ₂ , but not in the join ⟨ K ₁ , K ₂ .
+239
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-closedness_is_not_upper_join-closed&action=edit
+Suppose H ≤ K ≤ G are groups such that H is conjugacy-closed in K and K is conjugacy-closed in G.
+240
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-closedness_is_transitive&action=edit
+Suppose G is a conjugacy-separable group ( i.e. , any two non-conjugate elements can be realized as non-conjugate elements in some finite quotient ) that is also an aperiodic group : no non-identity element has finite order .
+Then , every extensible automorphism of G is a class-preserving automorphism .
+241
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-separable_and_aperiodic_implies_every_extensible_automorphism_is_class-preserving&action=edit
+In a conjugacy-separable group , every quotient-pullbackable automorphism is a class-preserving automorphism .
+242
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-separable_implies_every_quotient-pullbackable_automorphism_is_class-preserving&action=edit
+Any conjugacy-separable group is a residually finite group .
+243
+https://groupprops.subwiki.org/w/index.php?title=Conjugacy-separable_implies_residually_finite&action=edit
+The subgroup property of being a conjugate-dense subgroup is transitive .
+Any conjugate-dense subgroup of a conjugate-dense subgroup is conjugate-dense .
+245
+https://groupprops.subwiki.org/w/index.php?title=Conjugate-denseness_is_transitive&action=edit
+Let H be a subgroup of G of finite index r in G. Let H ₁ , H ₂ , … , H _ ( s ) be _ distinct _ conjugates of H in G , so that s ≤ r. Let $ K = \ bigcap _ { i = 1 } ^ s H_i $ .
+Then : - K is of finite index in G - The index of K in G is bounded from above by r ( r − 1 ) … ( r − s + 1 ) viz. [ r ] _ ( s ) or P ( r , s ) .
+246
+https://groupprops.subwiki.org/w/index.php?title=Conjugate-intersection_index_theorem&action=edit
+Suppose H is a conjugate-join-closed subnormal subgroup of a group G : for any subset S of G , the subgroup H ^ ( ( S ) = ⟨ H ) ( s ) ∣ s ∈ S ⟩ is a subnormal subgroup of G. Then , H is a join-transitively subnormal subgroup of G : for any subnormal subgroup K of G , the join of subgroups ⟨ H , K ⟩ is also a subnormal subgroup of G.
+247
+https://groupprops.subwiki.org/w/index.php?title=Conjugate-join-closed_subnormal_implies_join-transitively_subnormal&action=edit
+If H is a conjugate-permutable subgroup of a group G , and S is any subset of G , then the subgroup : H ^ ( ( S ) : = ⟨ H ) ( g ) ∣ g ∈ S ⟩ is also a conjugate-permutable subgroup of G.
+248
+https://groupprops.subwiki.org/w/index.php?title=Conjugate-permutability_is_conjugate-join-closed&action=edit
+Any conjugate-permutable subgroup of a group is also conjugate-permutable in every intermediate subgroup .
+If H is a conjugate-permutable subgroup of a group G , and H ≤ K ≤ G , then H is also conjugate-permutable in K.
+249
+https://groupprops.subwiki.org/w/index.php?title=Conjugate-permutability_satisfies_intermediate_subgroup_condition&action=edit
+The subgroup property of being contranormal is _ not stronger than _ , or _ does not imply _ , the subgroup property of being self-normalizing .
+There exist situations of a group with a contranormal subgroup that is _ not _ self-normalizing , i.e. , it is properly contained in its normalizer .
+250
+https://groupprops.subwiki.org/w/index.php?title=Contranormal_not_implies_self-normalizing&action=edit
+Suppose G is a group and H _ ( i ) ≤ K _ ( i ) ≤ G is a family of subgroups indexed by i ∈ I , and indexing set .
+Further , suppose each H _ ( i ) is a contranormal subgroup of K _ ( i ) .
+Then , the join of all the H _ ( i ) s is contranormal in the join of all the K _ ( i ) s.
+251
+https://groupprops.subwiki.org/w/index.php?title=Contranormality_is_UL-join-closed&action=edit
+A contranormal subgroup of a contranormal subgroup of a group is contranormal in the whole group .
+252
+https://groupprops.subwiki.org/w/index.php?title=Contranormality_is_transitive&action=edit
+Suppose H ≤ G is a subgroup , and K _ ( i ) , i ∈ I , is an indexed family of subgroups with H ≤ K _ ( i ) for each i ∈ I. Then , if H is contranormal in each K _ ( i ) , H is also contranormal in the [ join of subgroups | join ] ] of the K _ ( i ) s.
+253
+https://groupprops.subwiki.org/w/index.php?title=Contranormality_is_upper_join-closed&action=edit
+The subgroup property of being a coprime automorphism-faithful characteristic subgroup satisfies the subgroup metaproperty of being transitive .
+Suppose G is a finite group , K is a coprime automorphism-faithful characteristic subgroup of G , and H is a coprime automorphism-faithful characteristic subgroup of K. Then , H is a coprime automorphism-faithful characteristic subgroup of G.
+254
+https://groupprops.subwiki.org/w/index.php?title=Coprime_automorphism-faithful_characteristicity_is_transitive&action=edit
+Suppose G is a ( not necessarily finite ) group and H is a core-free permutable subnormal subgroup of G .
+In other words , H is core-free in G ( its normal core in G is trivial ) , H is a permutable subgroup of G , and H is a subnormal subgroup of G. Then , H is a solvable group .
+Further , if the subnormal depth of H in G is k , the solvable length of H is at most k − 1 .
+256
+https://groupprops.subwiki.org/w/index.php?title=Core-free_permutable_subnormal_implies_solvable_of_length_at_most_one_less_than_subnormal_depth&action=edit
+Let G be a finite group and p is a prime number dividing the order of G. Suppose G is a group in which every p-local subgroup is p-constrained .
+Suppose P is a p-Sylow subgroup of G and A is maximal among abelian normal subgroups in P , with the rank of A at least three .
+Suppose q is a prime number not equal to p. Then : P normalizes _ at least one _ maximal A-invariant q-subgroup of G .
+If P normalizes no nontrivial p ′ - subgroups of G , then neither does A.
+257
+https://groupprops.subwiki.org/w/index.php?title=Corollary_of_Thompson_transitivity_theorem&action=edit
+Let q , r , s be primes such that q ≠ r , q ≠ s ( we can have r = s ) .
+Suppose Q is a finite abelian q-group of rank at least three , R is a finite r-group and S is a finite s-group .
+Suppose further that Q acts as automorphisms on both R and S. Then , there exists a non-identity element u ∈ Q such that C _ ( R ) ( u ) and C _ ( S ) ( u ) are both nontrivial .
+258
+https://groupprops.subwiki.org/w/index.php?title=Corollary_of_centralizer_product_theorem_for_rank_at_least_three&action=edit
+Suppose G is a finite group and N is a central subgroup of G. Suppose Q = G/N and ρ : Q → PGL _ ( d ) ( ℂ ) is a homomorphism of groups , and hence a projective representation of G/N .
+Let α : G → Q and π _ ( d ) : GL _ ( d ) ( ℂ ) → PGL _ ( d ) ( ℂ ) be the obvious quotient maps .
+We call a linear representation θ : G → GL _ ( d ) ( ℂ ) a _ lift _ of ρ if π _ ( d ) ∘ θ = ρ ∘ α .
+The statement is that there exists a linear representation that is a lift of ρ if and only if the following holds .
+Consider the following biadditive map : H ² ( Q ; N ) × Hom ( N , ℂ ^ ( ) ) → H ² ( Q ; ℂ ^ ( ) ) Fixing the element of H ² ( Q ; N ) corresponding to the extension group G , we get a homomorphism : Hom ( N , ℂ ^ ( ) ) → H ² ( Q ; ℂ ^ ( ) ) from the group of one-dimensional representations of the central subgroup N to H ² ( Q ; ℂ ^ ( * ) ) .
+The projective representation ρ lifts to a linear representation if and only if the image of the above homomorphism contains the cohomology class ( i.e. , the element of H ² ( Q ; ℂ ^ ( * ) ) corresponding to ρ .
+Consider the formula for second cohomology group for trivial group action in terms of Schur multiplier and abelianization : 0 → Ext ¹ ( Q ^ ( ab ) , N ) → H ² ( Q ; N ) → Hom ( H ₂ ( Q ; ℤ ) , N ) → 0 The extension group G corresponds to an element of H ² ( Q ; N ) , which hence maps to an element of Hom ( H ₂ ( Q ; ℤ ) , N ) .
+By composition , this defines a map : Hom ( N , ℂ ^ ( ( ) ) → HOM ( H ₂ ( Q ; ℤ ) , ℂ ^ ( ) ) = H ² ( Q ; ℂ ) ( * ) ) The condition is that the image of this homomorphism should contain the cohomology class corresponding to the projective representation .
+259
+https://groupprops.subwiki.org/w/index.php?title=Criterion_for_projective_representation_to_lift_to_linear_representation&action=edit
+Consider a finite group whose order is not a multiple of 3 .
+Then , the cube map ( viz the map sending each element of the group to its cube ) is an endomorphism if and only if the group is abelian .
+Let G be a finite group whose order is not a multiple of 3 .
+Then , the map σ defined as σ ( x ) = x ³ is an endomorphism if and only if G is abelian .
+260
+https://groupprops.subwiki.org/w/index.php?title=Cube_map_is_endomorphism_iff_abelian_(if_order_is_not_a_multiple_of_3)&action=edit
+If the cube map on a group is an automorphism , or more generally a surjective endomorphism , then the group is an abelian group .
+Let G be a group such that the map σ : G → G defined by σ ( x ) = x ³ is an automorphism , or more generally , a surjective endomorphism .
+Then , G is an abelian group .
+261
+https://groupprops.subwiki.org/w/index.php?title=Cube_map_is_surjective_endomorphism_implies_abelian&action=edit
+Let G be a group such that the following two conditions : The Frattini subgroup Φ ( G ) is a finitely generated group ( note that this is automatically satisfied if G is a finite group ) The Frattini quotient , viz. , the quotient by the Frattini subgroup , is a cyclic group Then , G is a cyclic group .
+262
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_Frattini_quotient_implies_cyclic&action=edit
+It is possible to have a group that is an [ group whose automorphism group is cyclic ] ] ( i.e. , the automorphism group is a cyclic group ) but the group itself is not a cyclic group .
+263
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_automorphism_group_not_implies_cyclic&action=edit
+Suppose G is a group and K is a cyclic characteristic subgroup of G , i.e. , K is a cyclic group and is also a characteristic subgroup of G. Then , K is also a hereditarily characteristic subgroup of G , i.e. , every subgroup H of K is characteristic in G.
+264
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_characteristic_implies_hereditarily_characteristic&action=edit
+A group is cyclic if and only if it can not be expressed as a union of proper subgroups .
+( Note that the trivial group is considered cyclic here ) .
+265
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_iff_not_a_union_of_proper_subgroups&action=edit
+Any cyclic group ( i.e. , any group generated by only one element ) is an abelian group ( i.e. , any two elements in it commute ) .
+266
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_implies_abelian&action=edit
+Any cyclic group is a group whose automorphism group is abelian : the automorphism group of a cyclic group is an abelian group .
+267
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_implies_abelian_automorphism_group&action=edit
+Any subgroup of a cyclic normal subgroup is normal .
+( Also , any subgroup of a cyclic normal subgroup is cyclic , so in fact , subgroups of cyclic normal subgroups are cyclic normal ) .
+The subgroup property of being a cyclic normal subgroup is stronger than the subgroup property of being a hereditarily normal subgroup .
+Equivalently , the property of being cyclic normal is a left-hereditary subgroup property .
+268
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_normal_implies_hereditarily_normal&action=edit
+It is possible to have a group G with two cyclic normal subgroups ( i.e. , subgroups that are both cyclic and normal ) whose join is not a cyclic normal subgroup .
+Since the join is always a normal subgroup , the particular thing that fails is that the join is cyclic .
+269
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_normal_is_not_join-closed&action=edit
+Suppose H ≤ K ≤ G are groups , such that H is a central subgroup of G ( in other words , H is contained in the center of G ) , and K/H is cyclic .
+Then K is an abelian subgroup of G , i.e. , it is Abelian as a group .
+Any cyclic group is an epabelian group .
+270
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_over_central_implies_abelian&action=edit
+Suppose G is a finite group and K is a splitting field for G. Suppose the quotient group of the automorphism group Aut ( G ) by the normal subgroup comprising the class-preserving automorphisms is a cyclic group .
+Then , G is a finite group having the same orbit sizes of conjugacy classes and irreducible representations under automorphism group .
+The action of Aut ( G ) on G induces actions both on the set of conjugacy classes C ( G ) and the set of ( equivalence classes of ) irreducible representations of G over K .
+The claim is that the sizes of orbits of these two actions are the same .
+271
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_quotient_of_automorphism_group_by_class-preserving_automorphism_group_implies_same_orbit_sizes_of_conjugacy_classes_and_irreducible_representations_under_automorphism_group&action=edit
+Suppose G is a group and H is a cyclic-quotient characteristic subgroup of G .
+In other words , H is a characteristic subgroup of G that is also a cyclic-quotient subgroup of G , i.e. , the quotient group G/H is a cyclic group .
+Then , H is an upward-closed characteristic subgroup of G : every subgroup K of G containing H is a characteristic subgroup of G.
+272
+https://groupprops.subwiki.org/w/index.php?title=Cyclic-quotient_characteristic_implies_upward-closed_characteristic&action=edit
+Every subgroup of a cyclic group is cyclic .
+273
+https://groupprops.subwiki.org/w/index.php?title=Cyclicity_is_subgroup-closed&action=edit
+The group property of being a Dedekind group is stronger than the group property of being an ACIC-group .
+274
+https://groupprops.subwiki.org/w/index.php?title=Dedekind_implies_ACIC&action=edit
+Any Dedekind group ( i.e. , a group in which every subgroup is normal ) must be a group of class ( at most ) two , i.e. , the derived subgroup is contained in the center .
+275
+https://groupprops.subwiki.org/w/index.php?title=Dedekind_implies_class_two&action=edit
+The group property of being a Dedekind group ( i.e. , a group where _ every _ subgroup is normal ) does _ not _ imply the group property of being an Abelian group .
+276
+https://groupprops.subwiki.org/w/index.php?title=Dedekind_not_implies_abelian&action=edit
+There can exist a Lie ring L , a derivation-invariant Lie subring A of L , and a subring B of L containing A , such that A is a derivation-invariant Lie subring of B.
+277
+https://groupprops.subwiki.org/w/index.php?title=Derivation-invariance_does_not_satisfy_intermediate_subring_condition&action=edit
+Suppose L is a Lie ring and A , B are two derivation-invariant Lie subrings of L. Then , the subring : [ A , B ] : = ⟨ [ a , b ] ∣ a ∈ A , b ∈ B ⟩ is a derivation-invariant subring .
+In other words , if d : L → L is a derivation , then d [ A , B ] ≤ [ A , B ] .
+278
+https://groupprops.subwiki.org/w/index.php?title=Derivation-invariance_is_Lie_bracket-closed&action=edit
+The centralizer of a derivation-invariant subring of a Lie ring is also derivation-invariant .
+279
+https://groupprops.subwiki.org/w/index.php?title=Derivation-invariance_is_centralizer-closed&action=edit
+It is possible to have a Lie ring L , a subring I of L , and subrings A , B of L such that I is a derivation-invariant Lie subring of both A and B , but I is not derivation-invariant in the Lie subring generated by A and B.
+280
+https://groupprops.subwiki.org/w/index.php?title=Derivation-invariance_is_not_upper_join-closed&action=edit
+A derivation-invariant Lie subring of a derivation-invariant Lie subring is a derivation-invariant Lie subring .
+In symbols , if L is a Lie ring with subrings A , B such that Bis a derivation-invariant Lie subring of L and A is a derivation-invariant Lie subring of B , then A is a derivation-invariant Lie subring of L.
+281
+https://groupprops.subwiki.org/w/index.php?title=Derivation-invariance_is_transitive&action=edit
+Suppose G is a group with the property that the derived subgroup ( i.e. , commutator subgroup ) [ G , G ] = G ′ satisfies the ascending chain condition on subnormal subgroups .
+Then , if H and K are subnormal subgroups of G , so is the join ⟨ H , K ⟩ .
+283
+https://groupprops.subwiki.org/w/index.php?title=Derived_subgroup_satisfies_ascending_chain_condition_on_subnormal_subgroups_implies_subnormal_join_property&action=edit
+It is possible to have groups G and K , a descendant subgroup H of G and a surjective homomorphism φ : G → K such that φ ( H ) is not a descendant subgroup of K.
+284
+https://groupprops.subwiki.org/w/index.php?title=Descendance_does_not_satisfy_image_condition&action=edit
+A descendant subgroup of a group need not be subnormal .
+285
+https://groupprops.subwiki.org/w/index.php?title=Descendant_not_implies_subnormal&action=edit
+Suppose F is a field of size q , where q is a power of an odd prime p. Suppse a is a generator of the multiplicative group of F. Consider the subgroup L of the general linear group GL ( 2 , F ) given by : $ L = \ left \ langle \ begin { pmatrix } 1 & 1 \ \ 0 & 1 \ \ \ end { pmatrix } , \ begin { pmatrix } 1 & 0 \ \ a & 1 \ end { pmatrix } \ right \ rangle $ .
+Then , one of these cases holds : - L = SL ( 2 , F ) , i.e. , L is the entire special linear group .
+- q = 9 , and L is a quasisimple group of order 120 , with L/Z ( L ) isomorphic to the alternating group of degree five .
+In either case , L contains a subgroup isomorphic to SL ( 2,3 ) .
+286
+https://groupprops.subwiki.org/w/index.php?title=Dickson's_theorem&action=edit
+Let x and y be two distinct involutions ( elements of order two ) in a finite group G. Suppose xy has order m. Then , ⟨ x , y ⟩ is a dihedral group of order 2m , with cyclic subgroup of order m generated by xy and the element x of order two conjugating xy to its inverse .
+287
+https://groupprops.subwiki.org/w/index.php?title=Dihedral_trick&action=edit
+Any direct factor of a group is a central factor .
+Suppose H is a direct factor of a group G , i.e. , H is a normal subgroup of G and there exists a normal subgroup K of G such that HK = G and H ∩ K is trivial .
+Then , H is a central factor of G , i.e. , HC _ ( G ) ( H ) = G.
+288
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_implies_central_factor&action=edit
+Any direct factor of a group is a join-transitively central factor : its join with any central factor is a central factor .
+289
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_implies_join-transitively_central_factor&action=edit
+Suppose G is an internal direct product of subgroups H and K , so that both H and K are direct factors of G. Then , both H and K are normal subgroups of G.
+290
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_implies_normal&action=edit
+Any direct factor of a group is a right-quotient-transitively central factor .
+Suppose G is a group , H ≤ K ≤ G , and H is a direct factor of G. Suppose , further , that K/H is a central factor of G/H .
+Then , K is a central factor of G.
+291
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_implies_right-quotient-transitively_central_factor&action=edit
+Suppose H is a direct factor of a group G. Then , H is a transitively normal subgroup of G .
+In other words , for any normal subgroup K of H , K is also normal in G.
+292
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_implies_transitively_normal&action=edit
+A join of finitely many direct factors of a group need not be a direct factor .
+More specifically , it is possible to have a group G and two subgroups H , K of G such that both H and K are direct factors and the join HK is not a direct factor .
+293
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_is_not_finite-join-closed&action=edit
+The intersection of two direct factors of a group need not be a direct factor .
+In fact , this property is not even true within p-groups .
+294
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_is_not_intersection-closed&action=edit
+We can have a subgroup H of a group G , and intermediate subgroups K ₁ and K ₂ such that H is a direct factor of K ₁ as well as a direct factor of K ₂ , but H is not a direct factor of the join of subgroups ⟨ K ₁ , K ₂ .
+295
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_is_not_upper_join-closed&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a direct factor of G and K/H is a direct factor of the quotient group G/H .
+Then K is a direct factor of G.
+296
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_is_quotient-transitive&action=edit
+Suppose G is a group and H ≤ K ≤ G. Suppose that H is a direct factor of K and K is a direct factor of G. Then , H is a direct factor of G.
+297
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_is_transitive&action=edit
+It is possible to have a group G and a direct factor H of G such that H is not a characteristic subgroup in the amalgamated free product L : = G * _ ( H ) G.
+298
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_not_implies_amalgam-characteristic&action=edit
+A direct factor of a group need not be a characteristic subgroup .
+299
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_not_implies_characteristic&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a direct factor of G. Then , H is also a direct factor of K.
+300
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_satisfies_intermediate_subgroup_condition&action=edit
+Suppose H is a subgroup of a group G that is a direct factor of G. Then , for every positive integer k , the lower central series member γ _ ( k ) ( H ) is a direct factor of γ _ ( k ) ( G ) .
+301
+https://groupprops.subwiki.org/w/index.php?title=Direct_factor_satisfies_lower_central_series_condition&action=edit
+The union of a nonempty directed set of subgroups of a group is again a subgroup .
+Suppose G is a group , I a nonempty directed set , and H _ ( i ) , i ∈ I is a collection of subgroups of G indexed by I , such that i ≤ j ⟹ H _ ( i ) ≤ H _ ( j ) .
+Then , the subset of G given by : ⋃ _ ( i ∈ I ) H _ ( i ) is also a subgroup of G.
+302
+https://groupprops.subwiki.org/w/index.php?title=Directed_union_of_subgroups_is_subgroup&action=edit
+Suppose G is a group and H is a central subgroup of G. Suppose p is a prime number such that : - H is p-divisible .
+- The quotient group G/H is p-divisible .
+Then , the whole group G is p-divisible .
+303
+https://groupprops.subwiki.org/w/index.php?title=Divisibility_is_central_extension-closed&action=edit
+Suppose G is a subgroup and H is a divisibility-closed subgroup of G , i.e. , if n is a natural number such that every element of G has an n ^ ( ( th ) \ root \ in \ G , \ then \ every \ element \ of \ H \ has \ a \ n ) ( th ) root in H. Then , H is also a powering-invariant subgroup of G , i.e. , if p is a prime number such that every element of G has a unique p ^ ( th ) root , then every element of H has a unique p ^ ( th ) root in H.
+304
+https://groupprops.subwiki.org/w/index.php?title=Divisibility-closed_implies_powering-invariant&action=edit
+It is possible to have a group G and a subgroup H satisfying the following : H is a divisibility-closed subgroup of G : If n is a natural number such that _ every _ element of G has a n ^ ( ( th ) root in G , then every element of H has a n ) ( th ) root in H. H is _ not _ a local divisibility-closed subgroup of G : There exists a natural number n and an element g ∈ H such that x ^ ( n ) = g has solutions for x ∈ G but no solution for x ∈ H.
+305
+https://groupprops.subwiki.org/w/index.php?title=Divisibility-closed_not_implies_local_divisibility-closed&action=edit
+It is possible to have a group G and subgroups H , K of G such that both H and K are divisibility-closed subgroups of G but the intersection of subgroups H ∩ K is not .
+In fact , we can choose our example so that G is a divisible abelian group , and hence , so are H and K.
+306
+https://groupprops.subwiki.org/w/index.php?title=Divisibility-closedness_is_not_finite-intersection-closed&action=edit
+It is possible to have a group G and subgroups H , K of G such that both H and K are divisibility-closed subgroups of G but the join of subgroups ⟨ H , K ⟩ is not a divisibility-closed subgroup of G.
+307
+https://groupprops.subwiki.org/w/index.php?title=Divisibility-closedness_is_not_finite-join-closed&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a divisibility-closed subgroup of K and K is a divisibility-closed subgroup of G. Then , H is a divisibility-closed subgroup of G.
+308
+https://groupprops.subwiki.org/w/index.php?title=Divisibility-closedness_is_transitive&action=edit
+It is possible for a divisible group ( i.e. , a group in which every element has a n ^ ( th ) root for every n ) to not be a rationally powered group ( i.e. , there is at least one element and one n for which the n ^ ( th ) root is not unique ) .
+309
+https://groupprops.subwiki.org/w/index.php?title=Divisible_not_implies_rationally_powered&action=edit
+If the double coset index of a subgroup in a group is two , i.e. , if the subgroup has precisely two double cosets , then the subgroup is a maximal subgroup .
+310
+https://groupprops.subwiki.org/w/index.php?title=Double_coset_index_two_implies_maximal&action=edit
+For any group action , the property of being two-transitive is stronger than being primitive .
+Any doubly transitive group action is primitive .
+311
+https://groupprops.subwiki.org/w/index.php?title=Doubly_transitive_implies_primitive&action=edit
+It is possible to have a group G and a subgroup H such that both the following hold : - H is an endomorph-dominating subgroup of G : For every endomorphism σ of G , there exists g ∈ G such that σ ( H ) ≤ gHg ^ ( − 1 ) .
+- H is _ not _ an automorph-conjugate subgroup of G : There exists an automorphism σ of G such that H and σ ( H ) are not conjugate subgroups .
+312
+https://groupprops.subwiki.org/w/index.php?title=Endomorph-dominating_not_implies_automorph-conjugate&action=edit
+Suppose G is a group and H is a subgroup of G that is an endomorphism image of G , i.e. , there exists an endomorphism σ of G such that σ ( G ) = H. Then , H is a divisibility-closed subgroup of G , i.e. , if n is a natural number such that every element of G has a n ^ ( th ) root ( not necessarily unique ) in G , then every element of H has a n ^ ( th ) root ( not necessarily unique ) in H.
+313
+https://groupprops.subwiki.org/w/index.php?title=Endomorphism_image_implies_divisibility-closed&action=edit
+Suppose G is a group and H is a subgroup of G that is an endomorphism image of G , i.e. , there exists an endomorphism σ of G such that σ ( G ) = H. Then , H is a powering-invariant subgroup of G , i.e. , if G is powered over a prime p ( i.e. , every element of G has a unique p ^ ( th ) root , so is H.
+314
+https://groupprops.subwiki.org/w/index.php?title=Endomorphism_image_implies_powering-invariant&action=edit
+It is possible to have a group G and subgroups H ≤ K ≤ G such that : H is an endomorphism kernel in G , i.e. , H is a normal subgroup of G and there is a subgroup M of G such that G/H ≅ M. H is _ not _ an endomorphism kernel in K.
+315
+https://groupprops.subwiki.org/w/index.php?title=Endomorphism_kernel_does_not_satisfy_intermediate_subgroup_condition&action=edit
+Suppose G is a group and H is an endomorphism kernel in G , i.e. , H is a normal subgroup of G and there is a subgroup K of G such that G/H ≅ K. Then , H is a quotient-powering-invariant subgroup of G , i.e. , for any prime number p such that G is p-powered , so is the quotient group G/H .
+316
+https://groupprops.subwiki.org/w/index.php?title=Endomorphism_kernel_implies_quotient-powering-invariant&action=edit
+It is possible to have groups H ≤ K ≤ G such that H is an endomorphism kernel in K , K is an endomorphism kernel in G , and H is _ not _ an endomorphism kernel in G.
+317
+https://groupprops.subwiki.org/w/index.php?title=Endomorphism_kernel_is_not_transitive&action=edit
+Suppose H ≤ K ≤ G are groups such that H is an endomorphism kernel in G and the quotient group K/H is an endomorphism kernel in G/H .
+( Note that it makes sense to take quotients because endomorphism kernel implies normal ) .
+Then , K is an endomorphism kernel in G.
+318
+https://groupprops.subwiki.org/w/index.php?title=Endomorphism_kernel_is_quotient-transitive&action=edit
+It is possible to have a group G ( in fact , we can choose G to be a finite group ) and a subgroup H of G such that H is an endomorphism kernel in G ( i.e. , there is an endomorphism of G with kernel H ) but H is _ not _ a complemented normal subgroup of G , i.e. , there is no permutable complement to H in G.
+319
+https://groupprops.subwiki.org/w/index.php?title=Endomorphism_kernel_not_implies_complemented_normal&action=edit
+Suppose G is a Z-group .
+In other words , G is a finite group with the property that every Sylow subgroup of G is cyclic , i.e. , is a cyclic Sylow subgroup .
+Then , G is a metacyclic group : it has a cyclic normal subgroup such that the quotient is also a cyclic group .
+Further , we can choose the cyclic normal subgroup so that the quotient acts faithfully on it , and hence , the quotient is a subgroup of the automorphism group of the original cyclic normal subgroup .
+322
+https://groupprops.subwiki.org/w/index.php?title=Every_Sylow_subgroup_is_cyclic_implies_metacyclic&action=edit
+Suppose G is a group in which every element is automorphic to its inverse .
+Suppose H is a characteristic subgroup of G. Then , H is also a group in which every element is automorphic to its inverse .
+323
+https://groupprops.subwiki.org/w/index.php?title=Every_element_is_automorphic_to_its_inverse_is_characteristic_subgroup-closed&action=edit
+Every finite division ring is a field , and hence , a finite field .
+Here , by division ring , we mean associative division ring .
+324
+https://groupprops.subwiki.org/w/index.php?title=Every_finite_division_ring_is_a_field&action=edit
+Suppose G is a group and S is a generating set for G. Then , G is isomorphic to a quotient group of a free group of rank equal to the cardinality of S .
+More specifically , we let T be a set in bijection with S , and F ( T ) be the free group on T , and we can construct a surjective homomorphism : F ( T ) → G which is the unique homomorphism sending each element in T to its image in S under the bijection .
+325
+https://groupprops.subwiki.org/w/index.php?title=Every_group_is_a_quotient_of_a_free_group&action=edit
+Let G be a group .
+Then , there exists a hypoabelian group K and a normal subgroup N of K such that G is isomorphic to the quotient group K/N .
+326
+https://groupprops.subwiki.org/w/index.php?title=Every_group_is_a_quotient_of_a_hypoabelian_group&action=edit
+Let G be a group .
+Then , there exists a residually finite group K and a normal subgroup N of K such that G is isomorphic to the quotient group K/N .
+327
+https://groupprops.subwiki.org/w/index.php?title=Every_group_is_a_quotient_of_a_residually_finite_group&action=edit
+Let G be a group .
+Then , there exists a residually nilpotent group K and a normal subgroup N of K such that G is isomorphic to the quotient group K/N .
+328
+https://groupprops.subwiki.org/w/index.php?title=Every_group_is_a_quotient_of_a_residually_nilpotent_group&action=edit
+Any group can be expressed as a union of cyclic subgroups .
+329
+https://groupprops.subwiki.org/w/index.php?title=Every_group_is_a_union_of_cyclic_subgroups&action=edit
+Suppose G is a group .
+Then , G , viewed as a subgroup of itself , is a characteristic subgroup , i.e. , any automorphism of G sends G to within itself .
+330
+https://groupprops.subwiki.org/w/index.php?title=Every_group_is_characteristic_in_itself&action=edit
+Suppose G is a group .
+Consider G as a subgroup of itself -- G is a normal subgroup of itself .
+331
+https://groupprops.subwiki.org/w/index.php?title=Every_group_is_normal_in_itself&action=edit
+Let H be a subgroup of ℤ , the group of integers under addition .
+Then , there are two possibilities : - H is the trivial subgroup , i.e. H = { 0 } - H contains a smallest positive element , say m , and H is the set of multiples of m. Thus , H is an infinite cyclic group generated by m , and is isomorphic to ℤ .
+We typically write H = mℤ .
+332
+https://groupprops.subwiki.org/w/index.php?title=Every_nontrivial_subgroup_of_the_group_of_integers_is_cyclic_on_its_smallest_element&action=edit
+Suppose G is a group and H is a normal subgroup of G. Suppose p is a prime number such that G is powered over p ( every element of G has a unique p ^ ( th ) root ) .
+Suppose that the quotient group G/H is also powered over p. Then , H is also powered over p. Suppose G is a group and H is a normal subgroup of G that is a quotient-powering-invariant subgroup : if G is powered over a prime p ( i.e. , every element of G has a unique p ^ ( th ) root ) , so is the quotient group G/H .
+Then , H is also a powering-invariant subgroup of H : if G is powered over a prime p , so is H.
+333
+https://groupprops.subwiki.org/w/index.php?title=Every_normal_subgroup_satisfies_the_quotient-to-subgroup_powering-invariance_implication&action=edit
+If every subgroup of a group is subnormal , then the group satisfies the normalizer condition : it has no proper self-normalizing subgroup .
+334
+https://groupprops.subwiki.org/w/index.php?title=Every_subgroup_is_subnormal_implies_normalizer_condition&action=edit
+Suppose G is a finite solvable group , and n is a natural number dividing the order of G .
+If there are exactly n elements of G whose n ^ ( th ) power is the identity element , then these elements form a subgroup .
+This subgroup is clearly a normal subgroup .
+In fact , it is a characteristic subgroup , and even better , is a fully characteristic subgroup , a homomorph-containing subgroup and a variety-containing subgroup .
+335
+https://groupprops.subwiki.org/w/index.php?title=Exactly_n_elements_of_order_dividing_n_in_a_finite_solvable_group_implies_the_elements_form_a_subgroup&action=edit
+It is possible to have a group G and an existentially bound-word subgroup H of G that is not a verbal subgroup of G.
+336
+https://groupprops.subwiki.org/w/index.php?title=Existentially_bound-word_not_implies_verbal&action=edit
+Every extensible automorphism of a group is a normal automorphism : it sends every normal subgroup of the group to itself .
+337
+https://groupprops.subwiki.org/w/index.php?title=Extensible_implies_normal&action=edit
+Any extensible automorphism of a group is a permutation-extensible automorphism .
+338
+https://groupprops.subwiki.org/w/index.php?title=Extensible_implies_permutation-extensible&action=edit
+Every extensible automorphism of a group must be a subgroup-conjugating automorphism : it must sned every subgroup to a conjugate subgroup .
+339
+https://groupprops.subwiki.org/w/index.php?title=Extensible_implies_subgroup-conjugating&action=edit
+Let G be a group .
+Suppose H is a subgroup of G satisfying the following two conditions : H is an extraspecial group [ G , H ] ≤ Z ( H ) ( i.e. , H is a commutator-in-center subgroup of G ) Then HC _ ( G ) ( H ) = G , i.e. , H is a central factor of G.
+340
+https://groupprops.subwiki.org/w/index.php?title=Extraspecial_commutator-in-center_subgroup_is_central_factor&action=edit
+Any extraspecial group is a Camina group .
+In other words , if P is a group of prime power order ( or more generally , a possibly infinite p-group ) such that the center , Frattini subgroup , and commutator subgroup of P all coincide and are cyclic of prime order , then P is a Camina group .
+341
+https://groupprops.subwiki.org/w/index.php?title=Extraspecial_implies_Camina&action=edit
+It is possible to have a FC-group G ( i.e. , every conjugacy class in G is finite ) that is not a BFC-group ( i.e. , there is no finite upper bound on the sizes of conjugacy classes ) .
+342
+https://groupprops.subwiki.org/w/index.php?title=FC_not_implies_BFC&action=edit
+It is possible for a group to be a FC-group but not to be a group with finite derived subgroup .
+343
+https://groupprops.subwiki.org/w/index.php?title=FC_not_implies_finite_derived_subgroup&action=edit
+If the inner automorphism group ( viz the quotient by the center ) of a group is finite , so is the derived subgroup .
+In fact , there is an explicit bound on the size of the commutator subgroup as a function of the size of the inner automorphism group .
+Let G be a group such that Inn ( G ) = G/Z ( G ) is finite .
+Then , G ′ = [ G , G ] is also finite .
+In fact , if | G/Z ( G ) | = n , then G ′ has size at most n ^ ( 2n ³ ) .
+The variety of abelian groups is a Schur-Baer variety .
+344
+https://groupprops.subwiki.org/w/index.php?title=FZ_implies_finite_derived_subgroup&action=edit
+Suppose G is a FZ-group ( i.e. , its center has finite index ) .
+Then , G is also a group satisfying generalized subnormal join property : an arbitrary join of subnormal subgroups of G is subnormal .
+345
+https://groupprops.subwiki.org/w/index.php?title=FZ_implies_generalized_subnormal_join_property&action=edit
+Suppose G is a finite N-group , i.e. , G is a finite group that is also a N-group , i.e. , the normalizer of any nontrivial solvable subgroup of G is solvable .
+Then , G is either a solvable group ( or equivalently , a finite solvable group ) or an almost simple group .
+The definition of almost simple that we will use here is : a group is almost simple if it has a centralizer-free non-abelian simple normal subgroup .
+346
+https://groupprops.subwiki.org/w/index.php?title=Finite_N-group_is_solvable_or_almost_simple&action=edit
+Suppose G is a finite abelian group ( i.e. , it is both a finite group and an abelian group ) .
+Let C ( G ) be the set of conjugacy classes of G and R ( G ) be the set of irreducible representations of G over ℂ .
+The automorphism group Aut ( G ) acts on the sets C ( G ) and R ( G ) .
+The claim is that the orbit sizes in both sets under the action of Aut ( G ) are the same .
+In other words , there is a size-preserving bijection between the sets of orbits in C ( G ) and R ( G ) .
+347
+https://groupprops.subwiki.org/w/index.php?title=Finite_abelian_implies_same_orbit_sizes_of_conjugacy_classes_and_irreducible_representations_under_automorphism_group&action=edit
+It is possible to have a group with finite derived subgroup ( i.e. , a group whose derived subgroup is a finite group ) that is not a FZ-group -- in other words , the index of the center is finite .
+348
+https://groupprops.subwiki.org/w/index.php?title=Finite_derived_subgroup_not_implies_FZ&action=edit
+Suppose G is a group and H and K are subgroups with H ≤ K ≤ G. Suppose H is a finite direct power-closed characteristic subgroup of G .
+Since characteristic implies normal , we can talk of the quotient group G/H .
+Suppose , further , that K/H is a finite direct power-closed characteristic subgroup of G/H .
+Then , K is also a finite direct power-closed characteristic subgroup of G.
+349
+https://groupprops.subwiki.org/w/index.php?title=Finite_direct_power-closed_characteristic_is_quotient-transitive&action=edit
+Suppose H ≤ K ≤ G are groups such that H is a finite direct power-closed characteristic subgroup of K and K is a finite direct power-closed characteristic subgroup of G. Then , H is a finite direct power-closed characteristic subgroup of G.
+350
+https://groupprops.subwiki.org/w/index.php?title=Finite_direct_power-closed_characteristic_is_transitive&action=edit
+It is possible to have a finite direct power-closed characteristic subgroup of a group that is _ not _ a fully invariant subgroup .
+351
+https://groupprops.subwiki.org/w/index.php?title=Finite_direct_power-closed_characteristic_not_implies_fully_invariant&action=edit
+An intersection of finitely many subgroups , each having finite double coset index in the whole group , need not have finite double coset index in the whole group .
+More specifically , it is possible to have two subgroups H , K ≤ G , both with finite double coset index in G , such that H ∩ K does not have finite double coset index in G.
+352
+https://groupprops.subwiki.org/w/index.php?title=Finite_double_coset_index_is_not_finite-intersection-closed&action=edit
+Suppose G is a finite group such that there are at least two conjugacy classes of involutions ( non-identity elements of order two ) in G. Then , if h is the maximum of the orders of all subgroups of G that arise as a centralizer of involution , we have : | G | < h ³ .
+353
+https://groupprops.subwiki.org/w/index.php?title=Finite_group_having_at_least_two_conjugacy_classes_of_involutions_has_order_less_than_the_cube_of_the_maximum_of_orders_of_centralizers_of_involutions&action=edit
+Suppose G is a group and H is a finite subgroup of G. Then , H is a local powering-invariant subgroup of G : for any g ∈ H and n ∈ ℕ such that the solution to x ^ ( n ) = g is unique for x ∈ G , we must have x ∈ H.
+354
+https://groupprops.subwiki.org/w/index.php?title=Finite_implies_local_powering-invariant&action=edit
+Suppose G is a group and H is a finite subgroup of G. Then , H is a powering-invariant subgroup of G. Explicitly , if p is a prime number such that G is powered over p , then H is also powered over p.
+355
+https://groupprops.subwiki.org/w/index.php?title=Finite_implies_powering-invariant&action=edit
+Any finite group satisfies the subnormal join property .
+In other words , a join of finitely many subnormal subgroups of a finite group is again subnormal .
+Note that since a finite group has only finitely many subnormal subgroups , this also shows that any finite group satisfies the generalized subnormal join property .
+356
+https://groupprops.subwiki.org/w/index.php?title=Finite_implies_subnormal_join_property&action=edit
+Suppose G is a group and H is a subgroup of finite index in G. Then , H is a completely divisibility-closed subgroup of G.
+357
+https://groupprops.subwiki.org/w/index.php?title=Finite_index_implies_completely_divisibility-closed&action=edit
+Suppose G is a group and H is a subgroup of finite index in G. Then , H is a powering-invariant subgroup of G .
+In other words , if p is a prime number such that G is powered over p , then H is also powered over p.
+358
+https://groupprops.subwiki.org/w/index.php?title=Finite_index_implies_powering-invariant&action=edit
+It is possible to have a group G and a subgroup of finite index H of G such that H is not a local powering-invariant subgroup of G , i.e. , there exists an element h ∈ H and a natural number n such that there is a unique solution u ∈ G to u ^ ( n ) = h , but u ∉ H .
+In fact , we can choose H to satisfy any of these additional constraints : - We can choose H to be a characteristic subgroup of finite index ; in fact , we can choose H to be the derived subgroup .
+- We can choose H to be a subgroup of index two .
+359
+https://groupprops.subwiki.org/w/index.php?title=Finite_index_not_implies_local_powering-invariant&action=edit
+Any finite minimal simple group is a 2-generated group : it has a generating set of size two .
+360
+https://groupprops.subwiki.org/w/index.php?title=Finite_minimal_simple_implies_2-generated&action=edit
+Suppose P is a non-abelian group of order 2 ^ ( n ) .
+Then , the following are equivalent for P : - P is a maximal class group , i.e. , its nilpotency class is n − 1 .
+- The abelianization of P has order four .
+Equivalently , the abelianization of P is a Klein four-group .
+Equivalently , the commutator subgroup of P has index four in P.
+361
+https://groupprops.subwiki.org/w/index.php?title=Finite_non-abelian_2-group_has_maximal_class_iff_its_abelianization_has_order_four&action=edit
+Any finite normal subgroup ( i.e. , a normal subgroup that is finite as a group ) is an amalgam-characteristic subgroup .
+Equivalently , a finite group is an always amalgam-characteristic group : it is an amalgam-characteristic subgroup in any group in which it is a normal subgroup .
+Suppose H is a finite normal subgroup of a group G. Then , H is a characteristic subgroup inside the amalgam K : = G * _ ( H ) G.
+362
+https://groupprops.subwiki.org/w/index.php?title=Finite_normal_implies_amalgam-characteristic&action=edit
+Suppose H is a finite normal subgroup of a group G. Then , H is an image-potentially characteristic subgroup of G : there exists a group K with a surjective homomorphism ρ : K → G and a characteristic subgroup L of K such that ρ ( L ) = H.
+363
+https://groupprops.subwiki.org/w/index.php?title=Finite_normal_implies_image-potentially_characteristic&action=edit
+Suppose G is a group and H is a finite normal subgroup of G. Then , H is a quotient-powering-invariant subgroup of G , i.e. , for any prime number p such that G is powered over p , so is the quotient group G/H .
+364
+https://groupprops.subwiki.org/w/index.php?title=Finite_normal_implies_quotient-powering-invariant&action=edit
+We can have a finite group G such that not every ordering of its composition factors arises from a composition series .
+365
+https://groupprops.subwiki.org/w/index.php?title=Finite_not_implies_composition_factor-permutable&action=edit
+The order of the composition factors for different composition series of a finite group need not be the same .
+In other words , it is possible to have two composition series : { e } = M ₀ ≤ M ₁ ≤ … ≤ M _ ( r ) = G and { e } = N ₀ ≤ N ₁ ≤ … ≤ N _ ( r ) = G. such that there is some i for which N _ ( i ) / N _ ( i − 1 ) is not isomorphic to M _ ( i ) / M _ ( i − 1 ) .
+366
+https://groupprops.subwiki.org/w/index.php?title=Finite_not_implies_composition_factor-unique&action=edit
+It is possible to have a group G ( in fact , we can choose G to be an abelian group ) and a finite subgroup H of G such that H is not a divisibility-closed subgroup of G .
+In other words , there exists a prime number p such that G is a p-divisible group but H is not a p-divisible group .
+In fact , we can construct an example of this sort for each prime number p.
+367
+https://groupprops.subwiki.org/w/index.php?title=Finite_not_implies_divisibility-closed_in_abelian_group&action=edit
+It is possible to have a finite solvable group G and a prime p such that G is not a p-normal group .
+In other words , there exists a p-Sylow subgroup P of G whose center Z ( P ) is not weakly closed in it .
+369
+https://groupprops.subwiki.org/w/index.php?title=Finite_solvable_not_implies_p-normal&action=edit
+It is possible to have a finite solvable group G of order n and a divisor d of n such that G has no subgroup of order d.
+370
+https://groupprops.subwiki.org/w/index.php?title=Finite_solvable_not_implies_subgroups_of_all_orders_dividing_the_group_order&action=edit
+A finite solvable group need not be a supersolvable group .
+In particular , a solvable group need not be supersolvable .
+Note that for a finite group , being solvable is equivalent to being a polycyclic group , so this also gives an example of a polycyclic group that is not supersolvable .
+371
+https://groupprops.subwiki.org/w/index.php?title=Finite_solvable_not_implies_supersolvable&action=edit
+Any finite solvable-extensible automorphism of a finite solvable group is a class-preserving automorphism .
+372
+https://groupprops.subwiki.org/w/index.php?title=Finite_solvable-extensible_implies_class-preserving&action=edit
+Suppose H is a finite solvable group and σ is a FINITE SOLVABLE-EXTENSIBLE AUTOMORPHISM : in other words , σ extends to an automorphism of G for any finite solvable group G containing H. Then , σ is an inner automorphism of H.
+373
+https://groupprops.subwiki.org/w/index.php?title=Finite_solvable-extensible_implies_inner&action=edit
+Suppose G is a finite supersolvable group : a finite group that is also supersolvable .
+Then , if d is a positive divisor of the order of G , G has a subgroup of order d.
+374
+https://groupprops.subwiki.org/w/index.php?title=Finite_supersolvable_implies_subgroups_of_all_orders_dividing_the_group_order&action=edit
+Suppose G is a finite group and σ is a finite-extensible automorphism of G. Then , σ is a Hall-semidirectly extensible automorphism of G.
+375
+https://groupprops.subwiki.org/w/index.php?title=Finite-extensible_implies_Hall-semidirectly_extensible&action=edit
+Any finite-extensible automorphism of a finite group is a class-preserving automorphism .
+376
+https://groupprops.subwiki.org/w/index.php?title=Finite-extensible_implies_class-preserving&action=edit
+Suppose H is a finite group and σ is a FINITE-EXTENSIBLE AUTOMORPHISM of H : in other words , σ extends to an automorphism of G for any finite group G containing H. Then , σ is an inner automorphism of H. Note that since any inner automorphism is extensible , this says that the property of being finite-extensible is equivalent to the property of being inner for a finite group .
+377
+https://groupprops.subwiki.org/w/index.php?title=Finite-extensible_implies_inner&action=edit
+Suppose G is a finite group and σ is a finite-extensible automorphism of G .
+In other words , for any finite group H containing G , there is an automorphism σ ′ of H whose restriction to G equals σ .
+Then , σ is a subgroup-conjugating automorphism of G : it sends every subgroup of G to a conjugate subgroup .
+This is a partial result towards the finite-extensible automorphisms conjecture .
+378
+https://groupprops.subwiki.org/w/index.php?title=Finite-extensible_implies_subgroup-conjugating&action=edit
+Suppose G is a finite group and σ is a finite-quotient-pullbackable automorphism of G. Then , σ is a class-preserving automorphism of G : it sends every element of G to within its conjugacy class .
+379
+https://groupprops.subwiki.org/w/index.php?title=Finite-quotient-pullbackable_implies_class-preserving&action=edit
+Suppose H is a finite group and σ is a finite-quotient-pullbackable automorphism of G : in other words , for any surjective homomorphism ρ : G → H , there is an automorphism σ ′ of G such that ρ ∘ σ ′ = σ ∘ ρ .
+Then , σ is an inner automorphism of G.
+380
+https://groupprops.subwiki.org/w/index.php?title=Finite-quotient-pullbackable_implies_inner&action=edit
+Any finitely generated abelian group is a Hopfian group .
+381
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_abelian_implies_Hopfian&action=edit
+Any finitely generated abelian group ( i.e. , an abelian group that is also a finitely generated group ) is a residually finite group -- for every non-identity element , there is a normal subgroup of finite index not containing it .
+382
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_abelian_implies_residually_finite&action=edit
+Any subgroup of a finitely generated abelian group is a finitely generated abelian group .
+In particular , any finitely generated abelian group is a Noetherian group -- every subgroup of it is also a finitely generated group .
+383
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_abelian_is_subgroup-closed&action=edit
+Any finitely generated free group is Hopfian : it is _ not _ isomorphic to any proper quotient of itself .
+384
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_and_free_implies_Hopfian&action=edit
+Any finitely generated nilpotent group is a Hopfian group .
+385
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_and_nilpotent_implies_Hopfian&action=edit
+It is possible to have a finitely generated parafree group that is _ not _ a finitely generated free group ( and hence , not a free group ) .
+In fact , the example we construct will be a finitely presented group .
+386
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_and_parafree_not_implies_free&action=edit
+Any finitely generated residually finite group ( i.e. , a group that is both finitely generated and residually finite ) is a Hopfian group .
+387
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_and_residually_finite_implies_Hopfian&action=edit
+There exists a finitely generated solvable group ( i.e. , a group that is both finitely generated and solvable ) that is not finitely presented , i.e. , it has _ no _ presentation with finitely many generators and finitely many relations .
+388
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_and_solvable_not_implies_finitely_presented&action=edit
+It is possible to have a finitely generated solvable group that is not a polycyclic group , and hence , not a Noetherian group , i.e. , it has a subgroup that is not finitely generated .
+389
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_and_solvable_not_implies_polycyclic&action=edit
+Any finitely generated group is a countable group .
+390
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_implies_countable&action=edit
+Any finitely generated group is a group in which every subgroup of finite index has finitely many automorphic subgroups .
+The statement has the following equivalent formulation : Suppose H is a subgroup of finite index in a finitely generated group G. Then , there are only finitely many subgroups K of G that are automorphic subgroups of H , i.e. , for which there exists an automorphism σ satisfying σ ( H ) = K. Suppose H is a subgroup of finite index in a finitely generated group G. Then , the characteristic core of H in G is also a subgroup of finite index in G. Suppose H is a subgroup of finite index in a finitely generated group G. Then , H contains a characteristic subgroup of finite index in G.
+391
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_implies_every_subgroup_of_finite_index_has_finitely_many_automorphic_subgroups&action=edit
+Suppose G is a finitely generated group .
+Then , G is a group with finitely many homomorphisms to any finite group .
+More explicitly , if K is a finite group , then the set of homomorphisms from G to K is finite .
+In fact , we have the following explicit upper bound on the number of homomorphisms : if the minimum size of generating set for G is d and the order of K is n , then the number of homomorphisms from G to K is n ^ ( d ) .
+Equality holds in the case that G is a finitely generated free group of rank d , though it may also hold in other cases .
+More generally , equality holds if G admits a quotient that is free of rank d in the subvariety of the variety of groups generated by K. For instance , if K is abelian , it suffics for G have a surjective homomorphism to a free abelian group of rank d.
+392
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_implies_finitely_many_homomorphisms_to_any_finite_group&action=edit
+Suppose G is a group with finitely generated inner automorphism group , i.e. , the inner automorphism group Inn ( G ) ( which is isomorphic to the quotient group G/Z ( G ) of G by its center Z ( G ) ) is a finitely generated group .
+Then , G is a group in which every locally inner automorphism is inner .
+In other words , for every locally inner automorphism σ of G ( i.e. , σ resembles an inner automorphism on any finite subset of G ) , σ is an inner automorphism of G.
+393
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_inner_automorphism_group_implies_every_locally_inner_automorphism_is_inner&action=edit
+The statement has the following equivalent formulations : A subgroup of a finitely generated group need not be finitely generated , i.e. , the property of being finitely generated is not a subgroup-closed group property .
+A finitely generated group need not be a slender group , i.e. , it may not be true that every subgroup of the group is also finitely generated .
+394
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_not_implies_Noetherian&action=edit
+There exists a finitely generated group that is not finitely presented , i.e. , it has _ no _ presentation with finitely many generators and finitely many relations .
+395
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_not_implies_finitely_presented&action=edit
+A finitely generated group need not be a residually finite group .
+In particular , the notion of finitely generated residually finite group is strictly stronger than the notion of finitely generated group .
+396
+https://groupprops.subwiki.org/w/index.php?title=Finitely_generated_not_implies_residually_finite&action=edit
+Suppose G is a group with finitely many homomorphisms to any finite group .
+Then , G is also a group in which every subgroup of finite index has finitely many automorphic subgroups .
+397
+https://groupprops.subwiki.org/w/index.php?title=Finitely_many_homomorphisms_to_any_finite_group_implies_every_subgroup_of_finite_index_has_finitely_many_automorphic_subgroups&action=edit
+A finitely presented conjugacy-separable group ( i.e. , a finitely presented group that is also a conjugacy-separable group ) is a group with solvable conjugacy problem .
+398
+https://groupprops.subwiki.org/w/index.php?title=Finitely_presented_and_conjugacy-separable_implies_solvable_conjugacy_problem&action=edit
+Any finitely presented residually finite group ( i.e. , a group that is both a finitely presented group and a residually finite group ) is a group with solvable word problem .
+399
+https://groupprops.subwiki.org/w/index.php?title=Finitely_presented_and_residually_finite_implies_solvable_word_problem&action=edit
+It is possible to have a finitely presented solvable group G -- a group G that is both a finitely presented group and a solvable group -- such that G is not a polycyclic group .
+In particular , this means that G is not a Noetherian group , i.e. , it has a subgroup that is not finitely generated .
+400
+https://groupprops.subwiki.org/w/index.php?title=Finitely_presented_and_solvable_not_implies_polycyclic&action=edit
+Suppose G is a finitely presented group having a finite presentation using a generating set S and relation set R. Then , for any finite group K and any set map from S to K , it is possible to determine in finite time whether the set map extends to a homomorphism from G to K. Note that this implies that all homomorphisms to K can be listed in finite time , because there are only finitely many candidate set maps from S to K.
+401
+https://groupprops.subwiki.org/w/index.php?title=Finitely_presented_implies_all_homomorphisms_to_any_finite_group_can_be_listed_in_finite_time&action=edit
+A finitely presented group ( i.e. , a group that admits a finite presentation ) need not be a Noetherian group ( also called _ slender group _ : a group in which every subgroup is finitely generated ) .
+402
+https://groupprops.subwiki.org/w/index.php?title=Finitely_presented_not_implies_Noetherian&action=edit
+Suppose G is a group with a normal subgroup H having quotient group G/H .
+Then , if both H and G/H are finite groups , G is also a finite group .
+403
+https://groupprops.subwiki.org/w/index.php?title=Finiteness_is_extension-closed&action=edit
+Let G be a group and φ : G → H be a homomorphism of groups .
+The FIRST ISOMORPHISM THEOREM states that the kernel of φ is a normal subgroup , say N , and there is a natural isomorphism : G/N ≅ φ ( G ) where φ ( G ) denotes the image in H of G under φ .
+More explicitly , if α : G → G/N is the quotient map , then there is a unique isomorphism ψ : G/N → φ ( G ) such that ψ ∘ α = φ .
+This is a special case of the more general statement .
+Let G be a group and φ : G → H be a _ surjective _ homomorphism of groups .
+Then , if N is the kernel of φ , we have : G/N ≅ H More explicitly , if α : G → G/N is the quotient map , then there is a unique isomorphism ψ : G/N → φ ( G ) such that ψ ∘ α = φ .
+- In the variety of groups , every _ ideal _ ( normal subgroup ) is a kernel - In the variety of groups , a congruence is completely determined by its kernel .
+In other words , simply knowing the inverse image of the identity element for a surjective homomorphism , determines the nature of the homomorphism .
+This is encoded by saying that the variety of groups is ideal-determined .
+404
+https://groupprops.subwiki.org/w/index.php?title=First_isomorphism_theorem&action=edit
+Suppose G is a group .
+Suppose B is a subgroup of the automorphism group of G. Suppose H is the subgroup of G comprising precisely those elements that are fixed by every element of B .
+In other words , H is a fixed-point subgroup of a subgroup of the automorphism group in G. Then , H is a local powering-invariant subgroup of G : if h ∈ H and n ∈ ℕ are such that there is a unique x ∈ G satisfying x ^ ( n ) = h , then x ∈ H.
+405
+https://groupprops.subwiki.org/w/index.php?title=Fixed-point_subgroup_of_a_subgroup_of_the_automorphism_group_implies_local_powering-invariant&action=edit
+Suppose G is a finite group and φ is a fixed-point-free automorphism of G of order four .
+Then G is a solvable group .
+406
+https://groupprops.subwiki.org/w/index.php?title=Fixed-point-free_automorphism_of_order_four_implies_solvable&action=edit
+Suppose G is a finite group and φ is an automorphism of G of order three .
+Then , G is a nilpotent group and g commutes with φ ( g ) for every g ∈ G.
+407
+https://groupprops.subwiki.org/w/index.php?title=Fixed-point-free_automorphism_of_order_three_implies_nilpotent&action=edit
+Let G be a finite group and σ : G → G be an automorphism that is involutive i.e. σ ² is the identity map .
+Suppose , further , that σ is fixed-point-free .
+Then , σ is the inverse map from G to itself and G is an odd-order abelian group .
+408
+https://groupprops.subwiki.org/w/index.php?title=Fixed-point-free_involution_on_finite_group_is_inverse_map&action=edit
+Suppose P is a p-Sylow subgroup of a finite group G and P ₀ is the focal subgroup of P in G .
+In particular , by the focal subgroup theorem , P ₀ = P ∩ [ G , G ] .
+Then , P ₀ is generated by the subgroups of the form [ H , N _ ( G ) ( H ) ] , where H ranges over all the non-identity tame Sylow intersections in G involving P ( Note that throwing in the identity adds nothing ) .
+409
+https://groupprops.subwiki.org/w/index.php?title=Focal_subgroup_of_a_Sylow_subgroup_is_generated_by_the_commutators_with_normalizers_of_non-identity_tame_intersections&action=edit
+Let P be a p-Sylow subgroup of a finite group G and let : P ₀ = ⟨ xy ^ ( ( − 1 ) ∣ x , y ∈ P , ∃ g ∈ G , gxg ) ( − 1 ) = y ⟩ .
+In other words , P ₀ is the focal subgroup of P in G. Then : P ∩ G ′ = P ₀ In other words , P is a subgroup whose focal subgroup equals its intersection with the commutator subgroup .
+410
+https://groupprops.subwiki.org/w/index.php?title=Focal_subgroup_theorem&action=edit
+Let G be a group and let N be a normal subgroup of G. Then , we have a bijection : Set of subgroups of G containing N ↔ Set of subgroups of G/N If φ : G → G/N is the quotient map , then this bijection is given by : H ↦ φ ( H ) in the forward direction , and : K ↦ φ ^ ( − 1 ) ( K ) in the reverse direction .
+Moreover : Under the bijection , normality is preserved .
+In other words , a subgroup containing N is normal if and only if its image under φ is normal .
+The bijection is an isomorphism between the lattice of subgroups of G containing N , and the lattice of subgroups of G/N .
+In other words , the bijection preserves partial order : A ≤ B if and only if φ ( A ) ≤ φ ( B ) .
+It also preserves intersections and joins .
+The bijection preserves index .
+If A , B are subgroups of G containing N , with A ≤ B , then [ B A ] = [ φ ( B ) φ ( A ) ] .
+411
+https://groupprops.subwiki.org/w/index.php?title=Fourth_isomorphism_theorem&action=edit
+The Frattini subgroup of any finite group is nilpotent .
+Let G be a finite group and Φ ( G ) denote the intersection of all maximal subgroups of G ( the so-called Frattini subgroup of G ) .
+412
+https://groupprops.subwiki.org/w/index.php?title=Frattini_subgroup_is_nilpotent_in_finite&action=edit
+The Frattini subgroup of any normal subgroup is contained in the Frattini subgroup of the whole group , provided the normal subgroup is a group in which every proper subgroup is contained in a maximal subgroup .
+( Note that this group property is always satisfied when the normal subgroup is a finite group , so for finite groups , the Frattini subgroup of a normal subgroup is always contained in the Frattini subgroup of the whole group ) .
+Let N be a normal subgroup of a group G , where N satisfies the property that every proper subgroup is contained in a maximal subgroup .
+Then , Φ ( N ) , the Frattini subgroup of N , is contained in Φ ( G ) , the Frattini subgroup of G .
+The subgroup-defining function that sends a group to its Frattini subgroup is a normal-monotone subgroup-defining function ( with some assumptions on the nature of the groups ) .
+413
+https://groupprops.subwiki.org/w/index.php?title=Frattini_subgroup_is_normal-monotone&action=edit
+Let H be a normal subgroup of G and P an automorph-conjugate subgroup of H. Then : HN _ ( G ) ( P ) = G where N _ ( G ) ( P ) denotes the normalizer of P in G. Let H be a normal subgroup of G and P a Sylow subgroup of H. Then : HN _ ( G ) ( P ) = G where N _ ( G ) ( P ) denotes the normalizer of P in G. Let H be a normal subgroup of G , P be a Sylow subgroup of H , and K be a characteristic subgroup of P .
+In other words , K is a characteristic subgroup of Sylow subgroup of H. Then : HN _ ( G ) ( K ) = G.
+414
+https://groupprops.subwiki.org/w/index.php?title=Frattini's_argument&action=edit
+Any Frattini-embedded normal-realizable group ( i.e. any group that occurs as a Frattini-embedded normal subgroup of some group ) must be an ACIC-group .
+415
+https://groupprops.subwiki.org/w/index.php?title=Frattini-embedded_normal-realizable_implies_every_automorph-conjugate_subgroup_is_characteristic&action=edit
+Suppose G is a Frattini-embedded normal-realizable group : in other words , G can be embedded in some group H as a Frattini-embedded normal subgroup .
+Then G satisfies the following condition : The inner automorphism group of G is a Frattini-embedded normal subgroup of the automorphism group of G.
+416
+https://groupprops.subwiki.org/w/index.php?title=Frattini-embedded_normal-realizable_implies_inner-in-automorphism-Frattini&action=edit
+Suppose p is an odd prime , and P is a finite p-group ( i.e. , a group of prime power order ) that is a Frattini-in-center group : the Frattini subgroup of P is contained in its center .
+Then , the map x ↦ x ^ ( p ) is an endomorphism of P. Note that this makes it a universal power endomorphism , i.e. , an endomorphism described everywhere as raising to a certain power .
+The endomorphism is nontrivial only if P does not itself have exponent p.
+417
+https://groupprops.subwiki.org/w/index.php?title=Frattini-in-center_odd-order_p-group_implies_p-power_map_is_endomorphism&action=edit
+Any subgroup of a free abelian group is a free abelian group .
+418
+https://groupprops.subwiki.org/w/index.php?title=Free_abelian_is_subgroup-closed&action=edit
+Suppose G = H * K , i.e. , G is a free product of subgroups H and K , so H is a free factor of G. Suppose further that H is a nontrivial group .
+Then , H is a self-normalizing subgroup of G : N _ ( G ) ( H ) = H.
+419
+https://groupprops.subwiki.org/w/index.php?title=Free_factor_implies_self-normalizing_or_trivial&action=edit
+In a free group , every subgroup is a descendant subgroup .
+420
+https://groupprops.subwiki.org/w/index.php?title=Free_implies_every_subgroup_is_descendant&action=edit
+Any free group is a residually finite group , i.e. , for every non-identity element of a free group , there is a normal subgroup of finite index in the whole group not containing that element .
+421
+https://groupprops.subwiki.org/w/index.php?title=Free_implies_residually_finite&action=edit
+Any free group is residually nilpotent group : the intersection of the terms of its finite lower central series is trivial .
+422
+https://groupprops.subwiki.org/w/index.php?title=Free_implies_residually_nilpotent&action=edit
+Every subgroup of a free group is again a free group .
+423
+https://groupprops.subwiki.org/w/index.php?title=Freeness_is_subgroup-closed&action=edit
+Let G be a finite group and p be a prime number .
+Then , the following are equivalent : G has a p-Sylow subgroup P that is conjugacy-closed in G : any two elements of P that are conjugate in G are conjugate in P .
+There is a normal p-complement in G : a normal subgroup whose index is a power of p and whose order is relatively prime to p .
+In other words , any p-Sylow subgroup is a retract of G. For every non-identity p-subgroup Q of G , the subgroup N _ ( G ) ( Q ) has a normal p-complement For every non-identity p-subgroup Q , the quotient N _ ( G ) ( Q ) / C _ ( G ) ( Q ) is a p-group .
+424
+https://groupprops.subwiki.org/w/index.php?title=Frobenius'_normal_p-complement_theorem&action=edit
+Suppose G is a group , K is a fully invariant subgroup of G , and φ : G → H is a surjective homomorphism .
+Then , φ ( K ) need not be fully invariant in H.
+425
+https://groupprops.subwiki.org/w/index.php?title=Full_invariance_does_not_satisfy_image_condition&action=edit
+It is possible to have groups H ≤ K ≤ G such that H is a fully invariant subgroup of G but H is not a fully invariant subgroup of K.
+426
+https://groupprops.subwiki.org/w/index.php?title=Full_invariance_does_not_satisfy_intermediate_subgroup_condition&action=edit
+Suppose H is a fully invariant subgroup of a group G. For any positive integer n , consider the external direct product of G with itself n , and denote this by G ^ ( ( n ) .
+\ Let \ H ) ( n ) be the subgroup comprising those elements where all coordinates are from within H. Then , H ^ ( n ) is a fully invariant subgroup of G ^ ( n ) .
+427
+https://groupprops.subwiki.org/w/index.php?title=Full_invariance_is_finite_direct_power-closed&action=edit
+It is possible to have a group G and a fully invariant subgroup H of G such that in the countable unrestricted direct power of G , the corresponding direct power of H is _ not _ a fully invariant subgroup .
+In the example used here , all groups involved are abelian groups .
+428
+https://groupprops.subwiki.org/w/index.php?title=Full_invariance_is_not_direct_power-closed&action=edit
+Suppose H ≤ K ≤ G are groups , such that H is a fully invariant subgroup of G and K/H is a fully invariant subgroup of G/H .
+Then , K is a fully invariant subgroup of G.
+429
+https://groupprops.subwiki.org/w/index.php?title=Full_invariance_is_quotient-transitive&action=edit
+Suppose G is a group , and H _ ( i ) , i ∈ I are fully invariant subgroups of G. Then , the join of subgroups ⟨ H _ ( i ) ⟩ is also a fully invariant subgroup .
+430
+https://groupprops.subwiki.org/w/index.php?title=Full_invariance_is_strongly_join-closed&action=edit
+Suppose H ≤ K ≤ G are groups ( in words , H is a subgroup of K and K is a subgroup of G ) .
+Then , if K is a fully invariant subgroup of G and H is a fully invariant subgroup of K , we have that H is a fully invariant subgroup of G.
+431
+https://groupprops.subwiki.org/w/index.php?title=Full_invariance_is_transitive&action=edit
+Suppose H is a fully invariant direct factor of a group G. Then , H is a left-transitively homomorph-containing subgroup of G : for any group K in which G is a homomorph-containing subgroup , H is also a homomorph-containing subgroup .
+432
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_direct_factor_implies_left-transitively_homomorph-containing&action=edit
+Any fully invariant subgroup ( also called fully characteristic subgroup ) of a group is a characteristic subgroup .
+433
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_implies_characteristic&action=edit
+Any fully invariant subgroup of a group is a finite direct power-closed characteristic subgroup .
+434
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_implies_finite_direct_power-closed_characteristic&action=edit
+Suppose L is a Lie ring of nilpotency class two and A is a fully invariant Lie subring of L. Then , A is an ideal of L.
+435
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_implies_ideal_for_class_two_Lie_ring&action=edit
+It is possible to have an abelian group A and a fully invariant subgroup B of A such that A is _ not _ an abelian-potentially verbal subgroup of B , i.e. , there is no abelian group C containing B such that A is a verbal subgroup of C.
+436
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_not_implies_abelian-potentially_verbal_in_abelian_group&action=edit
+It is possible to have a fully invariant subloop of a loop that is _ not _ a normal subloop .
+437
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_not_implies_normal_in_loops&action=edit
+A fully characteristic subgroup of a finite abelian group need not be a verbal subgroup .
+438
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_not_implies_verbal_in_finite_abelian_group&action=edit
+Fully invariant * Strictly characteristic ≤ Strictly characteristic Every fully invariant subgroup of a strictly characteristic subgroup is strictly characteristic .
+Let H ≤ K ≤ G such that H is fully invariant in K and K is strictly characteristic in G , then H is strictly characteristic in G.
+439
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_of_strictly_characteristic_implies_strictly_characteristic&action=edit
+It is possible to have an abelian group G and a fully invariant subgroup H of G such that H is not a divisibility-closed subgroup of G .
+In other words , there exists a prime number p such that G is p-divisible but H is not .
+440
+https://groupprops.subwiki.org/w/index.php?title=Fully_invariant_subgroup_of_abelian_group_not_implies_divisibility-closed&action=edit
+Suppose p is a prime number .
+Then , we can have a finite p-group P ( so , P is a group of prime power order where the prime is p ) and subgroups H , K of P such that both H and K are fusion system-relatively weakly closed subgroups of P but H ∩ K is not a fusion system-relatively weakly closed subgroup of P.
+441
+https://groupprops.subwiki.org/w/index.php?title=Fusion_system-relatively_weakly_closed_is_not_finite-intersection-closed&action=edit
+It is possible to have a group of prime power order P and a subgroup Q of P such that Q is a weakly closed subgroup of P relative to any fusion system on P , but Q is _ not _ an isomorph-normal subgroup of P : there is a subgroup of P isomorphic to Q that is _ not _ a normal subgroup of P. Thus , Q is a fusion system-relatively weakly closed subgroup and hence also a Sylow-relatively weakly closed subgroup of P that is not an isomorph-normal subgroup .
+442
+https://groupprops.subwiki.org/w/index.php?title=Fusion_system-relatively_weakly_closed_not_implies_isomorph-normal&action=edit
+Suppose p is a prime number and G is a finite group such that G is of Glauberman type for p. Then , the ZJ-functor for the prime p controls fusion in G.
+443
+https://groupprops.subwiki.org/w/index.php?title=Glauberman_type_implies_ZJ-functor_controls_fusion&action=edit
+It is possible to have a prime number p , a finite group G , and a normal subgroup N of G , such that G is a group of Glauberman type for p , but G/N is not .
+444
+https://groupprops.subwiki.org/w/index.php?title=Glauberman_type_is_not_quotient-closed&action=edit
+It is possible to have a prime number p and a finite group G such that G is a group of Glauberman type for p but is not a p-constrained group .
+445
+https://groupprops.subwiki.org/w/index.php?title=Glauberman_type_not_implies_p-constrained&action=edit
+Suppose p is an odd prime , and P is a p-group .
+Let 𝒜 ( P ) be the set of abelian subgroups of maximum order in P and J ( P ) be the join of abelian subgroups of maximum order : the subgroup of P generated by the members of 𝒜 ( P ) .
+Suppose B is a class two normal subgroup of P such that its derived subgroup is contained in the center of J ( P ) ( this center is also called the ZJ-subgroup of P ) in symbols : [ B , B ] ≤ Z ( J ( P ) ) .
+If A ∈ 𝒜 ( P ) is such that B does _ not _ normalize A , there exists A ^ ( * ) ∈ 𝒜 ( P ) such that : - A ∩ B is a proper subgroup of A ^ ( * ) ∩ B. - A ^ ( * ) normalizes A.
+446
+https://groupprops.subwiki.org/w/index.php?title=Glauberman's_replacement_theorem&action=edit
+Suppose p is an _ odd _ prime number , G is a p-stable group , and P is a p-Sylow subgroup .
+Suppose , further , that B is a nontrivial normal p-subgroup of G. Then , B ∩ Z ( J ( P ) ) is also a nontrivial normal p-subgroup of G.
+447
+https://groupprops.subwiki.org/w/index.php?title=Glauberman's_theorem_on_intersection_with_the_ZJ-subgroup&action=edit
+Suppose G is a finite group and p is an odd prime number .
+Let P be a p-Sylow subgroup .
+Then , if N _ ( G ) ( Z ( J ( P ) ) possesses a normal p-complement , so does G .
+In other words , P is a retract of G. For an odd prime p , the ZJ-functor is a characteristic p-functor that controls normal p-complements in every finite group .
+448
+https://groupprops.subwiki.org/w/index.php?title=Glauberman-Thompson_normal_p-complement_theorem&action=edit
+Let n be a positive integer .
+Then , there exists an infinite group G with a generating set of size n such that every subgroup generated by ( n − 1 ) elements is a finite group .
+In particular , this shows that there exist groups that are ( n − 1 ) - locally finite ( every subgroup generated by n − 1 elements is finite ) but not n-locally finite ( i.e. , there exist subgroups generated by n elements that are infinite ) , and therefore , in particular , not locally finite .
+449
+https://groupprops.subwiki.org/w/index.php?title=Golod's_theorem_on_locally_finite_groups&action=edit
+Suppose G is a finite group .
+Let ℂ denote the field of complex numbers .
+For each equivalence class of irreducible linear representation of G over ℂ , choose a basis such that the representation is unitary , i.e. , the image lies inside U ( n , ℂ ) .
+Note that this can be done , because linear representation of finite group over complex numbers has invariant Hermitian inner product .
+Now , consider the functions from G to ℂ obtained as the matrix entries for these representations .
+( There are n ² functions for each representation of degree n ) .
+Consider the usual Hermitian inner product on the space of complex-valued functions on G : $ \ langle f_1 , f_2 \ rangle = \ frac { 1 } { | G | } \ sum _ { g \ in G } f_1 ( g ) \ overline { f_2 ( g ) } $ Then : Any two matrix entry functions are orthogonal with respect to the inner product described above .
+The inner product of any matrix entry function with itself equals $ \ frac { 1 } { n } $ where n is the degree of the representation from which it is picked .
+Suppose G is a finite group .
+Let k be a splitting field for G such that the characteristic of k does not divide the order of G. For every equivalence class of irreducible linear representation of G over k , choose a basis .
+Now consider the functions from G to k obtained as the matrix entries of these representations .
+Consider the bilinear form for functions on the group : $ \ langle f_1 , f_2 \ rangle_G = \ frac { 1 } { | G | } \ sum _ { g \ in G } f_1 ( g ) f_2 ( g ^ { -1 } ) $ Then : Matrix entries for _ distinct _ irreducible representations are orthogonal to each other , i.e. , the inner product is zero .
+Matrix entries for the _ same _ irreducible representation have inner product 1/n iff the entries are _ transposes _ of each other , and have inner product zero otherwise .
+450
+https://groupprops.subwiki.org/w/index.php?title=Grand_orthogonality_theorem&action=edit
+Let G be a group .
+For any g ∈ G , define the map : c _ ( g ) : G → G given by : c _ ( g ) ( x ) : = gxg ^ ( − 1 ) ( this is termed _ conjugation _ by g or the _ inner automorphism _ induced by g ) .
+Then , the following are true : - For every g ∈ G , c _ ( g ) is an automorphism of G ( an automorphism arising this way is termed an inner automorphism ) .
+- The map from G to its automorphism group Aut ( G ) that sends an element g to the automorphism c _ ( g ) , is a homomorphism of groups .
+451
+https://groupprops.subwiki.org/w/index.php?title=Group_acts_as_automorphisms_by_conjugation&action=edit
+A group is a G-loop .
+In other words , if a group and an algebra loop are isotopic , then the algebra loop is also a group and the two groups are isomorphic .
+452
+https://groupprops.subwiki.org/w/index.php?title=Group_implies_G-loop&action=edit
+It is possible to have a finite group G , a Hall subgroup H , and a subgroup K of G such that H ∩ K is not a Sylow subgroup of K.
+453
+https://groupprops.subwiki.org/w/index.php?title=Hall_does_not_satisfy_transfer_condition&action=edit
+Any Hall subgroup of a finite group can be expressed as a join of Sylow subgroups .
+454
+https://groupprops.subwiki.org/w/index.php?title=Hall_implies_join_of_Sylow_subgroups&action=edit
+Any Hall subgroup of a Hall subgroup of a finite group , is a Hall subgroup in the whole group .
+456
+https://groupprops.subwiki.org/w/index.php?title=Hall_is_transitive&action=edit
+There exists a finite group G and a Hall subgroup H of G such that H is _ not _ a WNSCDIN-subgroup of G .
+In other words , there exist subsets A , B of H such that A and B are conjugate in G but not in N _ ( G ) ( H ) .
+457
+https://groupprops.subwiki.org/w/index.php?title=Hall_not_implies_WNSCDIN&action=edit
+A Hall subgroup of a group need not be conjugate to all its automorphs .
+458
+https://groupprops.subwiki.org/w/index.php?title=Hall_not_implies_automorph-conjugate&action=edit
+There can exist a finite group G and Hall subgroups H , K of G of the same order that are not conjugate in G.
+459
+https://groupprops.subwiki.org/w/index.php?title=Hall_not_implies_order-conjugate&action=edit
+Two Hall subgroups of the same order in a finite group , need not be isomorphic .
+460
+https://groupprops.subwiki.org/w/index.php?title=Hall_not_implies_order-isomorphic&action=edit
+A Hall subgroup of a group need not be procharacteristic .
+461
+https://groupprops.subwiki.org/w/index.php?title=Hall_not_implies_procharacteristic&action=edit
+We can have a finite group G and a Hall subgroup H of G such that H is not a pronormal subgroup of G.
+462
+https://groupprops.subwiki.org/w/index.php?title=Hall_not_implies_pronormal&action=edit
+Suppose G is a finite group and H is a Hall retract of G .
+In other words , H is a Hall subgroup of G that is also a retract : there exists a normal complement N to H in G. Note that N is thus a normal Hall subgroup .
+Assume , further , that either N or H is a solvable group .
+Then , if there is any subgroup K of G of the same order as H , H and K are conjugate subgroups .
+Note that the assumption that either N or H is a solvable group is superfluous because , as a corollary of the odd-order theorem , given two groups of coprime order , one of them is solvable .
+463
+https://groupprops.subwiki.org/w/index.php?title=Hall_retract_implies_order-conjugate&action=edit
+Any Hall subgroup of a finite group is also a Hall subgroup in any intermediate subgroup .
+464
+https://groupprops.subwiki.org/w/index.php?title=Hall_satisfies_intermediate_subgroup_condition&action=edit
+Suppose H is a Hall subgroup of a finite group G. Suppose , further , that K is a subgroup of G such that H and K are permuting subgroups -- in other words , HK = KH .
+Then , H ∩ K is a Hall subgroup of K.
+465
+https://groupprops.subwiki.org/w/index.php?title=Hall_satisfies_permuting_transfer_condition&action=edit
+Suppose G is a finite solvable group , and π is a prime set .
+Then , there exists a π-Hall subgroup of G : a subgroup whose order and index are relatively prime , and with the property that the set of prime divisors of its order is within π .
+466
+https://groupprops.subwiki.org/w/index.php?title=Hall_subgroups_exist_in_finite_solvable_group&action=edit
+Let G be a finite group and π be a set of prime numbers .
+Then , there need not exist a π-Hall subgroup of G .
+In other words , there need not exist a subgroup whose order and index are relatively prime , and where all prime factors of the order are in π .
+467
+https://groupprops.subwiki.org/w/index.php?title=Hall_subgroups_need_not_exist&action=edit
+Any Hall-extensible automorphism of a finite group is a class-preserving automorphism .
+468
+https://groupprops.subwiki.org/w/index.php?title=Hall-extensible_implies_class-preserving&action=edit
+Suppose H is a finite group and σ is a Hall-semidirectly extensible automorphism : in other words , H extends to an automorphism of G for any finite group G containing H as a Hall retract .
+Then , σ is an inner automorphism of H.
+469
+https://groupprops.subwiki.org/w/index.php?title=Hall-semidirectly_extensible_implies_inner&action=edit
+Suppose G is a finite group and σ is a Hall-semidirectly extensible automorphism of G. Then , if p is a prime not dividing the order of G , σ is a linearly pushforwardable automorphism with respect to the prime field of p elements .
+470
+https://groupprops.subwiki.org/w/index.php?title=Hall-semidirectly_extensible_implies_linearly_pushforwardable_over_prime_field&action=edit
+It is possible to have a finite group G and a normal subgroup H such that : - G satisfies the property that it has subgroups of every order dividing the order of G. - The quotient group G/H does _ not _ have this property , i.e. , there exists a positive divisor of the order of G/H such that G/H has no subgroup of that order .
+471
+https://groupprops.subwiki.org/w/index.php?title=Having_subgroups_of_all_orders_dividing_the_group_order_is_not_quotient-closed&action=edit
+It is possible to have a finite group G and a subgroup H such that : - G has subgroups of all orders dividing the order of G - H does not have subgroups of all orders dividing the order of H
+472
+https://groupprops.subwiki.org/w/index.php?title=Having_subgroups_of_all_orders_dividing_the_group_order_is_not_subgroup-closed&action=edit
+It is possible to have a finite group G , and a subgroup K of H such that : K is a hereditarily characteristic subgroup of G : For every subgroup H of K , H is a characteristic subgroup of G. K is _ not _ a cyclic group .
+473
+https://groupprops.subwiki.org/w/index.php?title=Hereditarily_characteristic_not_implies_cyclic_in_finite&action=edit
+Suppose L is a Lie ring and p is a prime number .
+Suppose φ is an automorphism of L of order p. Define : pL : = { px ∣ x ∈ L } where px is x added to itself p times .
+Denote by h ( p ) the value of Higman 's function of p. Denote by γ _ ( h ( p ) + 1 ) ( pL ) the ( h ( p ) + 1 ) ^ ( th ) member of the lower central series of pL .
+Then , γ _ ( h ( p ) + 1 ) ( pL ) is contained in the ideal of Lgenerated by C _ ( L ) ( φ ) .
+474
+https://groupprops.subwiki.org/w/index.php?title=Higman's_theorem_on_automorphism_of_prime_order_of_Lie_ring&action=edit
+It is possible to have a group G and a subgroup H such that : H is a homomorph-containing subgroup in G , i.e. , for any homomorphism in Hom ( H , G ) the image of H is contained in H. H is _ not _ a normal subgroup having no nontrivial homomorphism to its quotient group .
+In other words , there exists a nontrivial homomorphism from H to G/H .
+475
+https://groupprops.subwiki.org/w/index.php?title=Homomorph-containing_not_implies_no_nontrivial_homomorphism_to_quotient_group&action=edit
+Suppose H is a homomorph-containing subgroup of a group G. Let n be a natural number .
+Then , in the n ^ ( ( th ) \ direct \ power \ G ) ( n ) of G ( i.e. , the external direct product of G with itself n times ) the corresponding subgroup H ^ ( n ) is a homomorph-containing subgroup .
+476
+https://groupprops.subwiki.org/w/index.php?title=Homomorph-containment_is_finite_direct_power-closed&action=edit
+It is possible to have groups H ≤ K ≤ G such that H is a homomorph-containing subgroup of K and K is a homomorph-containing subgroup of G , but H is not a homomorph-containing subgroup of G.
+477
+https://groupprops.subwiki.org/w/index.php?title=Homomorph-containment_is_not_transitive&action=edit
+Suppose G is a group , and H ≤ K ≤ G are subgroups of G such that H is a homomorph-containing subgroup of G and K/H is a homomorph-containing subgroup of G/H .
+Then , K is a homomorph-containing subgroup of G.
+478
+https://groupprops.subwiki.org/w/index.php?title=Homomorph-containment_is_quotient-transitive&action=edit
+Suppose G is a group , I is an indexing set , and H _ ( i ) , i ∈ I , is a collection of homomorph-containing subgroups of G. Then , the join of subgroups ⟨ H _ ( i ) ⟩ _ ( i ∈ I ) is also a homomorph-containing subgroup of G.
+479
+https://groupprops.subwiki.org/w/index.php?title=Homomorph-containment_is_strongly_join-closed&action=edit
+A homomorph-containing subgroup of the whole group is also a homomorph-containing subgroup of any intermediate subgroup .
+Suppose H ≤ K ≤ G are groups , and H is a homomorph-containing subgroup of G. Then , H is also a homomorph-containing subgroup of K.
+480
+https://groupprops.subwiki.org/w/index.php?title=Homomorph-containment_satisfies_intermediate_subgroup_condition&action=edit
+It is possible to have a Hopfian group G and a subgroup H of G that is not Hopfian .
+481
+https://groupprops.subwiki.org/w/index.php?title=Hopfianness_is_not_subgroup-closed&action=edit
+It is possible for a group to be a hypoabelian group but _ not _ be an imperfect group .
+482
+https://groupprops.subwiki.org/w/index.php?title=Hypoabelian_not_implies_imperfect&action=edit
+The automorphism property of being an IA-automorphism does _ not imply _ the automorphism property of being a class-preserving automorphism .
+There exists a group with an IA-automorphism ( an automorphism that is identity on the Abelianization ) that does _ not _ send every element to within its conjugacy class .
+483
+https://groupprops.subwiki.org/w/index.php?title=IA_not_implies_class-preserving&action=edit
+There can exist a Lie ring L and a subring I of L such that I is an ideal of L and is not a derivation-invariant subring of L.
+484
+https://groupprops.subwiki.org/w/index.php?title=Ideal_not_implies_derivation-invariant&action=edit
+Suppose L is a Lie ring , S is an ideal of S , and C = C _ ( L ) ( S ) is the centralizer of S in L. Then , C is also an ideal of S.
+485
+https://groupprops.subwiki.org/w/index.php?title=Ideal_property_is_centralizer-closed&action=edit
+It is possible to have a Lie ring L , an ideal I of L , and an ideal J of I , such that J is _ not _ an ideal of L.
+486
+https://groupprops.subwiki.org/w/index.php?title=Ideal_property_is_not_transitive_for_Lie_rings&action=edit
+Suppose L is a Lie ring and I is a subring of L. Suppose A _ ( j ) are subrings of L both containing I. Then , if I is an ideal of each of the A _ ( j ) s , I is also an ideal of the Lie subring of L generated by the A _ ( j ) s.
+487
+https://groupprops.subwiki.org/w/index.php?title=Ideal_property_is_upper_join-closed_for_Lie_rings&action=edit
+Suppose H is an abelian Sylow subgroup of a finite group G. Then , H is a SCDIN-subgroup of G , i.e. , it is a subset-conjugacy-determined subgroup relative to its normalizer in G. Explicitly , given any two ( possibly equal ) subsets A , B of H , and any element g of G such that gAg ^ ( − 1 ) = B , there exists k ∈ N _ ( G ) ( H ) such that kak ^ ( ( − 1 ) = gag ) ( − 1 ) for all a ∈ A. Suppose G is a finite group and p is a prime number .
+Suppose one ( and hence every ) p-Sylow subgroup of G is an abelian Sylow subgroup .
+Consider the p-fusion in G .
+The identity functor , which is a function that sends every p-subgroup to itself , is a conjugacy functor that controls strong fusion in G .
+In other words , any bijection between subsets of a Sylow subgroup that is achieved via conjugation by an element of G can also be achieved via conjugation by an element in the normalizer of the Sylow subgroup .
+488
+https://groupprops.subwiki.org/w/index.php?title=Identity_functor_controls_strong_fusion_for_abelian_Sylow_subgroup&action=edit
+Suppose P is an abelian group of prime power order .
+Suppose ℱ is a saturated fusion system on P. Then , the identity functor ( i.e. , the functor sending a group to itself ) is a conjugacy functor that controls strong fusion on P. Any abelian group of prime power order is a resistant group of prime power order .
+489
+https://groupprops.subwiki.org/w/index.php?title=Identity_functor_controls_strong_fusion_for_saturated_fusion_system_on_abelian_group&action=edit
+It is possible to have a group G and an image-closed characteristic subgroup H of G such that H is a fully invariant subgroup of G.
+490
+https://groupprops.subwiki.org/w/index.php?title=Image-closed_characteristic_not_implies_fully_invariant&action=edit
+It is possible to have a group G and a subgroup H of G such that : - H is an image-closed fully invariant subgroup of G : for any surjective homomorphism ρ : G → K , ρ ( H ) is a fully invariant subgroup of K. - H is _ not _ a verbal subgroup of G.
+491
+https://groupprops.subwiki.org/w/index.php?title=Image-closed_fully_invariant_not_implies_verbal&action=edit
+It is possible for a group to be an imperfect group but not a hypoabelian group .
+In particular , it is possible for an imperfect group to not be a solvable group .
+492
+https://groupprops.subwiki.org/w/index.php?title=Imperfect_not_implies_hypoabelian&action=edit
+Any subgroup of index four ( i.e. , a subgroup of a group whose index in the whole group is four ) is either 2-subnormal or has double coset index two .
+493
+https://groupprops.subwiki.org/w/index.php?title=Index_four_implies_2-subnormal_or_double_coset_index_two&action=edit
+Suppose K ≤ H ≤ G are groups .
+Then , we have a natural surjective map between the left coset spaces : G/K → G/H with the property that the inverse image of each point has size equals to the size of the left coset space H/K .
+Suppose K ≤ H ≤ G are groups such that the indices [ G : H ] and [ H : K ] are finite .
+Then , we have : [ G K ] = [ G H ] [ H : K ] .
+In particular , if K has finite index in H and H has finite index in G , then K has finite index in G. Note also that if [ G : K ] is finite , then so are the other two indices , and we thus get : [ G K ] = [ G H ] [ H : K ] .
+Note that the statement makes sense even for infinite groups , if we interpret the cardinalities of the coset spaces as infinite cardinals and do the multiplication using the rules for product of cardinals .
+494
+https://groupprops.subwiki.org/w/index.php?title=Index_is_multiplicative&action=edit
+Any subgroup of index three ( i.e. , a subgroup of a group whose index is three ) , is either normal or has double coset index two : it has exactly two double cosets .
+495
+https://groupprops.subwiki.org/w/index.php?title=Index_three_implies_normal_or_double_coset_index_two&action=edit
+A subgroup of index two in a group need not be a characteristic subgroup .
+496
+https://groupprops.subwiki.org/w/index.php?title=Index_two_not_implies_characteristic&action=edit
+Any inner automorphism of a group is an IA-automorphism : it induces the identity map on the Abelianization of the group .
+497
+https://groupprops.subwiki.org/w/index.php?title=Inner_implies_IA&action=edit
