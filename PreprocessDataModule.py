@@ -77,7 +77,6 @@ class PreprocessClass(object):
         return result
 
     def preprocessing_data(self):
-        or_test_nlp = spacy.load('en_core_web_sm')
         for idx, sent in enumerate(self.instances):
             if idx % 100 == 0:
                 print('Done ', idx, ' of ', len(self.instances))
@@ -137,6 +136,64 @@ class PreprocessClass(object):
 
         self.X_wordpairs = np.array(self.X_wordpairs)
         self.X_deps = np.array(self.X_deps)
+
+    def preprocessed_one(self,sent):
+        object_json_data = json.loads(
+            self.nlp.annotate(sent, properties={'annotators': 'tokenize', 'outputFormat': 'json'}))
+        tokens = [k['word'].lower() for k in object_json_data['tokens']]
+        sent_matrix = []
+        for token in self.pad_words(tokens):
+            if token in self.my_vec_model.vocab:
+                # each word vector is embedding dim + length of one-hot encoded label
+                vec = np.concatenate([self.my_vec_model.model[token], np.zeros(len(self.ids2deps) + 1)])
+                sent_matrix.append(vec)
+            else:
+                sent_matrix.append(np.zeros(self.my_vec_model.dims + len(self.ids2deps) + 1))
+        sent_matrix_X = np.array(sent_matrix)
+
+        tokens = PreprocessClass.get_pair_words(object_json_data)
+        word_pairs = []
+        dep_pairs = []
+        for idx2, tok in tokens.items():
+            word_pairs.append((tok['parent_word'], tok['child_word']))
+            dep_pairs.append((tok['parent_dep'], tok['child_dep']))
+        self.pad_words(word_pairs, append_tuple=True)
+        self.pad_words(dep_pairs, append_tuple=True)
+        dep_labels = [j for i, j in dep_pairs]
+        avg_sent_matrix = []
+        avg_label_sent_matrix = []
+        for idx, word_pair in enumerate(word_pairs):
+            head, modifier = word_pair[0], word_pair[1]
+            if head in self.my_vec_model.vocab and not head == 'UNK':
+                head_vec = self.my_vec_model.model[head]
+            else:
+                head_vec = np.zeros(self.my_vec_model.dims)
+            if modifier in self.my_vec_model.vocab and not modifier == 'UNK':
+                modifier_vec = self.my_vec_model.model[modifier]
+            else:
+                modifier_vec = np.zeros(self.my_vec_model.dims)
+            avg = np.mean(np.array([head_vec, modifier_vec]), axis=0)
+            if dep_labels[idx] != 'UNK':
+                dep_idx = self.deps2ids[dep_labels[idx]]
+            else:
+                dep_idx = -1
+            dep_vec = np.zeros(len(self.deps2ids) + 1)
+            dep_vec[dep_idx] = 1
+            avg_label_vec = np.concatenate([avg, dep_vec])
+            avg_sent_matrix.append(np.concatenate([avg, np.zeros(len(self.deps2ids) + 1)]))
+            avg_label_sent_matrix.append(avg_label_vec)
+        sent_wp = np.array(avg_sent_matrix)
+        sent_labs = np.array(avg_label_sent_matrix)
+
+        if self.depth == 'ml':
+            sent_X = np.concatenate([sent_matrix_X, sent_labs], axis=1)
+        elif self.depth == 'm':
+            sent_X = np.concatenate([sent_matrix_X, sent_wp], axis=1)
+        else:
+            sent_X = sent_matrix_X
+        return sent_X
+
+
 
 
 

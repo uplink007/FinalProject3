@@ -59,6 +59,10 @@ if __name__ == '__main__':
     kfold = StratifiedKFold(n_splits=10,shuffle=True,random_state=42)
 
     scores = defaultdict(int)
+    test = "Let G be a group and H and K be subgroups of \
+            G we say that H and K are COMPLETION-EQUIVALENT \
+            if for any subgroup U , HU = G ⇔ KU =G."
+    unknown_class_sent = preprocessData.preprocessed_one(test)
     nlp.close()
     train = True
     nnmodel = None
@@ -83,9 +87,6 @@ if __name__ == '__main__':
     else:
         nnmodel = DLClass()
         nnmodel.model.load_model('/home/ubuntu/auto_de_only_wiki')
-        test = "Let G be a group and H and K be subgroups of \
-                G we say that H and K are COMPLETION-EQUIVALENT \
-                if for any subgroup U , HU = G ⇔ KU =G."
 
-        nnmodel.model.pre
+        nnmodel.model.predict(unknown_class_sent)
 

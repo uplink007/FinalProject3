@@ -51,3 +51,7 @@ vue-flask-template/.idea/vcs.xml
 vue-flask-template/.idea/vue-flask-template.iml
 vue-flask-template/.idea/workspace.xml
 vue-flask-template/package-lock.json
+__pycache__/DataModule.cpython-36.pyc
+__pycache__/DLModule.cpython-36.pyc
+__pycache__/PreprocessDataModule.cpython-36.pyc
+__pycache__/word2vec_module.cpython-36.pyc
