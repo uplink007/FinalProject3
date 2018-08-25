@@ -93,7 +93,7 @@ class PreprocessClass(object):
         return result
 
     def preprocessing_data(self):
-        if self.train:
+        if not self.train:
             self.load_all()
             return
         for idx, sent in enumerate(self.instances):
@@ -158,7 +158,7 @@ class PreprocessClass(object):
         self.__set_depth()
         self.save_stats()
 
-    def preprocessed_one(self,sent,ids_len,max_length):
+    def preprocessed_one(self, sent):
         object_json_data = json.loads(self.nlp.annotate(sent, properties={'annotators': 'tokenize', 'outputFormat': 'json'}))
         tokens = [k['word'].lower() for k in object_json_data['tokens']]
         sent_matrix = []
@@ -230,9 +230,9 @@ class PreprocessClass(object):
         self.save_obj(self.maxlen,"maxlen")
 
     def load_all(self):
-        self.ids2deps = self.load_obj(self.ids2deps,"ids2deps")
-        self.deps2ids = self.load_obj(self.deps2ids,"deps2ids")
-        self.maxlen = self.load_obj(self.maxlen,"maxlen")
+        self.ids2deps = self.load_obj("ids2deps")
+        self.deps2ids = self.load_obj("deps2ids")
+        self.maxlen = self.load_obj("maxlen")
 
 
 
