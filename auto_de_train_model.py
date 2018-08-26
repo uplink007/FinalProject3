@@ -18,7 +18,7 @@ from DLModule import DLClass
 
 def predict(preproc, sent, nnmodel):
     unknown_class_sent = preproc.preprocessed_one(sent)
-    return nnmodel.model.predict(unknown_class_sent)
+    return nnmodel.model.predict_classes(unknown_class_sent)
 
 
 def main():
