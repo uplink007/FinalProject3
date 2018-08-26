@@ -1,7 +1,15 @@
 from flask import Flask, request #import main Flask class and request object
 from auto_de_train_model import predict,main
 
-app = Flask(__name__) #create the Flask app
+parms = None
+
+app = Flask(__name__)
+
+
+@app.before_first_request
+def initialize():
+    global parms
+    parms = main()
 
 
 @app.route('/query-example')
@@ -129,5 +137,4 @@ def json_example():
 
 
 if __name__ == '__main__':
-    parms = main()
     app.run(debug=True, port=5000)

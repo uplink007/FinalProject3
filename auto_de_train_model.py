@@ -15,10 +15,10 @@ from word2vec_module import MyWord2vec
 from PreprocessDataModule import PreprocessClass
 from DLModule import DLClass
 
-#coment 2
+
 def predict(preproc, sent, nnmodel):
     unknown_class_sent = preproc.preprocessed_one(sent)
-    return nnmodel.model.predict(unknown_class_sent)
+    return nnmodel.model.predict_classes(unknown_class_sent)
 
 
 def main():
@@ -54,11 +54,21 @@ def main():
         dataset = DataClass(path_to_data)
     modelwords = MyWord2vec(path_to_word_2_vec)
     # ("/home/ubuntu/Project/FinalProject/", "wiki.en.vec")
-    modelwords.load_embeddings()
     try:
-        modelwords.model["check"]
-    except:
-        print('word2vec not configure')
+        word2vec
+    except NameError:
+        var_exists = False
+    else:
+        var_exists = True
+
+    if not var_exists:
+        modelwords.load_embeddings()
+        try:
+            modelwords.model["check"]
+            word2vec = True
+        except:
+            word2vec = False
+            print('word2vec not configure')
 
     preprocessData = PreprocessClass(dataset, modelwords, nlp, "ml",train)
     preprocessData.getMaxLength()
