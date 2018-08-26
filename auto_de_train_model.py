@@ -15,7 +15,7 @@ from word2vec_module import MyWord2vec
 from PreprocessDataModule import PreprocessClass
 from DLModule import DLClass
 
-
+#coment 2
 def predict(preproc, sent, nnmodel):
     unknown_class_sent = preproc.preprocessed_one(sent)
     return nnmodel.model.predict(unknown_class_sent)
