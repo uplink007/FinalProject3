@@ -8,6 +8,7 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import precision_score as precision
 from sklearn.metrics import recall_score as recall
 from sklearn.metrics import f1_score
+import tensorflow as tf
 
 from DataModule import DataClass
 from word2vec_module import MyWord2vec
@@ -15,10 +16,8 @@ from PreprocessDataModule import PreprocessClass
 from DLModule import DLClass
 
 
-def predict(preproc, sent, path):
+def predict(preproc, sent, nnmodel):
     unknown_class_sent = preproc.preprocessed_one(sent)
-    nnmodel = DLClass()
-    nnmodel.model = load_model(path)
     return nnmodel.model.predict(unknown_class_sent)
 
 
@@ -66,7 +65,10 @@ def main():
     preprocessData.preprocessing_data()
 
     if not train:
-        return {"preproc": preprocessData,"path": path_to_our_model}
+        nnmodel = DLClass()
+        nnmodel.model = load_model(path_to_our_model)
+        graph = tf.get_default_graph()
+        return {"preproc": preprocessData, 'nnmodel': nnmodel.model, 'graph': graph}
 
     predict(preprocessData, "A wiki is a Web site that allows users to add and update content"
                             " on the site using their own Web browser.", path_to_our_model)

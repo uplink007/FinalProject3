@@ -13,12 +13,13 @@ def query_example():
 @app.route('/form-example', methods=['GET', 'POST']) #allow both GET and POST requests
 def form_example():
     if request.method == 'POST': #this block is only entered when the form is submitted
-        pred = predict(parms['preproc'], request.form.get('language'), parms['path'])
-        if pred.__float__() >0.5:
-            msg = "Sorry, but this sentence is not a definition"
-        else:
-            msg = "We think this may be a definition"
-        return '''<!DOCTYPE html>
+        with parms['graph'].as_default():
+            pred = predict(parms['preproc'], request.form.get('language'), parms['nnmodel'])
+            if pred.__float__() >0.5:
+                msg = "Sorry, but this sentence is not a definition"
+            else:
+                msg = "We think this may be a definition"
+            return '''<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
